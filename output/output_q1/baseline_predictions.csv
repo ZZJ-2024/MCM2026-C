@@ -1,0 +1,2299 @@
+Season,Week,Contestant,Est_Fan_Votes,Judge Score,Official Result,Model
+1,2,John O'Hurley,0.16295547996949414,26.0,Safe,Baseline
+1,2,Kelly Monaco,0.20067985448076758,17.0,Safe,Baseline
+1,2,Evander Holyfield,0.2468130114734011,14.0,Safe,Baseline
+1,2,Rachel Hunter,0.16483012577354234,24.0,Safe,Baseline
+1,2,Joey McIntyre,0.1769431588001936,21.0,Safe,Baseline
+1,2,Trista Sutter,0.04777836950260106,19.0,Eliminated,Baseline
+1,3,John O'Hurley,0.21257383112331665,24.0,Safe,Baseline
+1,3,Kelly Monaco,0.2535159768004469,21.0,Safe,Baseline
+1,3,Evander Holyfield,0.11296465011571977,13.0,Eliminated,Baseline
+1,3,Rachel Hunter,0.2086385170801789,26.0,Safe,Baseline
+1,3,Joey McIntyre,0.2123070248803368,22.0,Safe,Baseline
+1,4,John O'Hurley,0.2624777613760679,21.0,Safe,Baseline
+1,4,Kelly Monaco,0.2267640313304193,26.0,Safe,Baseline
+1,4,Rachel Hunter,0.08210160041502129,25.0,Eliminated,Baseline
+1,4,Joey McIntyre,0.428656606878491,20.0,Safe,Baseline
+2,1,Tatum O'Neal,0.10413121892178465,23.0,Safe,Baseline
+2,1,Tia Carrere,0.10381472478272842,20.0,Safe,Baseline
+2,1,George Hamilton,0.12133764662618034,18.0,Safe,Baseline
+2,1,Lisa Rinna,0.10996167724673024,19.0,Safe,Baseline
+2,1,Stacy Keibler,0.10372085560589042,22.0,Safe,Baseline
+2,1,Jerry Rice,0.09936558795547304,21.0,Safe,Baseline
+2,1,Giselle Fernandez,0.10119877400343505,23.0,Safe,Baseline
+2,1,Master P,0.12523088394508536,12.0,Safe,Baseline
+2,1,Drew Lachey,0.1028668787208798,24.0,Safe,Baseline
+2,1,Kenny Mayne,0.028371752191812392,13.0,Eliminated,Baseline
+2,2,Tatum O'Neal,0.03407213787701602,17.0,Eliminated,Baseline
+2,2,Tia Carrere,0.11541595706167956,22.0,Safe,Baseline
+2,2,George Hamilton,0.11962890005325368,22.0,Safe,Baseline
+2,2,Lisa Rinna,0.12756685236878693,20.0,Safe,Baseline
+2,2,Stacy Keibler,0.113764915374702,29.0,Safe,Baseline
+2,2,Jerry Rice,0.11508882050531827,23.0,Safe,Baseline
+2,2,Giselle Fernandez,0.11777880588892127,24.0,Safe,Baseline
+2,2,Master P,0.14156481992037426,16.0,Safe,Baseline
+2,2,Drew Lachey,0.1151187909499484,27.0,Safe,Baseline
+2,3,Tia Carrere,0.12268577017456427,26.0,Safe,Baseline
+2,3,George Hamilton,0.13816936720879128,22.0,Safe,Baseline
+2,3,Lisa Rinna,0.12835201257385218,25.0,Safe,Baseline
+2,3,Stacy Keibler,0.12264558727807834,27.0,Safe,Baseline
+2,3,Jerry Rice,0.15076497078353404,19.0,Safe,Baseline
+2,3,Giselle Fernandez,0.03218603081213836,22.0,Eliminated,Baseline
+2,3,Master P,0.17604727883140173,14.0,Safe,Baseline
+2,3,Drew Lachey,0.12914898233763988,27.0,Safe,Baseline
+2,4,Tia Carrere,0.15626481946312762,25.0,Safe,Baseline
+2,4,George Hamilton,0.1775184600539448,21.0,Safe,Baseline
+2,4,Lisa Rinna,0.14843008137835378,26.0,Safe,Baseline
+2,4,Stacy Keibler,0.14852084213179853,26.0,Safe,Baseline
+2,4,Jerry Rice,0.15994424545114005,24.0,Safe,Baseline
+2,4,Master P,0.06310972654041912,8.0,Eliminated,Baseline
+2,4,Drew Lachey,0.14621182498121701,28.0,Safe,Baseline
+2,5,Tia Carrere,0.08087367515857506,22.0,Eliminated,Baseline
+2,5,George Hamilton,0.18485283714624587,24.0,Safe,Baseline
+2,5,Lisa Rinna,0.16918859036950687,25.0,Safe,Baseline
+2,5,Stacy Keibler,0.17285634999289734,30.0,Safe,Baseline
+2,5,Jerry Rice,0.2115705075488798,23.0,Safe,Baseline
+2,5,Drew Lachey,0.1806580397838952,27.0,Safe,Baseline
+2,6,George Hamilton,0.08200659027010135,23.0,Eliminated,Baseline
+2,6,Lisa Rinna,0.22435833638366143,27.0,Safe,Baseline
+2,6,Stacy Keibler,0.19912499031492248,30.0,Safe,Baseline
+2,6,Jerry Rice,0.28721233766423676,23.0,Safe,Baseline
+2,6,Drew Lachey,0.20729774536707846,30.0,Safe,Baseline
+2,7,Lisa Rinna,0.11202639495529029,26.5,Eliminated,Baseline
+2,7,Stacy Keibler,0.26278452583906337,27.5,Safe,Baseline
+2,7,Jerry Rice,0.3586501357298793,20.5,Safe,Baseline
+2,7,Drew Lachey,0.2665389434757669,27.5,Safe,Baseline
+3,1,Harry Hamlin,0.09090909090909091,17.0,Safe,Baseline
+3,1,Vivica A. Fox,0.09090909090909091,22.0,Safe,Baseline
+3,1,Monique Coleman,0.09090909090909091,19.0,Safe,Baseline
+3,1,Joey Lawrence,0.09090909090909091,21.0,Safe,Baseline
+3,1,Mario Lopez,0.09090909090909091,26.0,Safe,Baseline
+3,1,Emmitt Smith,0.09090909090909091,24.0,Safe,Baseline
+3,1,Shanna Moakler,0.09090909090909091,18.0,Safe,Baseline
+3,1,Willa Ford,0.09090909090909091,22.0,Safe,Baseline
+3,1,Sara Evans,0.09090909090909091,15.0,Safe,Baseline
+3,1,Jerry Springer,0.09090909090909091,16.0,Safe,Baseline
+3,1,Tucker Carlson,0.09090909090909091,12.0,Eliminated,Baseline
+3,2,Harry Hamlin,0.1,21.0,Safe,Baseline
+3,2,Vivica A. Fox,0.1,24.0,Safe,Baseline
+3,2,Monique Coleman,0.1,26.0,Safe,Baseline
+3,2,Joey Lawrence,0.1,29.0,Safe,Baseline
+3,2,Mario Lopez,0.1,21.0,Safe,Baseline
+3,2,Emmitt Smith,0.1,24.0,Safe,Baseline
+3,2,Shanna Moakler,0.09347326086956521,22.0,Eliminated,Baseline
+3,2,Willa Ford,0.1,23.0,Safe,Baseline
+3,2,Sara Evans,0.1,21.0,Safe,Baseline
+3,2,Jerry Springer,0.1065267391304348,19.0,Safe,Baseline
+3,3,Harry Hamlin,0.1038597342995169,22.0,Eliminated,Baseline
+3,3,Vivica A. Fox,0.1111111111111111,27.0,Safe,Baseline
+3,3,Monique Coleman,0.1111111111111111,27.0,Safe,Baseline
+3,3,Joey Lawrence,0.1111111111111111,22.0,Safe,Baseline
+3,3,Mario Lopez,0.1111111111111111,22.0,Safe,Baseline
+3,3,Emmitt Smith,0.11836248792270529,19.0,Safe,Baseline
+3,3,Willa Ford,0.1111111111111111,22.0,Safe,Baseline
+3,3,Sara Evans,0.1111111111111111,25.0,Safe,Baseline
+3,3,Jerry Springer,0.1111111111111111,21.0,Safe,Baseline
+3,4,Vivica A. Fox,0.11489232323232323,24.0,Eliminated,Baseline
+3,4,Monique Coleman,0.125,24.0,Safe,Baseline
+3,4,Joey Lawrence,0.125,27.0,Safe,Baseline
+3,4,Mario Lopez,0.125,29.0,Safe,Baseline
+3,4,Emmitt Smith,0.125,24.0,Safe,Baseline
+3,4,Willa Ford,0.125,28.0,Safe,Baseline
+3,4,Sara Evans,0.13510434343434344,20.0,Safe,Baseline
+3,4,Jerry Springer,0.12500333333333333,22.0,Safe,Baseline
+3,5,Monique Coleman,0.14285714285714285,27.0,Safe,Baseline
+3,5,Joey Lawrence,0.14285964285714287,25.0,Safe,Baseline
+3,5,Mario Lopez,0.14285714285714285,27.0,Safe,Baseline
+3,5,Emmitt Smith,0.14285714285714285,27.0,Safe,Baseline
+3,5,Willa Ford,0.13179991910023675,27.0,Eliminated,Baseline
+3,5,Sara Evans,0.14838450473559586,24.0,Safe,Baseline
+3,5,Jerry Springer,0.14838450473559586,24.0,Safe,Baseline
+3,7,Monique Coleman,0.16666666665696536,27.0,Safe,Baseline
+3,7,Joey Lawrence,0.16666666665696536,28.5,Safe,Baseline
+3,7,Mario Lopez,0.1666666666569654,28.0,Safe,Baseline
+3,7,Emmitt Smith,0.1666666666569654,28.5,Safe,Baseline
+3,7,Sara Evans,0.2518568518712544,0.0,Safe,Baseline
+3,7,Jerry Springer,0.08147648150088399,23.0,Eliminated,Baseline
+3,8,Monique Coleman,0.07843536697247713,26.5,Eliminated,Baseline
+3,8,Joey Lawrence,0.2,27.0,Safe,Baseline
+3,8,Mario Lopez,0.2,28.5,Safe,Baseline
+3,8,Emmitt Smith,0.2,27.0,Safe,Baseline
+3,8,Sara Evans,0.3215646330275229,0.0,Safe,Baseline
+4,2,John Ratzenberger,0.09090909090909091,21.0,Safe,Baseline
+4,2,Ian Ziering,0.09090909090909091,22.0,Safe,Baseline
+4,2,Clyde Drexler,0.09703653988868274,18.0,Safe,Baseline
+4,2,Laila Ali,0.09090909090909091,27.0,Safe,Baseline
+4,2,Apolo Anton Ohno,0.09090909090909091,26.0,Safe,Baseline
+4,2,Shandi Finnessey,0.09090909090909091,20.0,Safe,Baseline
+4,2,Paulina Porizkova,0.08478164192949908,21.0,Eliminated,Baseline
+4,2,Heather Mills,0.09090909090909091,24.0,Safe,Baseline
+4,2,Billy Ray Cyrus,0.09090909090909091,21.0,Safe,Baseline
+4,2,Joey Fatone,0.09090909090909091,24.0,Safe,Baseline
+4,2,Leeza Gibbons,0.09090909090909091,21.0,Safe,Baseline
+4,3,John Ratzenberger,0.09999999999981811,20.0,Safe,Baseline
+4,3,Ian Ziering,0.09999999999981811,24.0,Safe,Baseline
+4,3,Clyde Drexler,0.11147288990898448,16.0,Safe,Baseline
+4,3,Laila Ali,0.09999999999981811,21.0,Safe,Baseline
+4,3,Apolo Anton Ohno,0.09999999999981811,23.0,Safe,Baseline
+4,3,Shandi Finnessey,0.08852711009247072,21.0,Eliminated,Baseline
+4,3,Heather Mills,0.09999999999981811,24.0,Safe,Baseline
+4,3,Billy Ray Cyrus,0.09999999999981811,21.0,Safe,Baseline
+4,3,Joey Fatone,0.09999999999981811,24.0,Safe,Baseline
+4,3,Leeza Gibbons,0.09999999999981811,24.0,Safe,Baseline
+4,4,John Ratzenberger,0.11111111111111112,16.0,Safe,Baseline
+4,4,Ian Ziering,0.11111111111111112,24.0,Safe,Baseline
+4,4,Clyde Drexler,0.11374769005847954,15.0,Safe,Baseline
+4,4,Laila Ali,0.11111111111111112,21.0,Safe,Baseline
+4,4,Apolo Anton Ohno,0.11111111111111112,26.0,Safe,Baseline
+4,4,Heather Mills,0.11111111111111112,23.0,Safe,Baseline
+4,4,Billy Ray Cyrus,0.11111111111111112,21.0,Safe,Baseline
+4,4,Joey Fatone,0.11111111111111112,28.0,Safe,Baseline
+4,4,Leeza Gibbons,0.10847453216374268,16.0,Eliminated,Baseline
+4,5,John Ratzenberger,0.125,18.0,Safe,Baseline
+4,5,Ian Ziering,0.125,24.0,Safe,Baseline
+4,5,Clyde Drexler,0.125,13.0,Eliminated,Baseline
+4,5,Laila Ali,0.125,28.0,Safe,Baseline
+4,5,Apolo Anton Ohno,0.125,30.0,Safe,Baseline
+4,5,Heather Mills,0.125,21.0,Safe,Baseline
+4,5,Billy Ray Cyrus,0.125,17.0,Safe,Baseline
+4,5,Joey Fatone,0.125,25.0,Safe,Baseline
+4,6,John Ratzenberger,0.1546251820731756,19.0,Safe,Baseline
+4,6,Ian Ziering,0.14285714285688303,24.0,Safe,Baseline
+4,6,Laila Ali,0.14285714285688303,28.0,Safe,Baseline
+4,6,Apolo Anton Ohno,0.14285714285688303,28.0,Safe,Baseline
+4,6,Heather Mills,0.1310857703084697,23.0,Eliminated,Baseline
+4,6,Billy Ray Cyrus,0.14286047619082268,21.0,Safe,Baseline
+4,6,Joey Fatone,0.14285714285688303,27.0,Safe,Baseline
+4,7,John Ratzenberger,0.15533480582524273,22.5,Eliminated,Baseline
+4,7,Ian Ziering,0.16666666666666669,27.0,Safe,Baseline
+4,7,Laila Ali,0.16666666666666669,29.5,Safe,Baseline
+4,7,Apolo Anton Ohno,0.16666666666666669,27.0,Safe,Baseline
+4,7,Billy Ray Cyrus,0.17799852750809064,19.0,Safe,Baseline
+4,7,Joey Fatone,0.16666666666666669,29.5,Safe,Baseline
+4,8,Ian Ziering,0.2,23.5,Safe,Baseline
+4,8,Laila Ali,0.2,26.5,Safe,Baseline
+4,8,Apolo Anton Ohno,0.2,29.0,Safe,Baseline
+4,8,Billy Ray Cyrus,0.2,19.0,Eliminated,Baseline
+4,8,Joey Fatone,0.2,27.5,Safe,Baseline
+4,9,Ian Ziering,0.25,29.0,Eliminated,Baseline
+4,9,Laila Ali,0.25,30.0,Safe,Baseline
+4,9,Apolo Anton Ohno,0.25,29.5,Safe,Baseline
+4,9,Joey Fatone,0.25,30.0,Safe,Baseline
+5,1,Cameron Mathison,0.08333333333333333,21.0,Safe,Baseline
+5,1,Jane Seymour,0.08333333333333333,24.0,Safe,Baseline
+5,1,Sabrina Bryan,0.08333333333333333,26.0,Safe,Baseline
+5,1,Jennie Garth,0.08333333333333333,21.0,Safe,Baseline
+5,1,Floyd Mayweather Jr. ,0.08333333333333333,18.0,Safe,Baseline
+5,1,Josie Maran,0.08333333333333333,16.0,Eliminated,Baseline
+5,1,Albert Reed,0.08333333333333333,21.0,Safe,Baseline
+5,1,Helio Castroneves,0.08333333333333333,25.0,Safe,Baseline
+5,1,Mel B,0.08333333333333333,24.0,Safe,Baseline
+5,1,Wayne Newton,0.08333333333333333,19.0,Safe,Baseline
+5,1,Marie Osmond,0.08333333333333333,21.0,Safe,Baseline
+5,1,Mark Cuban,0.08333333333333333,21.0,Safe,Baseline
+5,2,Cameron Mathison,0.09090909090942163,21.0,Safe,Baseline
+5,2,Jane Seymour,0.09090909090942163,21.0,Safe,Baseline
+5,2,Sabrina Bryan,0.09090909090942163,26.0,Safe,Baseline
+5,2,Jennie Garth,0.09090909090942163,21.0,Safe,Baseline
+5,2,Floyd Mayweather Jr. ,0.09090909090942163,21.0,Safe,Baseline
+5,2,Albert Reed,0.07829738222473559,21.0,Eliminated,Baseline
+5,2,Helio Castroneves,0.09090909090942163,27.0,Safe,Baseline
+5,2,Mel B,0.09090909090942163,23.0,Safe,Baseline
+5,2,Wayne Newton,0.10351746625834901,15.0,Safe,Baseline
+5,2,Marie Osmond,0.09090909090942163,24.0,Safe,Baseline
+5,2,Mark Cuban,0.09091242424154232,18.0,Safe,Baseline
+5,3,Cameron Mathison,0.1,23.0,Safe,Baseline
+5,3,Jane Seymour,0.1,27.0,Safe,Baseline
+5,3,Sabrina Bryan,0.1,27.0,Safe,Baseline
+5,3,Jennie Garth,0.1,26.0,Safe,Baseline
+5,3,Floyd Mayweather Jr. ,0.1,21.0,Safe,Baseline
+5,3,Helio Castroneves,0.1,24.0,Safe,Baseline
+5,3,Mel B,0.1,27.0,Safe,Baseline
+5,3,Wayne Newton,0.1,18.0,Eliminated,Baseline
+5,3,Marie Osmond,0.1,26.0,Safe,Baseline
+5,3,Mark Cuban,0.1,20.0,Safe,Baseline
+5,4,Cameron Mathison,0.11111111111111112,27.0,Safe,Baseline
+5,4,Jane Seymour,0.11111111111111112,26.0,Safe,Baseline
+5,4,Sabrina Bryan,0.11111111111111112,30.0,Safe,Baseline
+5,4,Jennie Garth,0.11111111111111112,27.0,Safe,Baseline
+5,4,Floyd Mayweather Jr. ,0.10896935897435897,23.0,Eliminated,Baseline
+5,4,Helio Castroneves,0.11111111111111112,27.0,Safe,Baseline
+5,4,Mel B,0.11111111111111112,26.0,Safe,Baseline
+5,4,Marie Osmond,0.11111111111111112,26.0,Safe,Baseline
+5,4,Mark Cuban,0.11325286324786327,22.0,Safe,Baseline
+5,5,Cameron Mathison,0.125,26.0,Safe,Baseline
+5,5,Jane Seymour,0.125,26.0,Safe,Baseline
+5,5,Sabrina Bryan,0.125,28.0,Safe,Baseline
+5,5,Jennie Garth,0.125,25.0,Safe,Baseline
+5,5,Helio Castroneves,0.125,23.0,Safe,Baseline
+5,5,Mel B,0.125,29.0,Safe,Baseline
+5,5,Marie Osmond,0.125005,21.0,Safe,Baseline
+5,5,Mark Cuban,0.124995,21.0,Eliminated,Baseline
+5,6,Cameron Mathison,0.14285714285714285,25.0,Safe,Baseline
+5,6,Jane Seymour,0.15026788359788357,22.0,Safe,Baseline
+5,6,Sabrina Bryan,0.1335912169312169,25.0,Eliminated,Baseline
+5,6,Jennie Garth,0.14285714285714285,27.0,Safe,Baseline
+5,6,Helio Castroneves,0.14285714285714285,28.0,Safe,Baseline
+5,6,Mel B,0.14285714285714285,30.0,Safe,Baseline
+5,6,Marie Osmond,0.14471232804232803,23.0,Safe,Baseline
+5,7,Cameron Mathison,0.16666666666666666,25.5,Safe,Baseline
+5,7,Jane Seymour,0.16666666666666666,25.0,Eliminated,Baseline
+5,7,Jennie Garth,0.16666666666666666,26.5,Safe,Baseline
+5,7,Helio Castroneves,0.16666666666666666,26.0,Safe,Baseline
+5,7,Mel B,0.16666666666666666,27.0,Safe,Baseline
+5,7,Marie Osmond,0.16666666666666666,26.0,Safe,Baseline
+5,8,Cameron Mathison,0.19619105196451206,25.5,Eliminated,Baseline
+5,8,Jennie Garth,0.2000033333333334,25.0,Safe,Baseline
+5,8,Helio Castroneves,0.2,28.5,Safe,Baseline
+5,8,Mel B,0.2,28.0,Safe,Baseline
+5,8,Marie Osmond,0.20380561470215458,24.5,Safe,Baseline
+5,9,Jennie Garth,0.2457214957265526,29.0,Eliminated,Baseline
+5,9,Helio Castroneves,0.24999999999994316,30.0,Safe,Baseline
+5,9,Mel B,0.24999999999994316,30.0,Safe,Baseline
+5,9,Marie Osmond,0.2542785042735611,28.0,Safe,Baseline
+6,2,Cristian de la Fuente,0.08333333333333333,20.0,Safe,Baseline
+6,2,Steve Guttenberg,0.08333333333333333,16.0,Safe,Baseline
+6,2,Priscilla Presley,0.08333333333333333,21.0,Safe,Baseline
+6,2,Marlee Matlin,0.08333333333333333,24.0,Safe,Baseline
+6,2,Shannon Elizabeth,0.08333333333333333,24.0,Safe,Baseline
+6,2,Marissa Jaret Winokur,0.08333333333333333,21.0,Safe,Baseline
+6,2,Jason Taylor,0.08333333333333333,27.0,Safe,Baseline
+6,2,Kristi Yamaguchi,0.08333333333333333,27.0,Safe,Baseline
+6,2,Monica Seles,0.08333333333333333,15.0,Eliminated,Baseline
+6,2,Penn Jillette,0.08333333333333333,17.0,Eliminated,Baseline
+6,2,Adam Carolla,0.08333333333333333,19.0,Safe,Baseline
+6,2,Mario,0.08333333333333333,26.0,Safe,Baseline
+6,3,Cristian de la Fuente,0.1,25.0,Safe,Baseline
+6,3,Steve Guttenberg,0.09560903508771931,21.0,Eliminated,Baseline
+6,3,Priscilla Presley,0.1,26.0,Safe,Baseline
+6,3,Marlee Matlin,0.1,21.0,Safe,Baseline
+6,3,Shannon Elizabeth,0.1,24.0,Safe,Baseline
+6,3,Marissa Jaret Winokur,0.10439096491228073,19.0,Safe,Baseline
+6,3,Jason Taylor,0.1,23.0,Safe,Baseline
+6,3,Kristi Yamaguchi,0.1,27.0,Safe,Baseline
+6,3,Adam Carolla,0.1,21.0,Safe,Baseline
+6,3,Mario,0.1,21.0,Safe,Baseline
+6,4,Cristian de la Fuente,0.1111111111111111,26.0,Safe,Baseline
+6,4,Priscilla Presley,0.1111111111111111,22.0,Safe,Baseline
+6,4,Marlee Matlin,0.1111111111111111,24.0,Safe,Baseline
+6,4,Shannon Elizabeth,0.1111111111111111,28.0,Safe,Baseline
+6,4,Marissa Jaret Winokur,0.1111111111111111,24.0,Safe,Baseline
+6,4,Jason Taylor,0.1111111111111111,29.0,Safe,Baseline
+6,4,Kristi Yamaguchi,0.1111111111111111,29.0,Safe,Baseline
+6,4,Adam Carolla,0.1111111111111111,19.0,Eliminated,Baseline
+6,4,Mario,0.1111111111111111,24.0,Safe,Baseline
+6,5,Cristian de la Fuente,0.125,23.0,Safe,Baseline
+6,5,Priscilla Presley,0.125,21.0,Eliminated,Baseline
+6,5,Marlee Matlin,0.125,22.0,Safe,Baseline
+6,5,Shannon Elizabeth,0.125,23.0,Safe,Baseline
+6,5,Marissa Jaret Winokur,0.125,24.0,Safe,Baseline
+6,5,Jason Taylor,0.125,27.0,Safe,Baseline
+6,5,Kristi Yamaguchi,0.125,29.0,Safe,Baseline
+6,5,Mario,0.125,27.0,Safe,Baseline
+6,6,Cristian de la Fuente,0.14285714285714285,27.0,Safe,Baseline
+6,6,Marlee Matlin,0.14285714285714285,21.0,Eliminated,Baseline
+6,6,Shannon Elizabeth,0.14285714285714285,24.0,Safe,Baseline
+6,6,Marissa Jaret Winokur,0.14285714285714285,26.0,Safe,Baseline
+6,6,Jason Taylor,0.14285714285714285,24.0,Safe,Baseline
+6,6,Kristi Yamaguchi,0.14285714285714285,30.0,Safe,Baseline
+6,6,Mario,0.14285714285714285,28.0,Safe,Baseline
+6,7,Cristian de la Fuente,0.17476228155339807,23.0,Safe,Baseline
+6,7,Shannon Elizabeth,0.1585710517799353,25.5,Eliminated,Baseline
+6,7,Marissa Jaret Winokur,0.16666666666666669,26.0,Safe,Baseline
+6,7,Jason Taylor,0.16666666666666669,27.5,Safe,Baseline
+6,7,Kristi Yamaguchi,0.16666666666666669,27.0,Safe,Baseline
+6,7,Mario,0.16666666666666669,25.5,Safe,Baseline
+6,8,Cristian de la Fuente,0.2,28.5,Safe,Baseline
+6,8,Marissa Jaret Winokur,0.2056229775280899,25.0,Safe,Baseline
+6,8,Jason Taylor,0.2,26.0,Safe,Baseline
+6,8,Kristi Yamaguchi,0.2,27.5,Safe,Baseline
+6,8,Mario,0.19437702247191013,26.5,Eliminated,Baseline
+6,9,Cristian de la Fuente,0.25,28.0,Safe,Baseline
+6,9,Marissa Jaret Winokur,0.25,26.0,Eliminated,Baseline
+6,9,Jason Taylor,0.25,27.5,Safe,Baseline
+6,9,Kristi Yamaguchi,0.25,28.5,Safe,Baseline
+7,1,Ted McGinley,0.06402125152548192,18.5,Eliminated,Baseline
+7,1,Cloris Leachman,0.07692307692321683,16.0,Safe,Baseline
+7,1,Susan Lucci,0.07692307692321683,18.5,Safe,Baseline
+7,1,Cody Linley,0.07692307692321683,20.5,Safe,Baseline
+7,1,Misty May-Treanor,0.07692307692321683,21.0,Safe,Baseline
+7,1,Maurice Greene,0.07692307692321683,19.5,Safe,Baseline
+7,1,Warren Sapp,0.07692307692321683,21.5,Safe,Baseline
+7,1,Jeffrey Ross,0.08982490231913275,12.0,Eliminated,Baseline
+7,1,Toni Braxton,0.07692307692321683,22.5,Safe,Baseline
+7,1,Lance Bass,0.07692307692321683,21.5,Safe,Baseline
+7,1,Kim Kardashian,0.07692307692321683,18.5,Safe,Baseline
+7,1,Rocco DiSpirito,0.07692307692321683,17.5,Safe,Baseline
+7,1,Brooke Burke,0.07692307692321683,24.5,Safe,Baseline
+7,2,Cloris Leachman,0.09543731112030743,15.0,Safe,Baseline
+7,2,Susan Lucci,0.09090909090907025,21.0,Safe,Baseline
+7,2,Cody Linley,0.09090909090907025,21.0,Safe,Baseline
+7,2,Misty May-Treanor,0.09090909090907025,21.0,Safe,Baseline
+7,2,Maurice Greene,0.09090909090907025,19.0,Safe,Baseline
+7,2,Warren Sapp,0.09090909090907025,24.0,Safe,Baseline
+7,2,Toni Braxton,0.09090909090907025,23.0,Safe,Baseline
+7,2,Lance Bass,0.09090909090907025,20.0,Safe,Baseline
+7,2,Kim Kardashian,0.0863775373646513,17.0,Eliminated,Baseline
+7,2,Rocco DiSpirito,0.09091242424247939,16.0,Safe,Baseline
+7,2,Brooke Burke,0.09090909090907023,24.0,Safe,Baseline
+7,4,Cloris Leachman,0.09999999999708961,22.0,Safe,Baseline
+7,4,Susan Lucci,0.09999999999708963,24.0,Safe,Baseline
+7,4,Cody Linley,0.09999999999708961,23.0,Safe,Baseline
+7,4,Misty May-Treanor,0.1443399753810997,0.0,Safe,Baseline
+7,4,Maurice Greene,0.09999999999708961,20.0,Safe,Baseline
+7,4,Warren Sapp,0.09999999999708961,22.0,Safe,Baseline
+7,4,Toni Braxton,0.09999999999708961,22.0,Safe,Baseline
+7,4,Lance Bass,0.09999999999708963,26.0,Safe,Baseline
+7,4,Rocco DiSpirito,0.05566002464218345,18.0,Eliminated,Baseline
+7,4,Brooke Burke,0.0999999999970896,26.0,Safe,Baseline
+7,5,Cloris Leachman,0.11111111111434487,21.0,Safe,Baseline
+7,5,Susan Lucci,0.11111111111434487,22.0,Safe,Baseline
+7,5,Cody Linley,0.11111111111434487,28.0,Safe,Baseline
+7,5,Misty May-Treanor,0.16752636751004937,0.0,Safe,Baseline
+7,5,Maurice Greene,0.11111111111434487,27.0,Safe,Baseline
+7,5,Warren Sapp,0.11111111111434487,25.0,Safe,Baseline
+7,5,Toni Braxton,0.05469585468953654,22.0,Eliminated,Baseline
+7,5,Lance Bass,0.11111111111434487,21.0,Safe,Baseline
+7,5,Brooke Burke,0.11111111111434487,29.0,Safe,Baseline
+7,6,Cloris Leachman,0.07811999999999998,15.0,Eliminated,Baseline
+7,6,Susan Lucci,0.125,23.0,Safe,Baseline
+7,6,Cody Linley,0.125,23.0,Safe,Baseline
+7,6,Misty May-Treanor,0.17187999999999998,0.0,Safe,Baseline
+7,6,Maurice Greene,0.125,21.0,Safe,Baseline
+7,6,Warren Sapp,0.125,25.0,Safe,Baseline
+7,6,Lance Bass,0.125,27.0,Safe,Baseline
+7,6,Brooke Burke,0.125,26.0,Safe,Baseline
+7,7,Susan Lucci,0.06121948979591835,24.0,Eliminated,Baseline
+7,7,Cody Linley,0.14285714285714285,22.0,Safe,Baseline
+7,7,Misty May-Treanor,0.22449479591836727,0.0,Safe,Baseline
+7,7,Maurice Greene,0.14285714285714285,25.0,Safe,Baseline
+7,7,Warren Sapp,0.14285714285714285,21.0,Safe,Baseline
+7,7,Lance Bass,0.14285714285714285,25.0,Safe,Baseline
+7,7,Brooke Burke,0.14285714285714282,30.0,Safe,Baseline
+7,8,Cody Linley,0.16666666666666669,24.0,Safe,Baseline
+7,8,Misty May-Treanor,0.26078931372549014,0.0,Safe,Baseline
+7,8,Maurice Greene,0.07254401960784315,24.0,Eliminated,Baseline
+7,8,Warren Sapp,0.16666666666666669,27.0,Safe,Baseline
+7,8,Lance Bass,0.16666666666666669,25.0,Safe,Baseline
+7,8,Brooke Burke,0.16666666666666669,27.5,Safe,Baseline
+7,9,Cody Linley,0.08556713930348256,23.0,Eliminated,Baseline
+7,9,Misty May-Treanor,0.31443286069651744,0.0,Safe,Baseline
+7,9,Warren Sapp,0.2,24.5,Safe,Baseline
+7,9,Lance Bass,0.2,28.5,Safe,Baseline
+7,9,Brooke Burke,0.2,24.5,Safe,Baseline
+8,2,Gilles Marini,0.07692307692307693,27.0,Safe,Baseline
+8,2,Denise Richards,0.07692307692307693,21.0,Safe,Baseline
+8,2,David Alan Grier,0.07692307692307693,17.0,Safe,Baseline
+8,2,Lawrence Taylor,0.07692307692307693,20.0,Safe,Baseline
+8,2,Ty Murray,0.07692307692307693,20.0,Safe,Baseline
+8,2,Shawn Johnson,0.07692307692307693,24.0,Safe,Baseline
+8,2,Steve Wozniak,0.07692307692307693,17.0,Safe,Baseline
+8,2,Belinda Carlisle,0.06937090711175616,18.0,Eliminated,Baseline
+8,2,Chuck Wicks,0.07692307692307693,20.0,Safe,Baseline
+8,2,Lil' Kim,0.07692307692307693,23.0,Safe,Baseline
+8,2,Steve-O,0.08447524673439769,14.0,Safe,Baseline
+8,2,Holly Madison,0.07692307692307693,18.0,Safe,Baseline
+8,2,Melissa Rycroft,0.07692307692307693,26.0,Safe,Baseline
+8,3,Gilles Marini,0.08333333333333333,27.0,Safe,Baseline
+8,3,Denise Richards,0.07151730971128609,16.0,Eliminated,Baseline
+8,3,David Alan Grier,0.08333333333333333,24.0,Safe,Baseline
+8,3,Lawrence Taylor,0.08333333333333333,20.0,Safe,Baseline
+8,3,Ty Murray,0.08333333333333333,23.0,Safe,Baseline
+8,3,Shawn Johnson,0.08333333333333333,27.0,Safe,Baseline
+8,3,Steve Wozniak,0.09514935695538058,10.0,Safe,Baseline
+8,3,Chuck Wicks,0.08333333333333333,23.0,Safe,Baseline
+8,3,Lil' Kim,0.08333333333333333,25.0,Safe,Baseline
+8,3,Steve-O,0.08333333333333333,15.0,Safe,Baseline
+8,3,Holly Madison,0.08333333333333333,17.0,Safe,Baseline
+8,3,Melissa Rycroft,0.08333333333333333,27.0,Safe,Baseline
+8,4,Gilles Marini,0.09090909090909091,30.0,Safe,Baseline
+8,4,David Alan Grier,0.09090909090909091,22.0,Safe,Baseline
+8,4,Lawrence Taylor,0.09090909090909091,19.0,Safe,Baseline
+8,4,Ty Murray,0.09090909090909091,25.0,Safe,Baseline
+8,4,Shawn Johnson,0.09090909090909091,25.0,Safe,Baseline
+8,4,Steve Wozniak,0.09090909090909091,12.0,Eliminated,Baseline
+8,4,Chuck Wicks,0.09090909090909091,22.0,Safe,Baseline
+8,4,Lil' Kim,0.09090909090909091,27.0,Safe,Baseline
+8,4,Steve-O,0.09090909090909091,15.0,Safe,Baseline
+8,4,Holly Madison,0.09090909090909091,16.0,Eliminated,Baseline
+8,4,Melissa Rycroft,0.09090909090909091,29.0,Safe,Baseline
+8,5,Gilles Marini,0.11111111111121216,29.0,Safe,Baseline
+8,5,David Alan Grier,0.10158063492043279,22.0,Eliminated,Baseline
+8,5,Lawrence Taylor,0.11111444444424234,20.0,Safe,Baseline
+8,5,Ty Murray,0.11111111111121216,21.0,Safe,Baseline
+8,5,Shawn Johnson,0.11111111111121216,26.0,Safe,Baseline
+8,5,Chuck Wicks,0.11111111111121216,23.0,Safe,Baseline
+8,5,Lil' Kim,0.11111111111121216,26.0,Safe,Baseline
+8,5,Steve-O,0.12063825396805185,18.0,Safe,Baseline
+8,5,Melissa Rycroft,0.11111111111121216,25.0,Safe,Baseline
+8,6,Gilles Marini,0.125,26.0,Safe,Baseline
+8,6,Lawrence Taylor,0.125,22.0,Safe,Baseline
+8,6,Ty Murray,0.125,18.0,Safe,Baseline
+8,6,Shawn Johnson,0.125,26.0,Safe,Baseline
+8,6,Chuck Wicks,0.125,23.0,Safe,Baseline
+8,6,Lil' Kim,0.125,28.0,Safe,Baseline
+8,6,Steve-O,0.125,16.0,Eliminated,Baseline
+8,6,Melissa Rycroft,0.125,27.0,Safe,Baseline
+8,7,Gilles Marini,0.14285714285714285,27.0,Safe,Baseline
+8,7,Lawrence Taylor,0.14285714285714285,21.0,Eliminated,Baseline
+8,7,Ty Murray,0.14285714285714285,24.0,Safe,Baseline
+8,7,Shawn Johnson,0.14285714285714285,28.0,Safe,Baseline
+8,7,Chuck Wicks,0.14285714285714285,27.0,Safe,Baseline
+8,7,Lil' Kim,0.14285714285714285,26.0,Safe,Baseline
+8,7,Melissa Rycroft,0.14285714285714285,29.0,Safe,Baseline
+8,8,Gilles Marini,0.16666666666651508,27.5,Safe,Baseline
+8,8,Ty Murray,0.16666666666651508,26.0,Safe,Baseline
+8,8,Shawn Johnson,0.16666666666651508,26.0,Safe,Baseline
+8,8,Chuck Wicks,0.15864884615414931,25.5,Eliminated,Baseline
+8,8,Lil' Kim,0.16666666666651508,28.0,Safe,Baseline
+8,8,Melissa Rycroft,0.17468448717979035,23.0,Safe,Baseline
+8,9,Gilles Marini,0.2,28.0,Safe,Baseline
+8,9,Ty Murray,0.21124095505617982,23.0,Safe,Baseline
+8,9,Shawn Johnson,0.2,28.0,Safe,Baseline
+8,9,Lil' Kim,0.1887590449438202,26.0,Eliminated,Baseline
+8,9,Melissa Rycroft,0.2,28.5,Safe,Baseline
+8,10,Gilles Marini,0.25,30.0,Safe,Baseline
+8,10,Ty Murray,0.25,24.0,Eliminated,Baseline
+8,10,Shawn Johnson,0.25,28.0,Safe,Baseline
+8,10,Melissa Rycroft,0.25,27.5,Safe,Baseline
+9,1,Ashley Hamiliton,0.062493415435463114,18.9999,Eliminated,Baseline
+9,1,Debi Mazar,0.0625,22.0,Safe,Baseline
+9,1,Melissa Joan Hart,0.0625,24.0,Safe,Baseline
+9,1,Mark Dacascos,0.0625,28.9998,Safe,Baseline
+9,1,Chuck Liddell,0.0625,22.0,Safe,Baseline
+9,1,Natalie Coughlin,0.0625,26.9998,Safe,Baseline
+9,1,Louie Vito,0.0625,26.9998,Safe,Baseline
+9,1,Michael Irvin,0.06250316912907374,19.0,Safe,Baseline
+9,1,Joanna Krupa,0.0625,33.9999,Safe,Baseline
+9,1,Kathy Ireland,0.0625,19.9999,Safe,Baseline
+9,1,Tom DeLay,0.0625,19.9999,Safe,Baseline
+9,1,Macy Gray,0.06250341543546312,18.9999,Eliminated,Baseline
+9,1,Aaron Carter,0.0625,31.999899999999997,Safe,Baseline
+9,1,Mya,0.0625,30.999899999999997,Safe,Baseline
+9,1,Donny Osmond,0.0625,29.999899999999997,Safe,Baseline
+9,1,Kelly Osbourne,0.0625,30.9998,Safe,Baseline
+9,2,Debi Mazar,0.07142857142857145,21.0,Safe,Baseline
+9,2,Melissa Joan Hart,0.07142857142857145,19.0,Safe,Baseline
+9,2,Mark Dacascos,0.07142857142857145,21.0,Safe,Baseline
+9,2,Chuck Liddell,0.07142857142857145,19.0,Safe,Baseline
+9,2,Natalie Coughlin,0.07142857142857145,21.0,Safe,Baseline
+9,2,Louie Vito,0.07142857142857145,19.0,Safe,Baseline
+9,2,Michael Irvin,0.07142857142857145,20.0,Safe,Baseline
+9,2,Joanna Krupa,0.07142857142857145,20.0,Safe,Baseline
+9,2,Kathy Ireland,0.07142357142857143,18.0,Eliminated,Baseline
+9,2,Tom DeLay,0.07143357142857146,18.0,Safe,Baseline
+9,2,Aaron Carter,0.07142857142857145,27.0,Safe,Baseline
+9,2,Mya,0.07142857142857145,27.0,Safe,Baseline
+9,2,Donny Osmond,0.07142857142857145,25.0,Safe,Baseline
+9,2,Kelly Osbourne,0.07142857142857145,19.0,Safe,Baseline
+9,3,Debi Mazar,0.07045646193599679,17.0,Eliminated,Baseline
+9,3,Melissa Joan Hart,0.07692307692307691,19.0,Safe,Baseline
+9,3,Mark Dacascos,0.07692307692307691,18.0,Safe,Baseline
+9,3,Chuck Liddell,0.07692307692307691,17.0,Safe,Baseline
+9,3,Natalie Coughlin,0.07692307692307691,26.0,Safe,Baseline
+9,3,Louie Vito,0.07692307692307691,20.0,Safe,Baseline
+9,3,Michael Irvin,0.08209436891274097,14.0,Safe,Baseline
+9,3,Joanna Krupa,0.07692307692307691,23.0,Safe,Baseline
+9,3,Tom DeLay,0.07821839992049293,15.0,Safe,Baseline
+9,3,Aaron Carter,0.07692307692307691,21.0,Safe,Baseline
+9,3,Mya,0.07692307692307691,27.0,Safe,Baseline
+9,3,Donny Osmond,0.07692307692307691,21.0,Safe,Baseline
+9,3,Kelly Osbourne,0.07692307692307691,20.0,Safe,Baseline
+9,4,Melissa Joan Hart,0.08333333333333333,28.0,Safe,Baseline
+9,4,Mark Dacascos,0.08333333333333333,22.0,Safe,Baseline
+9,4,Chuck Liddell,0.04820436639118457,17.0,Eliminated,Baseline
+9,4,Natalie Coughlin,0.08333333333333333,24.0,Safe,Baseline
+9,4,Louie Vito,0.08333333333333333,16.0,Safe,Baseline
+9,4,Michael Irvin,0.08333333333333333,16.0,Safe,Baseline
+9,4,Joanna Krupa,0.08333333333333333,26.0,Safe,Baseline
+9,4,Tom DeLay,0.11846230027548209,0.0,Safe,Baseline
+9,4,Aaron Carter,0.08333333333333333,18.0,Safe,Baseline
+9,4,Mya,0.08333333333333333,28.0,Safe,Baseline
+9,4,Donny Osmond,0.08333333333333333,24.0,Safe,Baseline
+9,4,Kelly Osbourne,0.08333333333333333,23.0,Safe,Baseline
+9,5,Melissa Joan Hart,0.09090909090909091,23.0,Safe,Baseline
+9,5,Mark Dacascos,0.09090909090909091,26.0,Safe,Baseline
+9,5,Natalie Coughlin,0.04544954545454545,22.0,Eliminated,Baseline
+9,5,Louie Vito,0.09090909090909091,22.0,Safe,Baseline
+9,5,Michael Irvin,0.09090909090909091,21.0,Safe,Baseline
+9,5,Joanna Krupa,0.09090909090909091,24.0,Safe,Baseline
+9,5,Tom DeLay,0.1363686363636364,0.0,Safe,Baseline
+9,5,Aaron Carter,0.09090909090909091,24.0,Safe,Baseline
+9,5,Mya,0.09090909090909091,27.0,Safe,Baseline
+9,5,Donny Osmond,0.09090909090909091,29.0,Safe,Baseline
+9,5,Kelly Osbourne,0.09090909090909091,24.0,Safe,Baseline
+9,6,Melissa Joan Hart,0.05384118639064521,23.9999,Eliminated,Baseline
+9,6,Mark Dacascos,0.1,32.0,Safe,Baseline
+9,6,Louie Vito,0.1,24.0,Eliminated,Baseline
+9,6,Michael Irvin,0.1,21.9998,Safe,Baseline
+9,6,Joanna Krupa,0.1,35.9999,Safe,Baseline
+9,6,Tom DeLay,0.14615881360935482,0.0,Safe,Baseline
+9,6,Aaron Carter,0.1,32.9998,Safe,Baseline
+9,6,Mya,0.1,33.0,Safe,Baseline
+9,6,Donny Osmond,0.1,30.999899999999997,Safe,Baseline
+9,6,Kelly Osbourne,0.1,24.9998,Safe,Baseline
+9,7,Mark Dacascos,0.06374143874643874,21.5,Eliminated,Baseline
+9,7,Michael Irvin,0.125,23.5,Eliminated,Baseline
+9,7,Joanna Krupa,0.125,27.5,Safe,Baseline
+9,7,Tom DeLay,0.18625856125356124,0.0,Safe,Baseline
+9,7,Aaron Carter,0.125,26.5,Safe,Baseline
+9,7,Mya,0.125,24.5,Safe,Baseline
+9,7,Donny Osmond,0.125,26.0,Safe,Baseline
+9,7,Kelly Osbourne,0.125,26.0,Safe,Baseline
+9,8,Joanna Krupa,0.16666666666666669,26.0,Safe,Baseline
+9,8,Tom DeLay,0.26209151399491093,0.0,Safe,Baseline
+9,8,Aaron Carter,0.07124181933842243,25.0,Eliminated,Baseline
+9,8,Mya,0.16666666666666666,29.5,Safe,Baseline
+9,8,Donny Osmond,0.16666666666666669,25.0,Safe,Baseline
+9,8,Kelly Osbourne,0.16666666666666669,25.5,Safe,Baseline
+9,9,Joanna Krupa,0.07343206487006153,27.0,Eliminated,Baseline
+9,9,Tom DeLay,0.3265679349902401,0.0,Safe,Baseline
+9,9,Mya,0.20000000004656615,28.9999,Safe,Baseline
+9,9,Donny Osmond,0.20000000004656612,24.666600000000003,Safe,Baseline
+9,9,Kelly Osbourne,0.20000000004656612,25.9998,Safe,Baseline
+10,2,Aiden Turner,0.09090909090876019,19.0,Safe,Baseline
+10,2,Shannen Doherty,0.07120545454633648,20.0,Eliminated,Baseline
+10,2,Niecy Nash,0.09090909090876019,21.0,Safe,Baseline
+10,2,Buzz Aldrin,0.10757909090997285,12.0,Safe,Baseline
+10,2,Chad Ochocinco,0.09090909090876019,16.0,Safe,Baseline
+10,2,Evan Lysacek,0.09090909090876019,24.0,Safe,Baseline
+10,2,Pamela Anderson,0.09090909090876019,22.0,Safe,Baseline
+10,2,Nicole Scherzinger,0.09090909090876019,28.0,Safe,Baseline
+10,2,Erin Andrews,0.09090909090876019,23.0,Safe,Baseline
+10,2,Kate Gosselin,0.09394272727360922,15.0,Safe,Baseline
+10,2,Jake Pavelka,0.09090909090876019,20.0,Safe,Baseline
+10,3,Aiden Turner,0.1,20.0,Safe,Baseline
+10,3,Niecy Nash,0.1,21.0,Safe,Baseline
+10,3,Buzz Aldrin,0.1,13.0,Eliminated,Baseline
+10,3,Chad Ochocinco,0.1,20.0,Safe,Baseline
+10,3,Evan Lysacek,0.1,26.0,Safe,Baseline
+10,3,Pamela Anderson,0.1,21.0,Safe,Baseline
+10,3,Nicole Scherzinger,0.1,23.0,Safe,Baseline
+10,3,Erin Andrews,0.1,23.0,Safe,Baseline
+10,3,Kate Gosselin,0.1,15.0,Safe,Baseline
+10,3,Jake Pavelka,0.1,21.0,Safe,Baseline
+10,4,Aiden Turner,0.10975840221623241,16.5,Eliminated,Baseline
+10,4,Niecy Nash,0.1111111111111111,18.0,Safe,Baseline
+10,4,Chad Ochocinco,0.1111111111111111,22.0,Safe,Baseline
+10,4,Evan Lysacek,0.1111111111111111,26.0,Safe,Baseline
+10,4,Pamela Anderson,0.1111111111111111,23.5,Safe,Baseline
+10,4,Nicole Scherzinger,0.1111111111111111,25.0,Safe,Baseline
+10,4,Erin Andrews,0.1111111111111111,19.5,Safe,Baseline
+10,4,Kate Gosselin,0.1124638200059898,16.0,Safe,Baseline
+10,4,Jake Pavelka,0.1111111111111111,19.0,Safe,Baseline
+10,5,Niecy Nash,0.125,18.0,Safe,Baseline
+10,5,Chad Ochocinco,0.125,18.0,Safe,Baseline
+10,5,Evan Lysacek,0.125,27.0,Safe,Baseline
+10,5,Pamela Anderson,0.125,21.0,Safe,Baseline
+10,5,Nicole Scherzinger,0.125,29.0,Safe,Baseline
+10,5,Erin Andrews,0.125,22.0,Safe,Baseline
+10,5,Kate Gosselin,0.125,15.0,Eliminated,Baseline
+10,5,Jake Pavelka,0.125,23.0,Safe,Baseline
+10,6,Niecy Nash,0.14285714285714285,25.9998,Safe,Baseline
+10,6,Chad Ochocinco,0.14285714285714285,30.999899999999997,Safe,Baseline
+10,6,Evan Lysacek,0.14285714285714285,27.0,Safe,Baseline
+10,6,Pamela Anderson,0.14285714285714285,29.9998,Safe,Baseline
+10,6,Nicole Scherzinger,0.14285714285714285,35.9999,Safe,Baseline
+10,6,Erin Andrews,0.14285714285714285,34.0,Safe,Baseline
+10,6,Jake Pavelka,0.14285714285714285,24.999899999999997,Eliminated,Baseline
+10,7,Niecy Nash,0.16988710075023003,24.5,Safe,Baseline
+10,7,Chad Ochocinco,0.16666666666668561,26.0,Safe,Baseline
+10,7,Evan Lysacek,0.16666666666668561,27.0,Safe,Baseline
+10,7,Pamela Anderson,0.1634462325830275,25.5,Eliminated,Baseline
+10,7,Nicole Scherzinger,0.16666666666668561,27.0,Safe,Baseline
+10,7,Erin Andrews,0.16666666666668561,25.5,Safe,Baseline
+10,8,Niecy Nash,0.2,21.5,Eliminated,Baseline
+10,8,Chad Ochocinco,0.2,22.5,Safe,Baseline
+10,8,Evan Lysacek,0.2,26.5,Safe,Baseline
+10,8,Nicole Scherzinger,0.2,29.5,Safe,Baseline
+10,8,Erin Andrews,0.2,26.5,Safe,Baseline
+10,9,Chad Ochocinco,0.25,26.0,Eliminated,Baseline
+10,9,Evan Lysacek,0.25,29.5,Safe,Baseline
+10,9,Nicole Scherzinger,0.25,29.5,Safe,Baseline
+10,9,Erin Andrews,0.25,28.0,Safe,Baseline
+11,1,David Hasselhoff,0.08332666666666667,15.0,Eliminated,Baseline
+11,1,Florence Henderson,0.08333333333333333,18.0,Safe,Baseline
+11,1,Kyle Massey,0.08333333333333333,23.0,Safe,Baseline
+11,1,Jennifer Grey,0.08333333333333333,24.0,Safe,Baseline
+11,1,Rick Fox,0.08333333333333333,22.0,Safe,Baseline
+11,1,Kurt Warner,0.08333333333333333,19.0,Safe,Baseline
+11,1,Margaret Cho,0.08333666666666666,15.0,Safe,Baseline
+11,1,Michael Bolton,0.08333333333333333,16.0,Safe,Baseline
+11,1,Brandy,0.08333333333333333,23.0,Safe,Baseline
+11,1,The Situation,0.08333666666666666,15.0,Safe,Baseline
+11,1,Audrina Patridge,0.08333333333333333,19.0,Safe,Baseline
+11,1,Bristol Palin,0.08333333333333333,18.0,Safe,Baseline
+11,2,Florence Henderson,0.09090909090909091,19.0,Safe,Baseline
+11,2,Kyle Massey,0.09090909090909091,22.0,Safe,Baseline
+11,2,Jennifer Grey,0.09090909090909091,24.0,Safe,Baseline
+11,2,Rick Fox,0.09090909090909091,21.0,Safe,Baseline
+11,2,Kurt Warner,0.09090909090909091,21.0,Safe,Baseline
+11,2,Margaret Cho,0.09090909090909091,18.0,Safe,Baseline
+11,2,Michael Bolton,0.09090909090909091,12.0,Eliminated,Baseline
+11,2,Brandy,0.09090909090909091,21.0,Safe,Baseline
+11,2,The Situation,0.09090909090909091,18.0,Safe,Baseline
+11,2,Audrina Patridge,0.09090909090909091,23.0,Safe,Baseline
+11,2,Bristol Palin,0.09090909090909091,22.0,Safe,Baseline
+11,3,Florence Henderson,0.1,20.0,Safe,Baseline
+11,3,Kyle Massey,0.1,23.0,Safe,Baseline
+11,3,Jennifer Grey,0.1,24.0,Safe,Baseline
+11,3,Rick Fox,0.1,24.0,Safe,Baseline
+11,3,Kurt Warner,0.1,23.0,Safe,Baseline
+11,3,Margaret Cho,0.1,18.0,Eliminated,Baseline
+11,3,Brandy,0.1,24.0,Safe,Baseline
+11,3,The Situation,0.1,20.0,Safe,Baseline
+11,3,Audrina Patridge,0.1,26.0,Safe,Baseline
+11,3,Bristol Palin,0.1,19.0,Safe,Baseline
+11,4,Florence Henderson,0.1111111111111111,17.5,Safe,Baseline
+11,4,Kyle Massey,0.1111111111111111,20.0,Safe,Baseline
+11,4,Jennifer Grey,0.1111111111111111,28.0,Safe,Baseline
+11,4,Rick Fox,0.1111111111111111,19.5,Safe,Baseline
+11,4,Kurt Warner,0.1111111111111111,17.0,Safe,Baseline
+11,4,Brandy,0.1111111111111111,24.0,Safe,Baseline
+11,4,The Situation,0.1111111111111111,14.0,Eliminated,Baseline
+11,4,Audrina Patridge,0.1111111111111111,23.0,Safe,Baseline
+11,4,Bristol Palin,0.1111111111111111,16.0,Safe,Baseline
+11,5,Florence Henderson,0.11675324175858282,21.0,Eliminated,Baseline
+11,5,Kyle Massey,0.12499999999988631,20.0,Safe,Baseline
+11,5,Jennifer Grey,0.12499999999988631,25.0,Safe,Baseline
+11,5,Rick Fox,0.12499999999988631,24.0,Safe,Baseline
+11,5,Kurt Warner,0.12499999999988631,24.0,Safe,Baseline
+11,5,Brandy,0.12499999999988631,27.0,Safe,Baseline
+11,5,Audrina Patridge,0.12499999999988631,23.0,Safe,Baseline
+11,5,Bristol Palin,0.1332467582420993,18.0,Safe,Baseline
+11,6,Kyle Massey,0.14285714285714288,29.999899999999997,Safe,Baseline
+11,6,Jennifer Grey,0.14285714285714288,29.0,Safe,Baseline
+11,6,Rick Fox,0.14285714285714288,30.0,Safe,Baseline
+11,6,Kurt Warner,0.16701657236487552,21.9999,Safe,Baseline
+11,6,Brandy,0.14285714285714288,35.9999,Safe,Baseline
+11,6,Audrina Patridge,0.11869771334941023,31.9998,Eliminated,Baseline
+11,6,Bristol Palin,0.14285714285714285,27.9998,Safe,Baseline
+11,7,Kyle Massey,0.16667000000000004,33.5,Safe,Baseline
+11,7,Jennifer Grey,0.16666666666666669,36.5,Safe,Baseline
+11,7,Rick Fox,0.16186383693045564,34.5,Eliminated,Baseline
+11,7,Kurt Warner,0.16666666666666669,35.0,Safe,Baseline
+11,7,Brandy,0.16666666666666669,36.5,Safe,Baseline
+11,7,Bristol Palin,0.17146616306954438,32.5,Safe,Baseline
+11,8,Kyle Massey,0.2,28.0,Safe,Baseline
+11,8,Jennifer Grey,0.2,28.5,Safe,Baseline
+11,8,Kurt Warner,0.19810820754716982,24.0,Eliminated,Baseline
+11,8,Brandy,0.2,28.5,Safe,Baseline
+11,8,Bristol Palin,0.2018917924528302,23.5,Safe,Baseline
+11,9,Kyle Massey,0.2500000000002274,29.0,Safe,Baseline
+11,9,Jennifer Grey,0.2500000000002274,30.0,Safe,Baseline
+11,9,Brandy,0.24122307017521122,28.5,Eliminated,Baseline
+11,9,Bristol Palin,0.258776929824334,26.5,Safe,Baseline
+12,2,Ralph Macchio,0.09090909090909091,21.0,Safe,Baseline
+12,2,Chelsea Kane,0.09090909090909091,18.0,Safe,Baseline
+12,2,Kirstie Alley,0.09090909090909091,20.0,Safe,Baseline
+12,2,Hines Ward,0.09090909090909091,23.0,Safe,Baseline
+12,2,Sugar Ray Leonard,0.09091242424242425,17.0,Safe,Baseline
+12,2,Chris Jericho,0.09090909090909091,23.0,Safe,Baseline
+12,2,Petra Nemcova,0.09090909090909091,18.0,Safe,Baseline
+12,2,Mike Catherwood,0.09090242424242426,17.0,Eliminated,Baseline
+12,2,Romeo,0.09090909090909091,23.0,Safe,Baseline
+12,2,Wendy Williams,0.09091242424242425,17.0,Safe,Baseline
+12,2,Kendra Wilkinson,0.09090909090909091,19.0,Safe,Baseline
+12,3,Ralph Macchio,0.1,21.0,Safe,Baseline
+12,3,Chelsea Kane,0.1,23.0,Safe,Baseline
+12,3,Kirstie Alley,0.1,21.0,Safe,Baseline
+12,3,Hines Ward,0.1,25.0,Safe,Baseline
+12,3,Sugar Ray Leonard,0.1,20.0,Safe,Baseline
+12,3,Chris Jericho,0.1,21.0,Safe,Baseline
+12,3,Petra Nemcova,0.1,25.0,Safe,Baseline
+12,3,Romeo,0.1,20.0,Safe,Baseline
+12,3,Wendy Williams,0.1,15.0,Eliminated,Baseline
+12,3,Kendra Wilkinson,0.1,23.0,Safe,Baseline
+12,4,Ralph Macchio,0.1111111111111111,25.0,Safe,Baseline
+12,4,Chelsea Kane,0.1111111111111111,26.0,Safe,Baseline
+12,4,Kirstie Alley,0.1111111111111111,22.0,Safe,Baseline
+12,4,Hines Ward,0.1111111111111111,25.0,Safe,Baseline
+12,4,Sugar Ray Leonard,0.10382455771305286,21.0,Eliminated,Baseline
+12,4,Chris Jericho,0.1111111111111111,23.0,Safe,Baseline
+12,4,Petra Nemcova,0.1111111111111111,23.0,Safe,Baseline
+12,4,Romeo,0.1111111111111111,23.0,Safe,Baseline
+12,4,Kendra Wilkinson,0.11839766450916936,18.0,Safe,Baseline
+12,5,Ralph Macchio,0.12500333333333333,22.0,Safe,Baseline
+12,5,Chelsea Kane,0.125,26.0,Safe,Baseline
+12,5,Kirstie Alley,0.125,23.0,Safe,Baseline
+12,5,Hines Ward,0.125,27.0,Safe,Baseline
+12,5,Chris Jericho,0.125,26.0,Safe,Baseline
+12,5,Petra Nemcova,0.12499333333333332,22.0,Eliminated,Baseline
+12,5,Romeo,0.125,26.0,Safe,Baseline
+12,5,Kendra Wilkinson,0.12500333333333333,22.0,Safe,Baseline
+12,6,Ralph Macchio,0.14285714285714285,24.0,Safe,Baseline
+12,6,Chelsea Kane,0.14285714285714285,28.0,Safe,Baseline
+12,6,Kirstie Alley,0.14285714285714285,26.0,Safe,Baseline
+12,6,Hines Ward,0.14285714285714285,27.0,Safe,Baseline
+12,6,Chris Jericho,0.14285714285714285,22.0,Eliminated,Baseline
+12,6,Romeo,0.14285714285714285,28.0,Safe,Baseline
+12,6,Kendra Wilkinson,0.14285714285714285,25.0,Safe,Baseline
+12,7,Ralph Macchio,0.16666666666666666,33.0,Safe,Baseline
+12,7,Chelsea Kane,0.16666666666666666,32.0,Safe,Baseline
+12,7,Kirstie Alley,0.1675541732979664,30.0,Safe,Baseline
+12,7,Hines Ward,0.16666666666666666,33.0,Safe,Baseline
+12,7,Romeo,0.1675541732979664,30.0,Safe,Baseline
+12,7,Kendra Wilkinson,0.16489165340406722,30.5,Eliminated,Baseline
+12,8,Ralph Macchio,0.21154346153900727,23.0,Safe,Baseline
+12,8,Chelsea Kane,0.19999999999963622,27.5,Safe,Baseline
+12,8,Kirstie Alley,0.19999999999963622,26.5,Safe,Baseline
+12,8,Hines Ward,0.19999999999963622,27.0,Safe,Baseline
+12,8,Romeo,0.18845653846208416,26.0,Eliminated,Baseline
+12,9,Ralph Macchio,0.25,24.0,Eliminated,Baseline
+12,9,Chelsea Kane,0.25,36.5,Safe,Baseline
+12,9,Kirstie Alley,0.25,27.0,Safe,Baseline
+12,9,Hines Ward,0.25,30.0,Safe,Baseline
+13,1,Elisabetta Canalis,0.08333333333333333,15.0,Safe,Baseline
+13,1,David Arquette,0.08333333333333333,18.0,Safe,Baseline
+13,1,Ricki Lake,0.08333333333333333,20.0,Safe,Baseline
+13,1,J.R. Martinez,0.08333333333333333,22.0,Safe,Baseline
+13,1,Metta World Peace (Ron),0.08333333333333333,14.0,Eliminated,Baseline
+13,1,Hope Solo,0.08333333333333333,21.0,Safe,Baseline
+13,1,Chynna Phillips,0.08333333333333333,22.0,Safe,Baseline
+13,1,Kristin Cavallari,0.08333333333333333,19.0,Safe,Baseline
+13,1,Carson Kressley,0.08333333333333333,17.0,Safe,Baseline
+13,1,Chaz Bono,0.08333333333333333,17.0,Safe,Baseline
+13,1,Nancy Grace,0.08333333333333333,16.0,Safe,Baseline
+13,1,Rob Kardashian,0.08333333333333333,16.0,Safe,Baseline
+13,2,Elisabetta Canalis,0.07969082857739704,21.0,Eliminated,Baseline
+13,2,David Arquette,0.09315374337560332,18.0,Safe,Baseline
+13,2,Ricki Lake,0.09090909090900823,23.0,Safe,Baseline
+13,2,J.R. Martinez,0.09090909090900823,22.0,Safe,Baseline
+13,2,Hope Solo,0.09090909090900823,19.0,Safe,Baseline
+13,2,Chynna Phillips,0.09090909090900823,21.0,Safe,Baseline
+13,2,Kristin Cavallari,0.09090909090900823,22.0,Safe,Baseline
+13,2,Carson Kressley,0.09315374337560331,18.0,Safe,Baseline
+13,2,Chaz Bono,0.09763804830833873,17.0,Safe,Baseline
+13,2,Nancy Grace,0.09090909090900823,21.0,Safe,Baseline
+13,2,Rob Kardashian,0.09090909090900823,21.0,Safe,Baseline
+13,3,David Arquette,0.1000000000003638,24.0,Safe,Baseline
+13,3,Ricki Lake,0.1000000000003638,27.0,Safe,Baseline
+13,3,J.R. Martinez,0.1000000000003638,26.0,Safe,Baseline
+13,3,Hope Solo,0.1000000000003638,24.0,Safe,Baseline
+13,3,Chynna Phillips,0.1000000000003638,26.0,Safe,Baseline
+13,3,Kristin Cavallari,0.08733510548438321,24.0,Eliminated,Baseline
+13,3,Carson Kressley,0.1000000000003638,23.0,Safe,Baseline
+13,3,Chaz Bono,0.11266156118058575,18.0,Safe,Baseline
+13,3,Nancy Grace,0.10000333333248447,21.0,Safe,Baseline
+13,3,Rob Kardashian,0.1000000000003638,24.0,Safe,Baseline
+13,4,David Arquette,0.1111111111111111,23.0,Safe,Baseline
+13,4,Ricki Lake,0.1111111111111111,29.0,Safe,Baseline
+13,4,J.R. Martinez,0.1111111111111111,26.0,Safe,Baseline
+13,4,Hope Solo,0.1111111111111111,24.0,Safe,Baseline
+13,4,Chynna Phillips,0.10871376661350345,21.0,Eliminated,Baseline
+13,4,Carson Kressley,0.11350845560871876,20.0,Safe,Baseline
+13,4,Chaz Bono,0.1111111111111111,21.0,Safe,Baseline
+13,4,Nancy Grace,0.1111111111111111,21.0,Safe,Baseline
+13,4,Rob Kardashian,0.1111111111111111,24.0,Safe,Baseline
+13,5,David Arquette,0.125,25.0,Safe,Baseline
+13,5,Ricki Lake,0.125,24.0,Safe,Baseline
+13,5,J.R. Martinez,0.125,28.0,Safe,Baseline
+13,5,Hope Solo,0.125,24.0,Safe,Baseline
+13,5,Carson Kressley,0.125,19.0,Eliminated,Baseline
+13,5,Chaz Bono,0.125,21.0,Safe,Baseline
+13,5,Nancy Grace,0.125,22.0,Safe,Baseline
+13,5,Rob Kardashian,0.125,25.0,Safe,Baseline
+13,6,David Arquette,0.14285714285714285,23.0,Safe,Baseline
+13,6,Ricki Lake,0.14285714285714285,29.0,Safe,Baseline
+13,6,J.R. Martinez,0.14285714285714285,29.0,Safe,Baseline
+13,6,Hope Solo,0.14285714285714285,20.0,Safe,Baseline
+13,6,Chaz Bono,0.14285714285714285,19.0,Eliminated,Baseline
+13,6,Nancy Grace,0.14285714285714285,24.0,Safe,Baseline
+13,6,Rob Kardashian,0.14285714285714285,22.0,Safe,Baseline
+13,7,David Arquette,0.161542212741752,23.5,Eliminated,Baseline
+13,7,Ricki Lake,0.16666666666666669,26.5,Safe,Baseline
+13,7,J.R. Martinez,0.16666666666666669,24.0,Safe,Baseline
+13,7,Hope Solo,0.16666666666666669,25.0,Safe,Baseline
+13,7,Nancy Grace,0.17179112059158136,22.0,Safe,Baseline
+13,7,Rob Kardashian,0.16666666666666669,25.5,Safe,Baseline
+13,8,Ricki Lake,0.2,26.0,Safe,Baseline
+13,8,J.R. Martinez,0.2,30.0,Safe,Baseline
+13,8,Hope Solo,0.2,26.0,Safe,Baseline
+13,8,Nancy Grace,0.2,22.0,Eliminated,Baseline
+13,8,Rob Kardashian,0.2,25.5,Safe,Baseline
+13,9,Ricki Lake,0.25,33.4999,Safe,Baseline
+13,9,J.R. Martinez,0.25,28.0,Safe,Baseline
+13,9,Hope Solo,0.25,24.4998,Eliminated,Baseline
+13,9,Rob Kardashian,0.25,32.4998,Safe,Baseline
+14,2,William Levy,0.08333333333333333,25.0,Safe,Baseline
+14,2,Jack Wagner,0.08333333333333333,21.0,Safe,Baseline
+14,2,Sherri Sheperd,0.08333333333333333,23.0,Safe,Baseline
+14,2,Jaleel White,0.08333333333333333,22.0,Safe,Baseline
+14,2,Roshon Fegan,0.08333333333333333,26.0,Safe,Baseline
+14,2,Melissa Gilbert,0.08333333333333333,20.0,Safe,Baseline
+14,2,Martina Navratilova,0.08333333333333333,17.0,Eliminated,Baseline
+14,2,Donald Driver,0.08333333333333333,24.0,Safe,Baseline
+14,2,Gavin DeGraw,0.08333333333333333,21.0,Safe,Baseline
+14,2,Gladys Knight,0.08333333333333333,19.0,Safe,Baseline
+14,2,Katherine Jenkins,0.08333333333333333,26.0,Safe,Baseline
+14,2,Maria Menounos,0.08333333333333333,25.0,Safe,Baseline
+14,3,William Levy,0.0909090909090909,28.0,Safe,Baseline
+14,3,Jack Wagner,0.09090109090909089,24.0,Eliminated,Baseline
+14,3,Sherri Sheperd,0.09091109090909089,24.0,Safe,Baseline
+14,3,Jaleel White,0.0909090909090909,25.0,Safe,Baseline
+14,3,Roshon Fegan,0.0909090909090909,25.0,Safe,Baseline
+14,3,Melissa Gilbert,0.09091109090909089,24.0,Safe,Baseline
+14,3,Donald Driver,0.0909090909090909,26.0,Safe,Baseline
+14,3,Gavin DeGraw,0.09091109090909089,24.0,Safe,Baseline
+14,3,Gladys Knight,0.09091109090909089,24.0,Safe,Baseline
+14,3,Katherine Jenkins,0.0909090909090909,29.0,Safe,Baseline
+14,3,Maria Menounos,0.0909090909090909,27.0,Safe,Baseline
+14,4,William Levy,0.1,22.0,Safe,Baseline
+14,4,Sherri Sheperd,0.09784907725321888,21.0,Eliminated,Baseline
+14,4,Jaleel White,0.1,22.0,Safe,Baseline
+14,4,Roshon Fegan,0.1,26.0,Safe,Baseline
+14,4,Melissa Gilbert,0.1,22.0,Safe,Baseline
+14,4,Donald Driver,0.1,27.0,Safe,Baseline
+14,4,Gavin DeGraw,0.1,23.0,Safe,Baseline
+14,4,Gladys Knight,0.10215092274678113,20.0,Safe,Baseline
+14,4,Katherine Jenkins,0.1,24.0,Safe,Baseline
+14,4,Maria Menounos,0.1,26.0,Safe,Baseline
+14,5,William Levy,0.1111111111111111,29.0,Safe,Baseline
+14,5,Jaleel White,0.1111111111111111,24.0,Safe,Baseline
+14,5,Roshon Fegan,0.1111111111111111,26.0,Safe,Baseline
+14,5,Melissa Gilbert,0.1111111111111111,21.0,Safe,Baseline
+14,5,Donald Driver,0.1111111111111111,27.0,Safe,Baseline
+14,5,Gavin DeGraw,0.1111111111111111,19.0,Eliminated,Baseline
+14,5,Gladys Knight,0.1111111111111111,22.0,Safe,Baseline
+14,5,Katherine Jenkins,0.1111111111111111,29.0,Safe,Baseline
+14,5,Maria Menounos,0.1111111111111111,27.0,Safe,Baseline
+14,6,William Levy,0.125,36.0,Safe,Baseline
+14,6,Jaleel White,0.125,36.9998,Safe,Baseline
+14,6,Roshon Fegan,0.125,27.9998,Safe,Baseline
+14,6,Melissa Gilbert,0.125,30.0,Safe,Baseline
+14,6,Donald Driver,0.125,33.9999,Safe,Baseline
+14,6,Gladys Knight,0.125,24.0,Eliminated,Baseline
+14,6,Katherine Jenkins,0.125,38.9999,Safe,Baseline
+14,6,Maria Menounos,0.125,29.999899999999997,Safe,Baseline
+14,7,William Levy,0.1428571428572078,26.5,Safe,Baseline
+14,7,Jaleel White,0.13740255157632647,25.5,Eliminated,Baseline
+14,7,Roshon Fegan,0.1428571428572078,26.0,Safe,Baseline
+14,7,Melissa Gilbert,0.14831173413763438,23.5,Safe,Baseline
+14,7,Donald Driver,0.1428571428572078,26.5,Safe,Baseline
+14,7,Katherine Jenkins,0.1428571428572078,27.0,Safe,Baseline
+14,7,Maria Menounos,0.1428571428572078,28.5,Safe,Baseline
+14,8,William Levy,0.16666666666651508,28.5,Safe,Baseline
+14,8,Roshon Fegan,0.15850505606539114,28.0,Eliminated,Baseline
+14,8,Melissa Gilbert,0.173805575943067,25.5,Eliminated,Baseline
+14,8,Donald Driver,0.16666666666651508,27.5,Safe,Baseline
+14,8,Katherine Jenkins,0.16666666666651508,27.5,Safe,Baseline
+14,8,Maria Menounos,0.16768936799199669,26.5,Safe,Baseline
+14,9,William Levy,0.2500000000001137,29.0,Safe,Baseline
+14,9,Donald Driver,0.2514526086956143,28.5,Safe,Baseline
+14,9,Katherine Jenkins,0.25580043478257086,28.0,Safe,Baseline
+14,9,Maria Menounos,0.24274695652170122,29.5,Eliminated,Baseline
+15,1,Gilles Marini,0.07692307692307693,24.0,Safe,Baseline
+15,1,Sabrina Bryan,0.07692307692307693,22.5,Safe,Baseline
+15,1,Kirstie Alley,0.07692307692307693,19.0,Safe,Baseline
+15,1,Kelly Monaco,0.07692307692307693,21.5,Safe,Baseline
+15,1,Apolo Anton Ohno,0.07692307692307693,22.0,Safe,Baseline
+15,1,Emmitt Smith,0.07692307692307693,24.5,Safe,Baseline
+15,1,Shawn Johnson,0.07692307692307693,22.0,Safe,Baseline
+15,1,Pamela Anderson,0.07692307692307693,17.0,Eliminated,Baseline
+15,1,Helio Castroneves,0.07692307692307693,21.5,Safe,Baseline
+15,1,Joey Fatone,0.07692307692307693,20.5,Safe,Baseline
+15,1,Drew Lachey,0.07692307692307693,21.5,Safe,Baseline
+15,1,Bristol Palin,0.07692307692307693,19.5,Safe,Baseline
+15,1,Melissa Rycroft,0.07692307692307693,21.0,Safe,Baseline
+15,2,Gilles Marini,0.08333333333333333,25.5,Safe,Baseline
+15,2,Sabrina Bryan,0.08333333333333333,26.0,Safe,Baseline
+15,2,Kirstie Alley,0.08333333333333333,21.0,Safe,Baseline
+15,2,Kelly Monaco,0.08333333333333333,22.0,Safe,Baseline
+15,2,Apolo Anton Ohno,0.08333333333333333,24.5,Safe,Baseline
+15,2,Emmitt Smith,0.08333333333333333,22.5,Safe,Baseline
+15,2,Shawn Johnson,0.08333333333333333,25.0,Safe,Baseline
+15,2,Helio Castroneves,0.08333333333333333,23.0,Safe,Baseline
+15,2,Joey Fatone,0.07517615942028984,22.5,Eliminated,Baseline
+15,2,Drew Lachey,0.08333333333333333,22.5,Safe,Baseline
+15,2,Bristol Palin,0.0914905072463768,18.0,Safe,Baseline
+15,2,Melissa Rycroft,0.08333333333333333,23.5,Safe,Baseline
+15,3,Gilles Marini,0.09090909090909091,25.5,Safe,Baseline
+15,3,Sabrina Bryan,0.09090909090909091,25.5,Safe,Baseline
+15,3,Kirstie Alley,0.09091159090909093,24.0,Safe,Baseline
+15,3,Kelly Monaco,0.09090909090909091,27.0,Safe,Baseline
+15,3,Apolo Anton Ohno,0.09090909090909091,25.5,Safe,Baseline
+15,3,Emmitt Smith,0.09090909090909091,25.0,Safe,Baseline
+15,3,Shawn Johnson,0.09090909090909091,26.5,Safe,Baseline
+15,3,Helio Castroneves,0.08550590745585349,25.5,Eliminated,Baseline
+15,3,Drew Lachey,0.09091159090909093,24.0,Eliminated,Baseline
+15,3,Bristol Palin,0.09630727436232832,22.5,Safe,Baseline
+15,3,Melissa Rycroft,0.09090909090909091,27.0,Safe,Baseline
+15,4,Gilles Marini,0.1111111111111111,39.5,Safe,Baseline
+15,4,Sabrina Bryan,0.1111111111111111,35.5,Safe,Baseline
+15,4,Kirstie Alley,0.11422653101779852,30.0,Safe,Baseline
+15,4,Kelly Monaco,0.1111111111111111,37.5,Safe,Baseline
+15,4,Apolo Anton Ohno,0.1111111111111111,34.5,Safe,Baseline
+15,4,Emmitt Smith,0.1111111111111111,36.0,Safe,Baseline
+15,4,Shawn Johnson,0.1111111111111111,39.5,Safe,Baseline
+15,4,Bristol Palin,0.10799569120442369,32.0,Eliminated,Baseline
+15,4,Melissa Rycroft,0.1111111111111111,37.0,Safe,Baseline
+15,6,Gilles Marini,0.12588695575214418,27.5,Safe,Baseline
+15,6,Sabrina Bryan,0.1148150088494893,30.0,Eliminated,Baseline
+15,6,Kirstie Alley,0.12588695575214418,27.5,Safe,Baseline
+15,6,Kelly Monaco,0.12809934513267512,27.0,Safe,Baseline
+15,6,Apolo Anton Ohno,0.1250000000001137,30.0,Safe,Baseline
+15,6,Emmitt Smith,0.13031173451320613,26.5,Safe,Baseline
+15,6,Shawn Johnson,0.1250000000001137,28.0,Safe,Baseline
+15,6,Melissa Rycroft,0.1250000000001137,29.5,Safe,Baseline
+15,8,Gilles Marini,0.13337364705179813,29.2777,Eliminated,Baseline
+15,8,Kirstie Alley,0.15234063866248754,25.5,Eliminated,Baseline
+15,8,Kelly Monaco,0.14285714285714285,28.3333,Safe,Baseline
+15,8,Apolo Anton Ohno,0.14285714285714285,29.2777,Safe,Baseline
+15,8,Emmitt Smith,0.14285714285714285,29.0554,Safe,Baseline
+15,8,Shawn Johnson,0.14285714285714285,27.8333,Safe,Baseline
+15,8,Melissa Rycroft,0.14285714285714285,30.0,Safe,Baseline
+15,9,Kelly Monaco,0.20328702826318068,27.110999999999997,Safe,Baseline
+15,9,Apolo Anton Ohno,0.19263870775611583,28.611,Eliminated,Baseline
+15,9,Emmitt Smith,0.20407426398070352,27.0,Eliminated,Baseline
+15,9,Shawn Johnson,0.2,29.5,Safe,Baseline
+15,9,Melissa Rycroft,0.2,28.7777,Safe,Baseline
+16,3,Ingo Rademacher,0.08333333333454598,21.0,Safe,Baseline
+16,3,Zendaya,0.08333333333454598,25.9998,Safe,Baseline
+16,3,Dorothy Hamill,0.11525328126760696,0.0,Safe,Baseline
+16,3,Victor Ortiz,0.08333333333454598,23.0,Safe,Baseline
+16,3,Alexandra Raisman,0.08333333333454598,23.0,Safe,Baseline
+16,3,Jacoby Jones,0.08333333333454598,25.9998,Safe,Baseline
+16,3,D. L. Hughley,0.08333333333454598,16.0,Safe,Baseline
+16,3,Andy Dick,0.08333333333454598,18.0,Safe,Baseline
+16,3,Wynonna Judd,0.05141338538693313,15.0,Eliminated,Baseline
+16,3,Kellie Pickler,0.08333333333454598,25.0,Safe,Baseline
+16,3,Lisa Vanderpump,0.08333333333454598,21.0,Safe,Baseline
+16,3,Sean Lowe,0.08333333333454598,21.0,Safe,Baseline
+16,4,Ingo Rademacher,0.09090909090909091,23.0,Safe,Baseline
+16,4,Zendaya,0.09090909090909091,26.0,Safe,Baseline
+16,4,Dorothy Hamill,0.13109266233766237,0.0,Safe,Baseline
+16,4,Victor Ortiz,0.09090909090909091,18.0,Safe,Baseline
+16,4,Alexandra Raisman,0.09090909090909091,27.0,Safe,Baseline
+16,4,Jacoby Jones,0.09090909090909091,24.0,Safe,Baseline
+16,4,D. L. Hughley,0.09090909090909091,21.0,Safe,Baseline
+16,4,Andy Dick,0.09090909090909091,21.0,Safe,Baseline
+16,4,Kellie Pickler,0.09090909090909091,26.0,Safe,Baseline
+16,4,Lisa Vanderpump,0.05072551948051947,18.0,Eliminated,Baseline
+16,4,Sean Lowe,0.09090909090909091,20.0,Safe,Baseline
+16,5,Ingo Rademacher,0.1,21.0,Safe,Baseline
+16,5,Zendaya,0.1,29.0,Safe,Baseline
+16,5,Dorothy Hamill,0.1430672009569378,0.0,Safe,Baseline
+16,5,Victor Ortiz,0.1,21.0,Safe,Baseline
+16,5,Alexandra Raisman,0.1,25.0,Safe,Baseline
+16,5,Jacoby Jones,0.1,26.0,Safe,Baseline
+16,5,D. L. Hughley,0.0569327990430622,18.0,Eliminated,Baseline
+16,5,Andy Dick,0.1,18.0,Safe,Baseline
+16,5,Kellie Pickler,0.1,27.0,Safe,Baseline
+16,5,Sean Lowe,0.1,24.0,Safe,Baseline
+16,6,Ingo Rademacher,0.1111111111111111,23.0,Safe,Baseline
+16,6,Zendaya,0.1111111111111111,25.5,Safe,Baseline
+16,6,Dorothy Hamill,0.1641665089890952,0.0,Safe,Baseline
+16,6,Victor Ortiz,0.05805571323312701,20.0,Eliminated,Baseline
+16,6,Alexandra Raisman,0.1111111111111111,26.0,Safe,Baseline
+16,6,Jacoby Jones,0.1111111111111111,22.5,Safe,Baseline
+16,6,Andy Dick,0.1111111111111111,21.5,Safe,Baseline
+16,6,Kellie Pickler,0.1111111111111111,27.0,Safe,Baseline
+16,6,Sean Lowe,0.1111111111111111,23.0,Safe,Baseline
+16,7,Ingo Rademacher,0.125,25.0,Safe,Baseline
+16,7,Zendaya,0.125,30.0,Safe,Baseline
+16,7,Dorothy Hamill,0.17120065217391303,0.0,Safe,Baseline
+16,7,Alexandra Raisman,0.125,32.0,Safe,Baseline
+16,7,Jacoby Jones,0.125,27.0,Safe,Baseline
+16,7,Andy Dick,0.07879934782608697,17.0,Eliminated,Baseline
+16,7,Kellie Pickler,0.125,29.0,Safe,Baseline
+16,7,Sean Lowe,0.125,24.0,Safe,Baseline
+16,8,Ingo Rademacher,0.14285714286545823,24.0,Safe,Baseline
+16,8,Zendaya,0.14285714286545823,29.0,Safe,Baseline
+16,8,Dorothy Hamill,0.21038625859198143,0.0,Safe,Baseline
+16,8,Alexandra Raisman,0.14285714286545825,28.0,Safe,Baseline
+16,8,Jacoby Jones,0.14285714286545825,26.0,Safe,Baseline
+16,8,Kellie Pickler,0.14285714286545823,27.5,Safe,Baseline
+16,8,Sean Lowe,0.07532802708072739,21.0,Eliminated,Baseline
+16,9,Ingo Rademacher,0.0762361347905782,25.5,Eliminated,Baseline
+16,9,Zendaya,0.16666666664726412,27.5,Safe,Baseline
+16,9,Dorothy Hamill,0.2570971986203654,0.0,Safe,Baseline
+16,9,Alexandra Raisman,0.16666666664726412,29.5,Safe,Baseline
+16,9,Jacoby Jones,0.16666666664726412,29.5,Safe,Baseline
+16,9,Kellie Pickler,0.1666666666472641,29.0,Safe,Baseline
+16,10,Zendaya,0.19999999999999998,30.0,Safe,Baseline
+16,10,Dorothy Hamill,0.3239367298561794,0.0,Safe,Baseline
+16,10,Alexandra Raisman,0.0760632701438207,29.0,Eliminated,Baseline
+16,10,Jacoby Jones,0.2,27.999899999999997,Safe,Baseline
+16,10,Kellie Pickler,0.19999999999999998,30.0,Safe,Baseline
+17,2,Valerie Harper,0.08333333333333094,19.0,Safe,Baseline
+17,2,Brant Daugherty,0.08333333333333094,23.0,Safe,Baseline
+17,2,Elizabeth Berkley Lauren,0.08333333333333094,25.0,Safe,Baseline
+17,2,Leah Remini,0.08333333333333094,24.0,Safe,Baseline
+17,2,Corbin Bleu,0.08333333333333094,26.0,Safe,Baseline
+17,2,Amber Riley,0.08333333333333094,24.0,Safe,Baseline
+17,2,Keyshawn Johnson,0.08144863408522485,18.0,Eliminated,Baseline
+17,2,Bill Engvall,0.08333333333333094,21.0,Safe,Baseline
+17,2,Christina Milian,0.08333333333333094,25.0,Safe,Baseline
+17,2,"Nicole ""Snooki"" Polizzi",0.08333333333333094,20.0,Safe,Baseline
+17,2,Jack Osbourne,0.08333333333333094,24.0,Safe,Baseline
+17,2,Bill Nye,0.08521803258146546,17.0,Safe,Baseline
+17,3,Valerie Harper,0.09091409090909092,16.0,Safe,Baseline
+17,3,Brant Daugherty,0.09090909090909091,27.0,Safe,Baseline
+17,3,Elizabeth Berkley Lauren,0.09090909090909091,25.0,Safe,Baseline
+17,3,Leah Remini,0.09090909090909091,24.0,Safe,Baseline
+17,3,Corbin Bleu,0.09090909090909091,26.0,Safe,Baseline
+17,3,Amber Riley,0.09090909090909091,24.0,Safe,Baseline
+17,3,Bill Engvall,0.09090909090909091,24.0,Safe,Baseline
+17,3,Christina Milian,0.09090909090909091,26.0,Safe,Baseline
+17,3,"Nicole ""Snooki"" Polizzi",0.09090909090909091,25.0,Safe,Baseline
+17,3,Jack Osbourne,0.09090909090909091,22.0,Safe,Baseline
+17,3,Bill Nye,0.0909040909090909,16.0,Eliminated,Baseline
+17,4,Valerie Harper,0.1,18.0,Eliminated,Baseline
+17,4,Brant Daugherty,0.1,21.0,Safe,Baseline
+17,4,Elizabeth Berkley Lauren,0.1,27.0,Safe,Baseline
+17,4,Leah Remini,0.1,24.0,Safe,Baseline
+17,4,Corbin Bleu,0.1,27.0,Safe,Baseline
+17,4,Amber Riley,0.1,27.0,Safe,Baseline
+17,4,Bill Engvall,0.1,21.0,Safe,Baseline
+17,4,Christina Milian,0.1,24.0,Safe,Baseline
+17,4,"Nicole ""Snooki"" Polizzi",0.1,24.0,Safe,Baseline
+17,4,Jack Osbourne,0.1,24.0,Safe,Baseline
+17,5,Brant Daugherty,0.1111111111111111,27.0,Safe,Baseline
+17,5,Elizabeth Berkley Lauren,0.1111111111111111,26.0,Safe,Baseline
+17,5,Leah Remini,0.12246196217494089,22.0,Safe,Baseline
+17,5,Corbin Bleu,0.1111111111111111,28.0,Safe,Baseline
+17,5,Amber Riley,0.1111111111111111,26.0,Safe,Baseline
+17,5,Bill Engvall,0.11395132387706856,24.0,Safe,Baseline
+17,5,Christina Milian,0.09692004728132386,28.0,Eliminated,Baseline
+17,5,"Nicole ""Snooki"" Polizzi",0.1111111111111111,27.0,Safe,Baseline
+17,5,Jack Osbourne,0.1111111111111111,27.0,Safe,Baseline
+17,7,Brant Daugherty,0.125,28.5,Safe,Baseline
+17,7,Elizabeth Berkley Lauren,0.125,27.0,Safe,Baseline
+17,7,Leah Remini,0.125,26.5,Safe,Baseline
+17,7,Corbin Bleu,0.125,29.5,Safe,Baseline
+17,7,Amber Riley,0.125,29.5,Safe,Baseline
+17,7,Bill Engvall,0.12951967268623024,25.0,Safe,Baseline
+17,7,"Nicole ""Snooki"" Polizzi",0.12048032731376977,27.0,Eliminated,Baseline
+17,7,Jack Osbourne,0.125,28.5,Safe,Baseline
+17,8,Brant Daugherty,0.13416992063492064,27.0,Eliminated,Baseline
+17,8,Elizabeth Berkley Lauren,0.1445965873015873,25.0,Safe,Baseline
+17,8,Leah Remini,0.14285714285714288,28.0,Safe,Baseline
+17,8,Corbin Bleu,0.14285714285714288,30.0,Safe,Baseline
+17,8,Amber Riley,0.14285714285714288,28.0,Safe,Baseline
+17,8,Bill Engvall,0.14980492063492062,24.0,Safe,Baseline
+17,8,Jack Osbourne,0.14285714285714288,30.0,Safe,Baseline
+17,9,Elizabeth Berkley Lauren,0.14443944444201917,28.0,Eliminated,Baseline
+17,9,Leah Remini,0.16666666666787933,27.0,Safe,Baseline
+17,9,Corbin Bleu,0.16666666666787933,29.0,Safe,Baseline
+17,9,Amber Riley,0.16666666666787933,25.5,Safe,Baseline
+17,9,Bill Engvall,0.18889388888646358,21.0,Safe,Baseline
+17,9,Jack Osbourne,0.16666666666787933,27.0,Safe,Baseline
+17,10,Leah Remini,0.19285214285714286,32.5,Eliminated,Baseline
+17,10,Corbin Bleu,0.2,37.5,Safe,Baseline
+17,10,Amber Riley,0.2,39.5,Safe,Baseline
+17,10,Bill Engvall,0.20714785714285716,30.0,Safe,Baseline
+17,10,Jack Osbourne,0.2,35.5,Safe,Baseline
+17,11,Corbin Bleu,0.25,29.6664,Safe,Baseline
+17,11,Amber Riley,0.25,31.333199999999998,Safe,Baseline
+17,11,Bill Engvall,0.25,25.499899999999997,Eliminated,Baseline
+17,11,Jack Osbourne,0.25,27.999899999999997,Safe,Baseline
+18,2,Billy Dee Williams,0.08333333333212067,15.0,Safe,Baseline
+18,2,Danica McKellar,0.08333333333212066,24.0,Safe,Baseline
+18,2,James Maslow,0.08333333333212066,25.0,Safe,Baseline
+18,2,Candace Cameron Bure,0.08333333333212067,21.0,Safe,Baseline
+18,2,Sean Avery,0.040295546454150746,21.0,Eliminated,Baseline
+18,2,Diana Nyad,0.12637112022464253,0.0,Eliminated,Baseline
+18,2,Charlie White,0.08333333333212067,25.0,Safe,Baseline
+18,2,Amy Purdy,0.08333333333212066,24.0,Safe,Baseline
+18,2,Meryl Davis,0.08333333333212067,25.0,Safe,Baseline
+18,2,Drew Carey,0.08333333333212066,21.0,Safe,Baseline
+18,2,Cody Simpson,0.08333333333212066,22.0,Safe,Baseline
+18,2,NeNe Leakes,0.08333333333212066,21.0,Safe,Baseline
+18,5,Billy Dee Williams,0.15280003104425904,0.0,Safe,Baseline
+18,5,Danica McKellar,0.10000000000291037,39.0,Safe,Baseline
+18,5,James Maslow,0.10000000000291037,40.0,Safe,Baseline
+18,5,Candace Cameron Bure,0.10000000000291036,35.0,Safe,Baseline
+18,5,Charlie White,0.10000000000291037,37.0,Safe,Baseline
+18,5,Amy Purdy,0.10000000000291037,37.0,Safe,Baseline
+18,5,Meryl Davis,0.10000000000291037,36.0,Safe,Baseline
+18,5,Drew Carey,0.10000000000291037,28.0,Safe,Baseline
+18,5,Cody Simpson,0.04719996893245784,34.0,Eliminated,Baseline
+18,5,NeNe Leakes,0.10000000000291037,36.0,Safe,Baseline
+18,6,Billy Dee Williams,0.16785369976359335,0.0,Safe,Baseline
+18,6,Danica McKellar,0.1111111111111111,36.0,Safe,Baseline
+18,6,James Maslow,0.1111111111111111,35.0,Safe,Baseline
+18,6,Candace Cameron Bure,0.1111111111111111,32.0,Safe,Baseline
+18,6,Charlie White,0.1111111111111111,36.0,Safe,Baseline
+18,6,Amy Purdy,0.1111111111111111,38.0,Safe,Baseline
+18,6,Meryl Davis,0.1111111111111111,40.0,Safe,Baseline
+18,6,Drew Carey,0.054368522458628846,32.0,Eliminated,Baseline
+18,6,NeNe Leakes,0.11111111111111112,33.0,Safe,Baseline
+18,7,Billy Dee Williams,0.19022239130434782,0.0,Safe,Baseline
+18,7,Danica McKellar,0.125,36.0,Safe,Baseline
+18,7,James Maslow,0.125,35.0,Safe,Baseline
+18,7,Candace Cameron Bure,0.125,37.0,Safe,Baseline
+18,7,Charlie White,0.125,35.5,Safe,Baseline
+18,7,Amy Purdy,0.125,37.5,Safe,Baseline
+18,7,Meryl Davis,0.125,39.0,Safe,Baseline
+18,7,NeNe Leakes,0.059777608695652185,33.0,Eliminated,Baseline
+18,8,Billy Dee Williams,0.22693293933810832,0.0,Safe,Baseline
+18,8,Danica McKellar,0.05878134641775426,38.0,Eliminated,Baseline
+18,8,James Maslow,0.14285714284882747,36.0,Safe,Baseline
+18,8,Candace Cameron Bure,0.14285714284882745,36.0,Safe,Baseline
+18,8,Charlie White,0.14285714284882745,40.0,Safe,Baseline
+18,8,Amy Purdy,0.14285714284882747,40.0,Safe,Baseline
+18,8,Meryl Davis,0.14285714284882747,36.0,Safe,Baseline
+18,9,Billy Dee Williams,0.2661481064572426,0.0,Safe,Baseline
+18,9,James Maslow,0.16666666666666669,38.0,Safe,Baseline
+18,9,Candace Cameron Bure,0.16666666666666669,36.0,Safe,Baseline
+18,9,Charlie White,0.06718522687609073,38.0,Eliminated,Baseline
+18,9,Amy Purdy,0.16666666666666669,39.0,Safe,Baseline
+18,9,Meryl Davis,0.1666666666666667,40.0,Safe,Baseline
+18,10,Billy Dee Williams,0.3264587824506569,0.0,Safe,Baseline
+18,10,James Maslow,0.07354121754934308,29.0,Eliminated,Baseline
+18,10,Candace Cameron Bure,0.2,25.9998,Safe,Baseline
+18,10,Amy Purdy,0.2,29.666600000000003,Safe,Baseline
+18,10,Meryl Davis,0.2,30.0,Safe,Baseline
+19,1,Antonio Sabato Jr.,0.07692307692308128,25.0,Safe,Baseline
+19,1,Jonathan Bennett,0.07692307692308128,30.0,Safe,Baseline
+19,1,Lea Thompson,0.07692307692308128,32.0,Safe,Baseline
+19,1,Janel Parrish,0.07692307692308128,29.0,Safe,Baseline
+19,1,Alfonso Ribeiro,0.07692307692308128,36.0,Safe,Baseline
+19,1,Lolo Jones,0.0742299048800421,22.0,Eliminated,Baseline
+19,1,Randy Couture,0.07692307692308128,31.0,Safe,Baseline
+19,1,Tommy Chong,0.07692307692308128,27.0,Safe,Baseline
+19,1,Betsey Johnson,0.0796162489660636,20.0,Safe,Baseline
+19,1,Michael Waltrip,0.07692307692308128,25.0,Safe,Baseline
+19,1,Tavis Smiley,0.07692307692308128,29.0,Safe,Baseline
+19,1,Bethany Mota,0.07692307692308128,32.0,Safe,Baseline
+19,1,Sadie Robertson,0.07692307692308128,34.0,Safe,Baseline
+19,2,Antonio Sabato Jr.,0.08333333333333333,31.0,Safe,Baseline
+19,2,Jonathan Bennett,0.08333333333333333,30.0,Safe,Baseline
+19,2,Lea Thompson,0.08333333333333333,35.0,Safe,Baseline
+19,2,Janel Parrish,0.08333333333333333,34.0,Safe,Baseline
+19,2,Alfonso Ribeiro,0.08333333333333333,32.0,Safe,Baseline
+19,2,Randy Couture,0.08333333333333333,28.0,Safe,Baseline
+19,2,Tommy Chong,0.08333333333333333,28.0,Safe,Baseline
+19,2,Betsey Johnson,0.08333333333333333,28.0,Safe,Baseline
+19,2,Michael Waltrip,0.08886319521178637,24.0,Safe,Baseline
+19,2,Tavis Smiley,0.07780347145488029,28.0,Eliminated,Baseline
+19,2,Bethany Mota,0.08333333333333333,33.0,Safe,Baseline
+19,2,Sadie Robertson,0.08333333333333333,31.0,Safe,Baseline
+19,3,Antonio Sabato Jr.,0.09090909090909091,29.0,Safe,Baseline
+19,3,Jonathan Bennett,0.09090909090909091,32.0,Safe,Baseline
+19,3,Lea Thompson,0.09090909090909091,31.0,Safe,Baseline
+19,3,Janel Parrish,0.09090909090909091,40.0,Safe,Baseline
+19,3,Alfonso Ribeiro,0.09090909090909091,32.0,Safe,Baseline
+19,3,Randy Couture,0.09090909090909091,26.0,Eliminated,Baseline
+19,3,Tommy Chong,0.09090909090909091,34.0,Safe,Baseline
+19,3,Betsey Johnson,0.09090909090909091,29.0,Safe,Baseline
+19,3,Michael Waltrip,0.09090909090909091,28.0,Safe,Baseline
+19,3,Bethany Mota,0.09090909090909091,40.0,Safe,Baseline
+19,3,Sadie Robertson,0.09090909090909091,32.0,Safe,Baseline
+19,4,Antonio Sabato Jr.,0.1,29.0,Safe,Baseline
+19,4,Jonathan Bennett,0.10625333333333335,24.0,Safe,Baseline
+19,4,Lea Thompson,0.1,39.0,Safe,Baseline
+19,4,Janel Parrish,0.1,36.0,Safe,Baseline
+19,4,Alfonso Ribeiro,0.1,40.0,Safe,Baseline
+19,4,Tommy Chong,0.1,28.0,Safe,Baseline
+19,4,Betsey Johnson,0.09061833333333334,29.0,Eliminated,Baseline
+19,4,Michael Waltrip,0.10312833333333332,25.0,Safe,Baseline
+19,4,Bethany Mota,0.1,33.0,Safe,Baseline
+19,4,Sadie Robertson,0.1,37.0,Safe,Baseline
+19,6,Antonio Sabato Jr.,0.11566507015588393,28.0,Safe,Baseline
+19,6,Jonathan Bennett,0.10200319302277813,32.0,Eliminated,Baseline
+19,6,Lea Thompson,0.11111111111090899,32.0,Safe,Baseline
+19,6,Janel Parrish,0.111111111110909,33.0,Safe,Baseline
+19,6,Alfonso Ribeiro,0.11111111111090899,39.0,Safe,Baseline
+19,6,Tommy Chong,0.11566507015588393,28.0,Safe,Baseline
+19,6,Michael Waltrip,0.11111111111090899,30.0,Safe,Baseline
+19,6,Bethany Mota,0.11111111111090899,36.0,Safe,Baseline
+19,6,Sadie Robertson,0.11111111111090899,35.0,Safe,Baseline
+19,7,Antonio Sabato Jr.,0.12209364603485888,29.5,Eliminated,Baseline
+19,7,Lea Thompson,0.12499999999998579,35.0,Safe,Baseline
+19,7,Janel Parrish,0.12499999999998579,33.5,Safe,Baseline
+19,7,Alfonso Ribeiro,0.12499999999998579,34.0,Safe,Baseline
+19,7,Tommy Chong,0.12499999999998579,30.0,Safe,Baseline
+19,7,Michael Waltrip,0.12790635396522637,28.0,Safe,Baseline
+19,7,Bethany Mota,0.12499999999998579,37.5,Safe,Baseline
+19,7,Sadie Robertson,0.12499999999998579,31.0,Safe,Baseline
+19,8,Lea Thompson,0.14285714285714285,32.0,Safe,Baseline
+19,8,Janel Parrish,0.14285714285714285,43.0,Safe,Baseline
+19,8,Alfonso Ribeiro,0.14285714285714285,41.0,Safe,Baseline
+19,8,Tommy Chong,0.14285714285714285,29.0,Safe,Baseline
+19,8,Michael Waltrip,0.14285714285714285,25.0,Eliminated,Baseline
+19,8,Bethany Mota,0.14285714285714285,40.0,Safe,Baseline
+19,8,Sadie Robertson,0.14285714285714285,38.0,Safe,Baseline
+19,9,Lea Thompson,0.1514747507788162,35.0,Eliminated,Baseline
+19,9,Janel Parrish,0.16666666666666666,38.5,Safe,Baseline
+19,9,Alfonso Ribeiro,0.16666666666666666,38.5,Safe,Baseline
+19,9,Tommy Chong,0.18185858255451715,28.5,Safe,Baseline
+19,9,Bethany Mota,0.16666666666666666,37.0,Safe,Baseline
+19,9,Sadie Robertson,0.16666666666666666,36.5,Safe,Baseline
+19,10,Janel Parrish,0.2,39.0,Safe,Baseline
+19,10,Alfonso Ribeiro,0.2,37.5,Safe,Baseline
+19,10,Tommy Chong,0.2,31.0,Eliminated,Baseline
+19,10,Bethany Mota,0.2,38.0,Safe,Baseline
+19,10,Sadie Robertson,0.2,37.0,Safe,Baseline
+19,11,Janel Parrish,0.25,38.99980000000001,Safe,Baseline
+19,11,Alfonso Ribeiro,0.25,40.0,Safe,Baseline
+19,11,Bethany Mota,0.25,38.0,Eliminated,Baseline
+19,11,Sadie Robertson,0.25,39.333200000000005,Safe,Baseline
+20,2,Suzanne Somers,0.08333333333333334,28.0,Safe,Baseline
+20,2,Willow Shields,0.08333333333333334,32.0,Safe,Baseline
+20,2,Riker Lynch,0.08333333333333334,32.0,Safe,Baseline
+20,2,Rumer Willis,0.08333333333333334,32.0,Safe,Baseline
+20,2,Nastia Liukin,0.08333333333333334,34.0,Safe,Baseline
+20,2,Michael Sam,0.08333333333333334,28.0,Safe,Baseline
+20,2,Robert Herjavec,0.08333333333333334,28.0,Safe,Baseline
+20,2,Charlotte McKinney,0.08333666666666668,26.0,Safe,Baseline
+20,2,Noah Galloway,0.08333333333333334,27.0,Safe,Baseline
+20,2,Redfoo,0.06891744476464937,31.0,Eliminated,Baseline
+20,2,Patti LaBelle,0.08333333333333334,28.0,Safe,Baseline
+20,2,Chris Soules,0.09774588856868396,21.0,Safe,Baseline
+20,3,Suzanne Somers,0.09090909090909091,25.0,Safe,Baseline
+20,3,Willow Shields,0.09090909090909091,32.0,Safe,Baseline
+20,3,Riker Lynch,0.09090909090909091,34.0,Safe,Baseline
+20,3,Rumer Willis,0.09090909090909091,33.0,Safe,Baseline
+20,3,Nastia Liukin,0.09090909090909091,34.0,Safe,Baseline
+20,3,Michael Sam,0.09090909090909091,24.0,Safe,Baseline
+20,3,Robert Herjavec,0.09090909090909091,29.0,Safe,Baseline
+20,3,Charlotte McKinney,0.0909040909090909,22.0,Eliminated,Baseline
+20,3,Noah Galloway,0.09090909090909091,30.0,Safe,Baseline
+20,3,Patti LaBelle,0.09091409090909092,22.0,Safe,Baseline
+20,3,Chris Soules,0.09090909090909091,28.0,Safe,Baseline
+20,4,Suzanne Somers,0.10102897435902744,28.0,Safe,Baseline
+20,4,Willow Shields,0.09999999999997727,39.0,Safe,Baseline
+20,4,Riker Lynch,0.09999999999997727,34.0,Safe,Baseline
+20,4,Rumer Willis,0.09999999999997727,35.0,Safe,Baseline
+20,4,Nastia Liukin,0.09999999999997727,36.0,Safe,Baseline
+20,4,Michael Sam,0.09486512820518125,30.0,Eliminated,Baseline
+20,4,Robert Herjavec,0.09999999999997727,34.0,Safe,Baseline
+20,4,Noah Galloway,0.09999999999997727,32.0,Safe,Baseline
+20,4,Patti LaBelle,0.09999999999997727,30.0,Safe,Baseline
+20,4,Chris Soules,0.1041058974359505,27.0,Safe,Baseline
+20,5,Suzanne Somers,0.10403897330192381,28.0,Eliminated,Baseline
+20,5,Willow Shields,0.1111111111111111,34.0,Safe,Baseline
+20,5,Riker Lynch,0.1111111111111111,38.0,Safe,Baseline
+20,5,Rumer Willis,0.1111111111111111,39.0,Safe,Baseline
+20,5,Nastia Liukin,0.1111111111111111,38.0,Safe,Baseline
+20,5,Robert Herjavec,0.11818324892029837,24.0,Safe,Baseline
+20,5,Noah Galloway,0.1111111111111111,28.0,Safe,Baseline
+20,5,Patti LaBelle,0.1111111111111111,27.0,Safe,Baseline
+20,5,Chris Soules,0.1111111111111111,27.0,Safe,Baseline
+20,6,Willow Shields,0.125,36.5,Safe,Baseline
+20,6,Riker Lynch,0.125,38.0,Safe,Baseline
+20,6,Rumer Willis,0.125,35.5,Safe,Baseline
+20,6,Nastia Liukin,0.125,36.5,Safe,Baseline
+20,6,Robert Herjavec,0.12588839222614842,33.5,Safe,Baseline
+20,6,Noah Galloway,0.125,34.0,Safe,Baseline
+20,6,Patti LaBelle,0.12411160777385158,34.0,Eliminated,Baseline
+20,6,Chris Soules,0.125,35.0,Safe,Baseline
+20,7,Willow Shields,0.12185310086239211,39.0,Eliminated,Baseline
+20,7,Riker Lynch,0.14285714285714285,37.0,Safe,Baseline
+20,7,Rumer Willis,0.14285714285714285,37.0,Safe,Baseline
+20,7,Nastia Liukin,0.14285714285714285,41.0,Safe,Baseline
+20,7,Robert Herjavec,0.15335916385451823,31.0,Safe,Baseline
+20,7,Noah Galloway,0.14285714285714285,38.0,Safe,Baseline
+20,7,Chris Soules,0.15335916385451814,31.0,Safe,Baseline
+20,8,Riker Lynch,0.16666666666666666,39.0,Safe,Baseline
+20,8,Rumer Willis,0.16666666666666666,40.0,Safe,Baseline
+20,8,Nastia Liukin,0.16666666666666666,38.0,Safe,Baseline
+20,8,Robert Herjavec,0.16666666666666666,31.0,Eliminated,Baseline
+20,8,Noah Galloway,0.16666666666666666,31.5,Safe,Baseline
+20,8,Chris Soules,0.16666666666666666,32.0,Eliminated,Baseline
+20,9,Riker Lynch,0.2500000000001137,40.0,Safe,Baseline
+20,9,Rumer Willis,0.25000333333329544,39.0,Safe,Baseline
+20,9,Nastia Liukin,0.2436239065817031,40.0,Eliminated,Baseline
+20,9,Noah Galloway,0.2563727600848878,38.0,Safe,Baseline
+21,2,Gary Busey,0.07754255320157352,16.5,Safe,Baseline
+21,2,Alexa PenaVega,0.07692307692307693,23.0,Safe,Baseline
+21,2,Carlos PenaVega,0.07692307692307693,22.5,Safe,Baseline
+21,2,Victor Espinoza,0.07013883785961418,18.5,Eliminated,Baseline
+21,2,Alek Skarlatos,0.07692307692307693,22.5,Safe,Baseline
+21,2,Chaka Khan,0.08308783970804302,15.0,Eliminated,Baseline
+21,2,Andy Grammer,0.07692307692307693,22.0,Safe,Baseline
+21,2,Tamar Braxton,0.07692307692307693,24.5,Safe,Baseline
+21,2,Nick Carter,0.07692307692307693,22.5,Safe,Baseline
+21,2,Hayes Grier,0.07692307692307693,22.5,Safe,Baseline
+21,2,Bindi Irwin,0.07692307692307693,24.0,Safe,Baseline
+21,2,Kim Zolciak-Biermann,0.07692307692307693,18.5,Safe,Baseline
+21,2,Paula Deen,0.07692307692307693,18.5,Safe,Baseline
+21,4,Gary Busey,0.05700578582434516,16.0,Eliminated,Baseline
+21,4,Alexa PenaVega,0.09090909090909091,21.0,Safe,Baseline
+21,4,Carlos PenaVega,0.09090909090909091,25.0,Safe,Baseline
+21,4,Alek Skarlatos,0.09090909090909091,24.0,Safe,Baseline
+21,4,Andy Grammer,0.09090909090909091,23.0,Safe,Baseline
+21,4,Tamar Braxton,0.09090909090909091,27.0,Safe,Baseline
+21,4,Nick Carter,0.09090909090909091,27.0,Safe,Baseline
+21,4,Hayes Grier,0.09090909090909091,27.0,Safe,Baseline
+21,4,Bindi Irwin,0.09090909090909091,28.0,Safe,Baseline
+21,4,Kim Zolciak-Biermann,0.12481239599383666,0.0,Safe,Baseline
+21,4,Paula Deen,0.09090909090909093,18.0,Safe,Baseline
+21,6,Alexa PenaVega,0.1,30.0,Safe,Baseline
+21,6,Carlos PenaVega,0.1,38.0,Safe,Baseline
+21,6,Alek Skarlatos,0.1,30.0,Safe,Baseline
+21,6,Andy Grammer,0.1,40.0,Safe,Baseline
+21,6,Tamar Braxton,0.1,40.0,Safe,Baseline
+21,6,Nick Carter,0.1,39.0,Safe,Baseline
+21,6,Hayes Grier,0.1,32.0,Safe,Baseline
+21,6,Bindi Irwin,0.1,40.0,Safe,Baseline
+21,6,Kim Zolciak-Biermann,0.13834365814696484,0.0,Safe,Baseline
+21,6,Paula Deen,0.0616563418530352,24.0,Eliminated,Baseline
+21,7,Alexa PenaVega,0.1111111111111111,27.5,Safe,Baseline
+21,7,Carlos PenaVega,0.1111111111111111,28.0,Safe,Baseline
+21,7,Alek Skarlatos,0.1111111111111111,26.5,Safe,Baseline
+21,7,Andy Grammer,0.1111111111111111,28.0,Safe,Baseline
+21,7,Tamar Braxton,0.1111111111111111,27.0,Safe,Baseline
+21,7,Nick Carter,0.1111111111111111,27.0,Safe,Baseline
+21,7,Hayes Grier,0.04775769482151837,28.0,Eliminated,Baseline
+21,7,Bindi Irwin,0.1111111111111111,29.0,Safe,Baseline
+21,7,Kim Zolciak-Biermann,0.17446452740070384,0.0,Safe,Baseline
+21,8,Alexa PenaVega,0.125,26.9998,Safe,Baseline
+21,8,Carlos PenaVega,0.125,28.9998,Safe,Baseline
+21,8,Alek Skarlatos,0.125,25.0,Safe,Baseline
+21,8,Andy Grammer,0.06313965405563107,23.9998,Eliminated,Baseline
+21,8,Tamar Braxton,0.125,28.0,Safe,Baseline
+21,8,Nick Carter,0.125,33.0,Safe,Baseline
+21,8,Bindi Irwin,0.12499999999999999,28.0,Safe,Baseline
+21,8,Kim Zolciak-Biermann,0.1868603459443689,0.0,Safe,Baseline
+21,9,Alexa PenaVega,0.051666732522796334,30.0,Eliminated,Baseline
+21,9,Carlos PenaVega,0.14285714285714288,27.0,Safe,Baseline
+21,9,Alek Skarlatos,0.14285714285714288,25.5,Safe,Baseline
+21,9,Tamar Braxton,0.14285714285714285,24.5,Safe,Baseline
+21,9,Nick Carter,0.14285714285714285,27.5,Safe,Baseline
+21,9,Bindi Irwin,0.14285714285714288,30.0,Safe,Baseline
+21,9,Kim Zolciak-Biermann,0.23404755319148934,0.0,Safe,Baseline
+21,11,Carlos PenaVega,0.0,30.0,Eliminated,Baseline
+21,11,Alek Skarlatos,0.1638349976059303,27.999899999999997,Safe,Baseline
+21,11,Tamar Braxton,0.25424750359110465,0.0,Safe,Baseline
+21,11,Nick Carter,0.1638349976059303,30.0,Safe,Baseline
+21,11,Bindi Irwin,0.1638349976059303,30.0,Safe,Baseline
+21,11,Kim Zolciak-Biermann,0.25424750359110476,0.0,Safe,Baseline
+22,2,Mischa Barton,0.08333333333333333,15.0,Safe,Baseline
+22,2,Kim Fields,0.08333333333333333,19.0,Safe,Baseline
+22,2,Jodie Sweetin,0.08333333333333333,21.0,Safe,Baseline
+22,2,Doug Flutie,0.08333333333333333,20.0,Safe,Baseline
+22,2,Von Miller,0.08333333333333333,20.0,Safe,Baseline
+22,2,Antonio Brown,0.08333333333333333,19.0,Safe,Baseline
+22,2,Paige VanZant,0.08333333333333333,24.0,Safe,Baseline
+22,2,Geraldo Rivera,0.08333333333333333,13.0,Eliminated,Baseline
+22,2,Nyle DiMarco,0.08333333333333333,20.0,Safe,Baseline
+22,2,Ginger Zee,0.08333333333333333,21.0,Safe,Baseline
+22,2,Wanya Morris,0.08333333333333333,24.0,Safe,Baseline
+22,2,Marla Maples,0.08333333333333333,20.0,Safe,Baseline
+22,3,Mischa Barton,0.09090909090909091,18.0,Eliminated,Baseline
+22,3,Kim Fields,0.09090909090909091,22.0,Safe,Baseline
+22,3,Jodie Sweetin,0.09090909090909091,23.0,Safe,Baseline
+22,3,Doug Flutie,0.09090909090909091,20.0,Safe,Baseline
+22,3,Von Miller,0.09090909090909091,20.0,Safe,Baseline
+22,3,Antonio Brown,0.09090909090909091,20.0,Safe,Baseline
+22,3,Paige VanZant,0.09090909090909091,23.0,Safe,Baseline
+22,3,Nyle DiMarco,0.09090909090909091,25.0,Safe,Baseline
+22,3,Ginger Zee,0.09090909090909091,21.0,Safe,Baseline
+22,3,Wanya Morris,0.09090909090909091,24.0,Safe,Baseline
+22,3,Marla Maples,0.09090909090909091,21.0,Safe,Baseline
+22,4,Kim Fields,0.10000000000004548,32.0,Safe,Baseline
+22,4,Jodie Sweetin,0.10000000000004548,27.0,Safe,Baseline
+22,4,Doug Flutie,0.10627459247630712,24.0,Safe,Baseline
+22,4,Von Miller,0.10000000000004548,32.0,Safe,Baseline
+22,4,Antonio Brown,0.10000000000004548,35.0,Safe,Baseline
+22,4,Paige VanZant,0.10000000000004548,36.0,Safe,Baseline
+22,4,Nyle DiMarco,0.10000000000004548,34.0,Safe,Baseline
+22,4,Ginger Zee,0.10000000000004548,36.0,Safe,Baseline
+22,4,Wanya Morris,0.10000000000004548,35.0,Safe,Baseline
+22,4,Marla Maples,0.09372540752332909,28.0,Eliminated,Baseline
+22,6,Kim Fields,0.1111111111111111,24.0,Safe,Baseline
+22,6,Jodie Sweetin,0.1111111111111111,25.0,Safe,Baseline
+22,6,Doug Flutie,0.1111111111111111,21.0,Eliminated,Baseline
+22,6,Von Miller,0.1111111111111111,24.0,Safe,Baseline
+22,6,Antonio Brown,0.1111111111111111,27.0,Safe,Baseline
+22,6,Paige VanZant,0.1111111111111111,28.0,Safe,Baseline
+22,6,Nyle DiMarco,0.1111111111111111,25.0,Safe,Baseline
+22,6,Ginger Zee,0.1111111111111111,24.0,Safe,Baseline
+22,6,Wanya Morris,0.1111111111111111,29.0,Safe,Baseline
+22,7,Kim Fields,0.12382677570093456,26.0,Eliminated,Baseline
+22,7,Jodie Sweetin,0.12617322429906544,25.5,Safe,Baseline
+22,7,Von Miller,0.125,26.0,Eliminated,Baseline
+22,7,Antonio Brown,0.125,26.0,Safe,Baseline
+22,7,Paige VanZant,0.125,27.5,Safe,Baseline
+22,7,Nyle DiMarco,0.125,28.0,Safe,Baseline
+22,7,Ginger Zee,0.125,27.5,Safe,Baseline
+22,7,Wanya Morris,0.125,27.5,Safe,Baseline
+22,8,Jodie Sweetin,0.15088090729843676,30.0,Eliminated,Baseline
+22,8,Antonio Brown,0.1686423865883775,27.0,Safe,Baseline
+22,8,Paige VanZant,0.16666666666606034,28.0,Safe,Baseline
+22,8,Nyle DiMarco,0.16666666666606034,29.0,Safe,Baseline
+22,8,Ginger Zee,0.16666666666606034,30.0,Safe,Baseline
+22,8,Wanya Morris,0.18047670611500483,25.0,Safe,Baseline
+22,9,Antonio Brown,0.2,27.5,Eliminated,Baseline
+22,9,Paige VanZant,0.2,29.5,Safe,Baseline
+22,9,Nyle DiMarco,0.2,28.5,Safe,Baseline
+22,9,Ginger Zee,0.2,28.0,Safe,Baseline
+22,9,Wanya Morris,0.2,30.0,Eliminated,Baseline
+23,2,Jake T. Austin,0.07407716783207162,24.0,Eliminated,Baseline
+23,2,Maureen McCormick,0.0769230769230944,26.0,Safe,Baseline
+23,2,Marilu Henner,0.0769230769230944,27.0,Safe,Baseline
+23,2,Ryan Lochte,0.0769230769230944,24.0,Safe,Baseline
+23,2,Calvin Johnson Jr.,0.0769230769230944,28.0,Safe,Baseline
+23,2,Laurie Hernandez,0.0769230769230944,32.0,Safe,Baseline
+23,2,Amber Rose,0.0769230769230944,24.0,Safe,Baseline
+23,2,Rick Perry,0.07976898601388978,22.0,Safe,Baseline
+23,2,James Hinchcliffe,0.0769230769230944,29.0,Safe,Baseline
+23,2,Babyface,0.0769230769230944,30.0,Safe,Baseline
+23,2,Vanilla Ice,0.0769230769230944,26.0,Safe,Baseline
+23,2,Jana Kramer,0.0769230769230944,29.0,Safe,Baseline
+23,2,Terra Jole,0.0769230769230944,31.0,Safe,Baseline
+23,3,Maureen McCormick,0.08333333333333333,28.0,Safe,Baseline
+23,3,Marilu Henner,0.08333333333333333,28.0,Safe,Baseline
+23,3,Ryan Lochte,0.08333333333333333,25.0,Safe,Baseline
+23,3,Calvin Johnson Jr.,0.08333333333333333,32.0,Safe,Baseline
+23,3,Laurie Hernandez,0.08333333333333333,31.0,Safe,Baseline
+23,3,Amber Rose,0.08333333333333333,25.0,Safe,Baseline
+23,3,Rick Perry,0.08332833333333332,23.0,Eliminated,Baseline
+23,3,James Hinchcliffe,0.08333333333333333,29.0,Safe,Baseline
+23,3,Babyface,0.08333333333333333,25.0,Safe,Baseline
+23,3,Vanilla Ice,0.08333833333333333,23.0,Safe,Baseline
+23,3,Jana Kramer,0.08333333333333333,26.0,Safe,Baseline
+23,3,Terra Jole,0.08333333333333333,30.0,Safe,Baseline
+23,4,Maureen McCormick,0.09090909090909091,24.0,Safe,Baseline
+23,4,Marilu Henner,0.09090909090909091,21.0,Safe,Baseline
+23,4,Ryan Lochte,0.09090909090909091,22.0,Safe,Baseline
+23,4,Calvin Johnson Jr.,0.09090909090909091,23.0,Safe,Baseline
+23,4,Laurie Hernandez,0.09090909090909091,30.0,Safe,Baseline
+23,4,Amber Rose,0.09090909090909091,24.0,Safe,Baseline
+23,4,James Hinchcliffe,0.09090909090909091,28.0,Safe,Baseline
+23,4,Babyface,0.09090909090909091,18.0,Eliminated,Baseline
+23,4,Vanilla Ice,0.09090909090909091,23.0,Eliminated,Baseline
+23,4,Jana Kramer,0.09090909090909091,23.0,Safe,Baseline
+23,4,Terra Jole,0.09090909090909091,25.0,Safe,Baseline
+23,6,Maureen McCormick,0.1111111111111111,31.0,Safe,Baseline
+23,6,Marilu Henner,0.1111111111111111,34.0,Safe,Baseline
+23,6,Ryan Lochte,0.1111111111111111,30.0,Safe,Baseline
+23,6,Calvin Johnson Jr.,0.1111111111111111,37.0,Safe,Baseline
+23,6,Laurie Hernandez,0.1111111111111111,37.0,Safe,Baseline
+23,6,Amber Rose,0.1111111111111111,28.0,Eliminated,Baseline
+23,6,James Hinchcliffe,0.1111111111111111,38.0,Safe,Baseline
+23,6,Jana Kramer,0.1111111111111111,40.0,Safe,Baseline
+23,6,Terra Jole,0.1111111111111111,30.0,Safe,Baseline
+23,7,Maureen McCormick,0.12318011796733212,33.0,Eliminated,Baseline
+23,7,Marilu Henner,0.12681988203266786,32.0,Safe,Baseline
+23,7,Ryan Lochte,0.125,33.0,Safe,Baseline
+23,7,Calvin Johnson Jr.,0.125,37.0,Safe,Baseline
+23,7,Laurie Hernandez,0.125,34.5,Safe,Baseline
+23,7,James Hinchcliffe,0.125,37.0,Safe,Baseline
+23,7,Jana Kramer,0.125,34.5,Safe,Baseline
+23,7,Terra Jole,0.125,34.5,Safe,Baseline
+23,8,Marilu Henner,0.149493981961792,23.0,Safe,Baseline
+23,8,Ryan Lochte,0.13455859397633135,26.0,Eliminated,Baseline
+23,8,Calvin Johnson Jr.,0.14285714285714285,30.0,Safe,Baseline
+23,8,Laurie Hernandez,0.14285714285714285,33.0,Safe,Baseline
+23,8,James Hinchcliffe,0.14285714285714285,34.9998,Safe,Baseline
+23,8,Jana Kramer,0.14285714285714285,30.0,Safe,Baseline
+23,8,Terra Jole,0.1445188526333051,24.0,Safe,Baseline
+23,9,Marilu Henner,0.16666166666666665,36.0,Eliminated,Baseline
+23,9,Calvin Johnson Jr.,0.16666666666666669,37.0,Safe,Baseline
+23,9,Laurie Hernandez,0.16666666666666669,40.0,Safe,Baseline
+23,9,James Hinchcliffe,0.16667166666666666,36.0,Safe,Baseline
+23,9,Jana Kramer,0.16666666666666669,40.0,Safe,Baseline
+23,9,Terra Jole,0.16666666666666669,38.0,Safe,Baseline
+23,10,Calvin Johnson Jr.,0.2068292718998862,28.0,Safe,Baseline
+23,10,Laurie Hernandez,0.19999999999999996,30.0,Safe,Baseline
+23,10,James Hinchcliffe,0.19999999999999996,29.5,Safe,Baseline
+23,10,Jana Kramer,0.2000033333333333,29.0,Safe,Baseline
+23,10,Terra Jole,0.1931673947667804,30.0,Eliminated,Baseline
+23,11,Calvin Johnson Jr.,0.25,38.3331,Safe,Baseline
+23,11,Laurie Hernandez,0.25,39.333200000000005,Safe,Baseline
+23,11,James Hinchcliffe,0.25,38.9998,Safe,Baseline
+23,11,Jana Kramer,0.25,35.5,Eliminated,Baseline
+24,2,Charo,0.08333333333333333,25.0,Safe,Baseline
+24,2,Mr. T,0.08333833333333333,22.0,Safe,Baseline
+24,2,Heather Morris,0.08333333333333333,30.0,Safe,Baseline
+24,2,Nancy Kerrigan,0.08333333333333333,28.0,Safe,Baseline
+24,2,Bonner Bolton,0.08333333333333333,28.0,Safe,Baseline
+24,2,Simone Biles,0.08333333333333333,29.0,Safe,Baseline
+24,2,David Ross,0.08333333333333333,27.0,Safe,Baseline
+24,2,Rashad Jennings,0.08333333333333333,32.0,Safe,Baseline
+24,2,Chris Kattan,0.08332833333333332,22.0,Eliminated,Baseline
+24,2,Erika Jayne,0.08333333333333333,28.0,Safe,Baseline
+24,2,Normani,0.08333333333333333,32.0,Safe,Baseline
+24,2,Nick Viall,0.08333333333333333,25.0,Safe,Baseline
+24,3,Charo,0.09090242424242423,24.0,Eliminated,Baseline
+24,3,Mr. T,0.09091242424242427,24.0,Safe,Baseline
+24,3,Heather Morris,0.09090909090909091,33.0,Safe,Baseline
+24,3,Nancy Kerrigan,0.09090909090909091,33.0,Safe,Baseline
+24,3,Bonner Bolton,0.09091242424242427,24.0,Safe,Baseline
+24,3,Simone Biles,0.09090909090909091,32.0,Safe,Baseline
+24,3,David Ross,0.09090909090909091,31.0,Safe,Baseline
+24,3,Rashad Jennings,0.09090909090909091,28.0,Safe,Baseline
+24,3,Erika Jayne,0.09090909090909091,26.0,Safe,Baseline
+24,3,Normani,0.09090909090909091,34.0,Safe,Baseline
+24,3,Nick Viall,0.09090909090909091,26.0,Safe,Baseline
+24,4,Mr. T,0.1,28.0,Eliminated,Baseline
+24,4,Heather Morris,0.1,35.0,Safe,Baseline
+24,4,Nancy Kerrigan,0.1,33.0,Safe,Baseline
+24,4,Bonner Bolton,0.1,32.0,Safe,Baseline
+24,4,Simone Biles,0.1,36.0,Safe,Baseline
+24,4,David Ross,0.1,31.0,Safe,Baseline
+24,4,Rashad Jennings,0.1,39.0,Safe,Baseline
+24,4,Erika Jayne,0.1,30.0,Safe,Baseline
+24,4,Normani,0.1,32.0,Safe,Baseline
+24,4,Nick Viall,0.1,30.0,Safe,Baseline
+24,5,Heather Morris,0.1111111111111111,34.0,Safe,Baseline
+24,5,Nancy Kerrigan,0.1111111111111111,36.0,Safe,Baseline
+24,5,Bonner Bolton,0.11221093567251461,30.0,Safe,Baseline
+24,5,Simone Biles,0.1111111111111111,38.0,Safe,Baseline
+24,5,David Ross,0.11550040935672513,29.0,Safe,Baseline
+24,5,Rashad Jennings,0.1111111111111111,32.0,Safe,Baseline
+24,5,Erika Jayne,0.10562198830409356,32.0,Eliminated,Baseline
+24,5,Normani,0.1111111111111111,39.0,Safe,Baseline
+24,5,Nick Viall,0.1111111111111111,34.0,Safe,Baseline
+24,6,Heather Morris,0.10826387546468402,37.0,Eliminated,Baseline
+24,6,Nancy Kerrigan,0.125,33.5,Safe,Baseline
+24,6,Bonner Bolton,0.1287199721189591,31.5,Safe,Baseline
+24,6,Simone Biles,0.125,34.5,Safe,Baseline
+24,6,David Ross,0.13057870817843864,31.0,Safe,Baseline
+24,6,Rashad Jennings,0.125,35.0,Safe,Baseline
+24,6,Normani,0.125,36.0,Safe,Baseline
+24,6,Nick Viall,0.13243744423791823,30.5,Safe,Baseline
+24,7,Nancy Kerrigan,0.13099276868059473,36.0,Eliminated,Baseline
+24,7,Bonner Bolton,0.1507656145303971,31.0,Safe,Baseline
+24,7,Simone Biles,0.14285714285714285,39.0,Safe,Baseline
+24,7,David Ross,0.14681304536043666,32.0,Safe,Baseline
+24,7,Rashad Jennings,0.14285714285714285,39.0,Safe,Baseline
+24,7,Normani,0.14285714285714285,42.0,Safe,Baseline
+24,7,Nick Viall,0.14285714285714285,34.0,Eliminated,Baseline
+24,8,Bonner Bolton,0.2,29.0,Eliminated,Baseline
+24,8,Simone Biles,0.2,36.0,Safe,Baseline
+24,8,David Ross,0.2,32.5,Safe,Baseline
+24,8,Rashad Jennings,0.2,37.5,Safe,Baseline
+24,8,Normani,0.2,39.5,Safe,Baseline
+24,9,Simone Biles,0.2334933498349835,40.0,Eliminated,Baseline
+24,9,David Ross,0.2665066501650165,35.0,Safe,Baseline
+24,9,Rashad Jennings,0.25,38.5,Safe,Baseline
+24,9,Normani,0.25,38.0,Safe,Baseline
+25,2,Sasha Pieterse,0.07692307692307693,22.5,Safe,Baseline
+25,2,Frankie Muniz,0.07692307692307693,24.0,Safe,Baseline
+25,2,Jordan Fisher,0.07692307692307693,24.0,Safe,Baseline
+25,2,Derek Fisher,0.07692307692307693,19.0,Safe,Baseline
+25,2,Nikki Bella,0.07692307692307693,19.5,Safe,Baseline
+25,2,Terrell Owens,0.07692307692307693,19.5,Safe,Baseline
+25,2,Victoria Arlen,0.07692307692307693,22.0,Safe,Baseline
+25,2,Barbara Corcoran,0.07692307692307693,17.0,Eliminated,Baseline
+25,2,Lindsey Stirling,0.07692307692307693,22.5,Safe,Baseline
+25,2,Debbie Gibson,0.07692307692307693,20.5,Eliminated,Baseline
+25,2,Nick Lachey,0.07692307692307693,19.0,Safe,Baseline
+25,2,Drew Scott,0.07692307692307693,20.5,Safe,Baseline
+25,2,Vanessa Lachey,0.07692307692307693,23.5,Safe,Baseline
+25,4,Sasha Pieterse,0.09090909090909091,24.0,Safe,Baseline
+25,4,Frankie Muniz,0.09090909090909091,24.0,Safe,Baseline
+25,4,Jordan Fisher,0.09090909090909091,29.0,Safe,Baseline
+25,4,Derek Fisher,0.0890590724589064,23.0,Eliminated,Baseline
+25,4,Nikki Bella,0.09090909090909091,24.0,Safe,Baseline
+25,4,Terrell Owens,0.09090909090909091,24.0,Safe,Baseline
+25,4,Victoria Arlen,0.09090909090909091,27.0,Safe,Baseline
+25,4,Lindsey Stirling,0.09090909090909091,26.0,Safe,Baseline
+25,4,Nick Lachey,0.09275910935927542,22.0,Safe,Baseline
+25,4,Drew Scott,0.09090909090909091,24.0,Safe,Baseline
+25,4,Vanessa Lachey,0.09090909090909091,24.0,Safe,Baseline
+25,5,Sasha Pieterse,0.09616358237547894,24.0,Eliminated,Baseline
+25,5,Frankie Muniz,0.1,29.0,Safe,Baseline
+25,5,Jordan Fisher,0.1,30.0,Safe,Baseline
+25,5,Nikki Bella,0.1,27.0,Safe,Baseline
+25,5,Terrell Owens,0.1,25.0,Safe,Baseline
+25,5,Victoria Arlen,0.1,27.0,Safe,Baseline
+25,5,Lindsey Stirling,0.1,28.0,Safe,Baseline
+25,5,Nick Lachey,0.10383641762452107,22.0,Safe,Baseline
+25,5,Drew Scott,0.1,25.0,Safe,Baseline
+25,5,Vanessa Lachey,0.1,24.0,Safe,Baseline
+25,6,Frankie Muniz,0.1111111111111111,31.0,Safe,Baseline
+25,6,Jordan Fisher,0.1111111111111111,39.0,Safe,Baseline
+25,6,Nikki Bella,0.1111111111111111,36.0,Safe,Baseline
+25,6,Terrell Owens,0.1111111111111111,37.0,Safe,Baseline
+25,6,Victoria Arlen,0.1111111111111111,31.0,Safe,Baseline
+25,6,Lindsey Stirling,0.1111111111111111,40.0,Safe,Baseline
+25,6,Nick Lachey,0.1111111111111111,26.0,Eliminated,Baseline
+25,6,Drew Scott,0.1111111111111111,30.0,Safe,Baseline
+25,6,Vanessa Lachey,0.1111111111111111,36.0,Safe,Baseline
+25,7,Frankie Muniz,0.125,30.0,Safe,Baseline
+25,7,Jordan Fisher,0.125,27.0,Safe,Baseline
+25,7,Nikki Bella,0.125,24.0,Eliminated,Baseline
+25,7,Terrell Owens,0.125,24.5,Safe,Baseline
+25,7,Victoria Arlen,0.125,28.5,Safe,Baseline
+25,7,Lindsey Stirling,0.125,25.5,Safe,Baseline
+25,7,Drew Scott,0.125,28.5,Safe,Baseline
+25,7,Vanessa Lachey,0.125,27.0,Eliminated,Baseline
+25,8,Frankie Muniz,0.16666666666674246,26.5,Safe,Baseline
+25,8,Jordan Fisher,0.16666666666674246,30.0,Safe,Baseline
+25,8,Terrell Owens,0.15920526091579218,25.5,Eliminated,Baseline
+25,8,Victoria Arlen,0.1687999254525334,24.0,Safe,Baseline
+25,8,Lindsey Stirling,0.16666666666674246,27.0,Safe,Baseline
+25,8,Drew Scott,0.1719948136314471,23.5,Safe,Baseline
+25,9,Frankie Muniz,0.20247246913580247,25.5,Safe,Baseline
+25,9,Jordan Fisher,0.2,29.0,Safe,Baseline
+25,9,Victoria Arlen,0.18394395061728397,28.0,Eliminated,Baseline
+25,9,Lindsey Stirling,0.2,28.5,Safe,Baseline
+25,9,Drew Scott,0.21358358024691357,24.0,Safe,Baseline
+25,10,Frankie Muniz,0.25,38.8887,Safe,Baseline
+25,10,Jordan Fisher,0.25,40.0,Safe,Baseline
+25,10,Lindsey Stirling,0.25,40.0,Safe,Baseline
+25,10,Drew Scott,0.25,37.5,Eliminated,Baseline
+26,1,Jamie Anderson,0.09523142857137552,19.0,Eliminated,Baseline
+26,1,Johnny Damon,0.10000333333328028,18.0,Eliminated,Baseline
+26,1,Kareem Abdul-Jabbar,0.10476523809518505,17.0,Safe,Baseline
+26,1,Arike Ogunbowale,0.10000000000002274,20.0,Safe,Baseline
+26,1,Jennie Finch Daigle,0.10000000000002274,21.0,Safe,Baseline
+26,1,Chris Mazdzer,0.10000000000002274,21.0,Safe,Baseline
+26,1,Mirai Nagasu,0.10000000000002274,23.0,Safe,Baseline
+26,1,Tonya Harding,0.10000000000002274,23.0,Safe,Baseline
+26,1,Josh Norman,0.10000000000002274,24.0,Safe,Baseline
+26,1,Adam Rippon,0.10000000000002274,24.0,Safe,Baseline
+26,2,Kareem Abdul-Jabbar,0.125,29.5,Eliminated,Baseline
+26,2,Arike Ogunbowale,0.125,35.0,Eliminated,Baseline
+26,2,Jennie Finch Daigle,0.125,31.5,Safe,Baseline
+26,2,Chris Mazdzer,0.125,33.0,Safe,Baseline
+26,2,Mirai Nagasu,0.125,37.0,Safe,Baseline
+26,2,Tonya Harding,0.125,33.0,Safe,Baseline
+26,2,Josh Norman,0.125,31.5,Safe,Baseline
+26,2,Adam Rippon,0.125,37.0,Safe,Baseline
+26,3,Jennie Finch Daigle,0.16666666666666666,29.0,Eliminated,Baseline
+26,3,Chris Mazdzer,0.16666666666666666,33.0,Eliminated,Baseline
+26,3,Mirai Nagasu,0.16666666666666666,35.0,Eliminated,Baseline
+26,3,Tonya Harding,0.16666666666666666,35.0,Safe,Baseline
+26,3,Josh Norman,0.16666666666666666,38.0,Safe,Baseline
+26,3,Adam Rippon,0.16666666666666666,41.0,Safe,Baseline
+27,1,Juan Pablo Di Pace,0.07692307692311189,22.0,Safe,Baseline
+27,1,Evanna Lynch,0.07692307692311189,18.0,Safe,Baseline
+27,1,Nancy McKeon,0.07692307692311189,19.5,Safe,Baseline
+27,1,John Schneider,0.07692307692311189,18.0,Safe,Baseline
+27,1,Milo Manheim,0.07692307692311189,20.0,Safe,Baseline
+27,1,Danelle Umstead,0.07692307692311189,18.0,Safe,Baseline
+27,1,Mary Lou Retton,0.07692307692311189,20.0,Safe,Baseline
+27,1,DeMarcus Ware,0.07692307692311189,23.0,Safe,Baseline
+27,1,Nikki Glaser,0.0700553318248453,17.5,Eliminated,Baseline
+27,1,Bobby Bones,0.07692307692311189,20.0,Safe,Baseline
+27,1,Tinashe,0.07692307692311189,23.0,Safe,Baseline
+27,1,Alexis Ren,0.07692307692311189,22.0,Safe,Baseline
+27,1,Joe Amabile,0.08379082202092374,14.0,Safe,Baseline
+27,2,Juan Pablo Di Pace,0.08333333333333331,26.0,Safe,Baseline
+27,2,Evanna Lynch,0.08333333333333331,24.0,Safe,Baseline
+27,2,Nancy McKeon,0.08333333333333331,20.5,Safe,Baseline
+27,2,John Schneider,0.08333333333333331,21.5,Safe,Baseline
+27,2,Milo Manheim,0.08333333333333331,26.0,Safe,Baseline
+27,2,Danelle Umstead,0.08147990449784348,18.5,Eliminated,Baseline
+27,2,Mary Lou Retton,0.08333333333333331,23.0,Safe,Baseline
+27,2,DeMarcus Ware,0.08333333333333331,23.5,Safe,Baseline
+27,2,Bobby Bones,0.08333333333333331,19.5,Safe,Baseline
+27,2,Tinashe,0.08333333333333331,26.0,Safe,Baseline
+27,2,Alexis Ren,0.08333333333333331,24.5,Safe,Baseline
+27,2,Joe Amabile,0.08518676216882314,17.5,Safe,Baseline
+27,3,Juan Pablo Di Pace,0.09090909090909091,30.0,Safe,Baseline
+27,3,Evanna Lynch,0.09090909090909091,27.0,Safe,Baseline
+27,3,Nancy McKeon,0.08352401710835289,22.0,Eliminated,Baseline
+27,3,John Schneider,0.09090909090909091,21.0,Safe,Baseline
+27,3,Milo Manheim,0.09090909090909091,27.0,Safe,Baseline
+27,3,Mary Lou Retton,0.09090909090909091,24.0,Safe,Baseline
+27,3,DeMarcus Ware,0.09090909090909091,26.0,Safe,Baseline
+27,3,Bobby Bones,0.09090909090909091,23.0,Safe,Baseline
+27,3,Tinashe,0.09090909090909091,27.0,Safe,Baseline
+27,3,Alexis Ren,0.09090909090909091,26.0,Safe,Baseline
+27,3,Joe Amabile,0.09829416470982894,18.0,Safe,Baseline
+27,4,Juan Pablo Di Pace,0.09999999999927241,24.0,Safe,Baseline
+27,4,Evanna Lynch,0.09999999999927241,24.0,Safe,Baseline
+27,4,John Schneider,0.09999999999927241,21.0,Safe,Baseline
+27,4,Milo Manheim,0.09999999999927241,29.0,Safe,Baseline
+27,4,Mary Lou Retton,0.09999999999927242,26.0,Safe,Baseline
+27,4,DeMarcus Ware,0.09999999999927241,22.0,Safe,Baseline
+27,4,Bobby Bones,0.10144011494422646,20.0,Safe,Baseline
+27,4,Tinashe,0.07556804597870924,26.0,Eliminated,Baseline
+27,4,Alexis Ren,0.09999999999927241,25.0,Safe,Baseline
+27,4,Joe Amabile,0.12299183908215748,15.0,Safe,Baseline
+27,6,Juan Pablo Di Pace,0.11111111111101005,30.0,Safe,Baseline
+27,6,Evanna Lynch,0.11111111111101005,29.0,Safe,Baseline
+27,6,John Schneider,0.12203314167915039,19.0,Safe,Baseline
+27,6,Milo Manheim,0.11111111111101005,30.0,Safe,Baseline
+27,6,Mary Lou Retton,0.1001890805437792,24.0,Eliminated,Baseline
+27,6,DeMarcus Ware,0.11111111111101005,26.0,Safe,Baseline
+27,6,Bobby Bones,0.11111111111101005,22.0,Safe,Baseline
+27,6,Alexis Ren,0.11111111111101005,27.0,Safe,Baseline
+27,6,Joe Amabile,0.11111111111101005,22.0,Safe,Baseline
+27,7,Juan Pablo Di Pace,0.125,28.0,Safe,Baseline
+27,7,Evanna Lynch,0.125,29.5,Safe,Baseline
+27,7,John Schneider,0.11694902298850572,27.0,Eliminated,Baseline
+27,7,Milo Manheim,0.125,29.0,Safe,Baseline
+27,7,DeMarcus Ware,0.125,26.5,Eliminated,Baseline
+27,7,Bobby Bones,0.125,26.5,Safe,Baseline
+27,7,Alexis Ren,0.125,27.5,Safe,Baseline
+27,7,Joe Amabile,0.13305097701149426,23.5,Safe,Baseline
+27,8,Juan Pablo Di Pace,0.13663929606867792,30.0,Eliminated,Baseline
+27,8,Evanna Lynch,0.16666666666424135,29.0,Safe,Baseline
+27,8,Milo Manheim,0.16666666666424135,27.5,Safe,Baseline
+27,8,Bobby Bones,0.18323314700035492,22.5,Safe,Baseline
+27,8,Alexis Ren,0.16666666666424135,29.0,Safe,Baseline
+27,8,Joe Amabile,0.18012755693824314,23.0,Eliminated,Baseline
+28,2,Kate Flannery,0.08333333333333333,21.0,Safe,Baseline
+28,2,James Van Der Beek,0.08333333333333333,20.0,Safe,Baseline
+28,2,Kel Mitchell,0.08333333333333333,20.0,Safe,Baseline
+28,2,Ray Lewis,0.08333333333333333,15.0,Safe,Baseline
+28,2,Lamar Odom,0.09018764840182648,12.0,Safe,Baseline
+28,2,Sailor Brinkley-Cook,0.08333333333333333,18.0,Safe,Baseline
+28,2,Sean Spicer,0.08333333333333333,16.0,Safe,Baseline
+28,2,Mary Wilson,0.07647901826484017,15.0,Eliminated,Baseline
+28,2,Lauren Alaina,0.08333333333333333,19.0,Safe,Baseline
+28,2,Ally Brooke,0.08333333333333333,20.0,Safe,Baseline
+28,2,Karamo Brown,0.08333333333333333,19.0,Safe,Baseline
+28,2,Hannah Brown,0.08333333333333333,24.0,Safe,Baseline
+28,4,Kate Flannery,0.09090909090909091,26.0,Safe,Baseline
+28,4,James Van Der Beek,0.09090909090909091,28.0,Safe,Baseline
+28,4,Kel Mitchell,0.09090909090909091,32.0,Safe,Baseline
+28,4,Ray Lewis,0.12637508381689233,0.0,Safe,Baseline
+28,4,Lamar Odom,0.05544309800128949,20.0,Eliminated,Baseline
+28,4,Sailor Brinkley-Cook,0.09090909090909091,31.0,Safe,Baseline
+28,4,Sean Spicer,0.09090909090909091,21.0,Safe,Baseline
+28,4,Lauren Alaina,0.09090909090909091,32.0,Safe,Baseline
+28,4,Ally Brooke,0.09090909090909091,32.0,Safe,Baseline
+28,4,Karamo Brown,0.09090909090909091,28.0,Safe,Baseline
+28,4,Hannah Brown,0.09090909090909091,32.0,Safe,Baseline
+28,6,Kate Flannery,0.10000000000582077,27.0,Safe,Baseline
+28,6,James Van Der Beek,0.10000000000582077,27.0,Safe,Baseline
+28,6,Kel Mitchell,0.10000000000582077,26.0,Safe,Baseline
+28,6,Ray Lewis,0.15921552629250643,0.0,Safe,Baseline
+28,6,Sailor Brinkley-Cook,0.040784473660927516,27.0,Eliminated,Baseline
+28,6,Sean Spicer,0.10000000000582077,21.0,Safe,Baseline
+28,6,Lauren Alaina,0.10000000000582077,26.0,Safe,Baseline
+28,6,Ally Brooke,0.10000000000582077,25.0,Safe,Baseline
+28,6,Karamo Brown,0.10000000000582077,25.0,Safe,Baseline
+28,6,Hannah Brown,0.10000000000582075,24.0,Safe,Baseline
+28,7,Kate Flannery,0.1111111111111111,24.0,Safe,Baseline
+28,7,James Van Der Beek,0.1111111111111111,27.0,Safe,Baseline
+28,7,Kel Mitchell,0.1111111111111111,25.5,Safe,Baseline
+28,7,Ray Lewis,0.17175967546754672,0.0,Safe,Baseline
+28,7,Sean Spicer,0.11111111111111112,21.0,Safe,Baseline
+28,7,Lauren Alaina,0.1111111111111111,27.0,Safe,Baseline
+28,7,Ally Brooke,0.1111111111111111,27.0,Safe,Baseline
+28,7,Karamo Brown,0.050462546754675444,24.5,Eliminated,Baseline
+28,7,Hannah Brown,0.1111111111111111,26.0,Safe,Baseline
+28,8,Kate Flannery,0.057637725936555584,25.9998,Eliminated,Baseline
+28,8,James Van Der Beek,0.12500000001455192,31.9998,Safe,Baseline
+28,8,Kel Mitchell,0.12500000001455192,29.9998,Safe,Baseline
+28,8,Ray Lewis,0.1923622739761329,0.0,Safe,Baseline
+28,8,Sean Spicer,0.12500000001455192,20.0,Safe,Baseline
+28,8,Lauren Alaina,0.12500000001455192,24.0,Safe,Baseline
+28,8,Ally Brooke,0.12500000001455192,30.0,Safe,Baseline
+28,8,Hannah Brown,0.12500000001455192,30.9998,Safe,Baseline
+28,9,James Van Der Beek,0.14285714285298515,36.0,Safe,Baseline
+28,9,Kel Mitchell,0.14285714285298515,37.0,Safe,Baseline
+28,9,Ray Lewis,0.2028141812368416,0.0,Safe,Baseline
+28,9,Sean Spicer,0.0829001044982325,25.0,Eliminated,Baseline
+28,9,Lauren Alaina,0.14285714285298515,35.0,Safe,Baseline
+28,9,Ally Brooke,0.14285714285298515,40.0,Safe,Baseline
+28,9,Hannah Brown,0.14285714285298518,35.5,Safe,Baseline
+28,10,James Van Der Beek,0.073934393939394,25.5,Eliminated,Baseline
+28,10,Kel Mitchell,0.16666666666666666,28.5,Safe,Baseline
+28,10,Ray Lewis,0.25939893939393943,0.0,Safe,Baseline
+28,10,Lauren Alaina,0.16666666666666666,27.0,Safe,Baseline
+28,10,Ally Brooke,0.16666666666666666,29.5,Safe,Baseline
+28,10,Hannah Brown,0.16666666666666666,27.0,Safe,Baseline
+29,2,Anne Heche,0.06666666666666668,18.0,Safe,Baseline
+29,2,Jesse Metcalfe,0.06666666666666668,20.0,Safe,Baseline
+29,2,Chrishell Stause,0.06666666666666668,18.0,Safe,Baseline
+29,2,Skai Jackson,0.06667166666666667,15.0,Safe,Baseline
+29,2,Justina Machado,0.06666666666666668,21.0,Safe,Baseline
+29,2,Charles Oakley,0.06666166666666667,15.0,Eliminated,Baseline
+29,2,Veron Davis,0.06666666666666668,18.0,Safe,Baseline
+29,2,Johnny Weir,0.06666666666666668,18.0,Safe,Baseline
+29,2,Nev Schulman,0.06666666666666668,21.0,Safe,Baseline
+29,2,AJ McLean,0.06666666666666668,19.0,Safe,Baseline
+29,2,Nelly,0.06666666666666668,18.0,Safe,Baseline
+29,2,Kaitlyn Bristowe,0.06666666666666668,22.0,Safe,Baseline
+29,2,Carole Baskin,0.06666666666666668,16.0,Safe,Baseline
+29,2,Monica Aldama,0.06666666666666668,16.0,Safe,Baseline
+29,2,Jeannie Mai,0.06666666666666668,18.0,Safe,Baseline
+29,3,Anne Heche,0.07142857142857142,15.0,Safe,Baseline
+29,3,Jesse Metcalfe,0.07142857142857142,20.0,Safe,Baseline
+29,3,Chrishell Stause,0.07142857142857142,22.0,Safe,Baseline
+29,3,Skai Jackson,0.07142857142857142,18.0,Safe,Baseline
+29,3,Justina Machado,0.07142857142857142,19.0,Safe,Baseline
+29,3,Veron Davis,0.07142857142857142,22.0,Safe,Baseline
+29,3,Johnny Weir,0.07142857142857142,24.0,Safe,Baseline
+29,3,Nev Schulman,0.07142857142857142,24.0,Safe,Baseline
+29,3,AJ McLean,0.07142857142857142,21.0,Safe,Baseline
+29,3,Nelly,0.07142857142857142,18.0,Safe,Baseline
+29,3,Kaitlyn Bristowe,0.07142857142857142,23.0,Safe,Baseline
+29,3,Carole Baskin,0.07142857142857142,12.0,Eliminated,Baseline
+29,3,Monica Aldama,0.07142857142857142,21.0,Safe,Baseline
+29,3,Jeannie Mai,0.07142857142857142,22.0,Safe,Baseline
+29,4,Anne Heche,0.07691557692307693,21.0,Eliminated,Baseline
+29,4,Jesse Metcalfe,0.07692557692307692,21.0,Safe,Baseline
+29,4,Chrishell Stause,0.0769230769230769,22.0,Safe,Baseline
+29,4,Skai Jackson,0.0769230769230769,28.0,Safe,Baseline
+29,4,Justina Machado,0.0769230769230769,24.0,Safe,Baseline
+29,4,Veron Davis,0.0769230769230769,22.0,Safe,Baseline
+29,4,Johnny Weir,0.0769230769230769,24.0,Safe,Baseline
+29,4,Nev Schulman,0.0769230769230769,24.0,Safe,Baseline
+29,4,AJ McLean,0.0769230769230769,24.0,Safe,Baseline
+29,4,Nelly,0.07692557692307692,21.0,Safe,Baseline
+29,4,Kaitlyn Bristowe,0.0769230769230769,25.0,Safe,Baseline
+29,4,Monica Aldama,0.0769230769230769,24.0,Safe,Baseline
+29,4,Jeannie Mai,0.07692557692307692,21.0,Safe,Baseline
+29,5,Jesse Metcalfe,0.08332833333333332,19.0,Eliminated,Baseline
+29,5,Chrishell Stause,0.08333833333333333,19.0,Safe,Baseline
+29,5,Skai Jackson,0.08333333333333333,24.0,Safe,Baseline
+29,5,Justina Machado,0.08333333333333333,24.0,Safe,Baseline
+29,5,Veron Davis,0.08333333333333333,21.0,Safe,Baseline
+29,5,Johnny Weir,0.08333333333333333,29.0,Safe,Baseline
+29,5,Nev Schulman,0.08333333333333333,26.0,Safe,Baseline
+29,5,AJ McLean,0.08333333333333333,24.0,Safe,Baseline
+29,5,Nelly,0.08333333333333333,24.0,Safe,Baseline
+29,5,Kaitlyn Bristowe,0.08333333333333333,27.0,Safe,Baseline
+29,5,Monica Aldama,0.08333333333333333,26.0,Safe,Baseline
+29,5,Jeannie Mai,0.08333333333333333,24.0,Safe,Baseline
+29,6,Chrishell Stause,0.09090909090909091,24.0,Safe,Baseline
+29,6,Skai Jackson,0.09651110583446405,18.0,Safe,Baseline
+29,6,Justina Machado,0.09090909090909091,27.0,Safe,Baseline
+29,6,Veron Davis,0.08530707598371778,21.0,Eliminated,Baseline
+29,6,Johnny Weir,0.09090909090909091,22.0,Safe,Baseline
+29,6,Nev Schulman,0.09090909090909091,26.0,Safe,Baseline
+29,6,AJ McLean,0.09090909090909091,27.0,Safe,Baseline
+29,6,Nelly,0.09090909090909091,24.0,Safe,Baseline
+29,6,Kaitlyn Bristowe,0.09090909090909091,27.0,Safe,Baseline
+29,6,Monica Aldama,0.09090909090909091,27.0,Safe,Baseline
+29,6,Jeannie Mai,0.09090909090909091,25.0,Safe,Baseline
+29,7,Chrishell Stause,0.1,26.0,Safe,Baseline
+29,7,Skai Jackson,0.1,27.0,Safe,Baseline
+29,7,Justina Machado,0.1,26.0,Safe,Baseline
+29,7,Johnny Weir,0.1,27.0,Safe,Baseline
+29,7,Nev Schulman,0.1,30.0,Safe,Baseline
+29,7,AJ McLean,0.1,26.0,Safe,Baseline
+29,7,Nelly,0.1,27.0,Safe,Baseline
+29,7,Kaitlyn Bristowe,0.1,24.0,Safe,Baseline
+29,7,Monica Aldama,0.1,22.0,Eliminated,Baseline
+29,7,Jeannie Mai,0.1,25.0,Safe,Baseline
+29,8,Chrishell Stause,0.05029519073107436,27.0,Eliminated,Baseline
+29,8,Skai Jackson,0.1111111111111111,26.9998,Safe,Baseline
+29,8,Justina Machado,0.1111111111111111,28.9998,Safe,Baseline
+29,8,Johnny Weir,0.1111111111111111,30.0,Safe,Baseline
+29,8,Nev Schulman,0.11111111111111112,30.0,Safe,Baseline
+29,8,AJ McLean,0.1111111111111111,27.0,Safe,Baseline
+29,8,Nelly,0.1111111111111111,24.0,Safe,Baseline
+29,8,Kaitlyn Bristowe,0.1111111111111111,28.0,Safe,Baseline
+29,8,Jeannie Mai,0.17192703149114782,0.0,Safe,Baseline
+29,9,Skai Jackson,0.125,28.9998,Safe,Baseline
+29,9,Justina Machado,0.125,25.9998,Safe,Baseline
+29,9,Johnny Weir,0.125,30.0,Safe,Baseline
+29,9,Nev Schulman,0.125,28.9998,Safe,Baseline
+29,9,AJ McLean,0.060228410293928634,24.9998,Eliminated,Baseline
+29,9,Nelly,0.125,24.0,Safe,Baseline
+29,9,Kaitlyn Bristowe,0.125,30.0,Safe,Baseline
+29,9,Jeannie Mai,0.18977158970607133,0.0,Safe,Baseline
+29,10,Skai Jackson,0.060955591174581845,28.5,Eliminated,Baseline
+29,10,Justina Machado,0.14285714284051212,29.0,Safe,Baseline
+29,10,Johnny Weir,0.14285714284051212,28.5,Eliminated,Baseline
+29,10,Nev Schulman,0.1428571428405121,30.0,Safe,Baseline
+29,10,Nelly,0.1428571428405121,28.0,Safe,Baseline
+29,10,Kaitlyn Bristowe,0.14285714284051212,30.0,Safe,Baseline
+29,10,Jeannie Mai,0.22475869462285764,0.0,Safe,Baseline
+30,2,Martin Kove,0.06666666666666667,15.0,Eliminated,Baseline
+30,2,Brian Austin Green,0.06666666666666667,23.0,Safe,Baseline
+30,2,Melora Hardin,0.06666666666666667,27.0,Safe,Baseline
+30,2,Matt James,0.06666666666666667,22.0,Safe,Baseline
+30,2,"Mike ""The Miz"" Mizanin",0.06666666666666667,26.0,Safe,Baseline
+30,2,Suni Lee,0.06666666666666667,28.0,Safe,Baseline
+30,2,Iman Shumpert,0.06666666666666667,25.0,Safe,Baseline
+30,2,Cody Rigsby,0.06666666666666667,24.0,Safe,Baseline
+30,2,Melanie C,0.06666666666666667,30.0,Safe,Baseline
+30,2,Jimmie Allen,0.06666666666666667,27.0,Safe,Baseline
+30,2,Olivia Jade,0.06666666666666667,27.0,Safe,Baseline
+30,2,JoJo Siwa,0.06666666666666667,31.0,Safe,Baseline
+30,2,Christine Chiu,0.06666666666666667,24.0,Safe,Baseline
+30,2,Kenya Moore,0.06666666666666667,24.0,Safe,Baseline
+30,2,Amanda Kloots,0.06666666666666667,32.0,Safe,Baseline
+30,3,Brian Austin Green,0.07226999760290567,19.0,Safe,Baseline
+30,3,Melora Hardin,0.07142857142863641,23.0,Safe,Baseline
+30,3,Matt James,0.07142857142863641,20.0,Safe,Baseline
+30,3,"Mike ""The Miz"" Mizanin",0.07142857142863641,22.0,Safe,Baseline
+30,3,Suni Lee,0.07142857142863641,21.0,Safe,Baseline
+30,3,Iman Shumpert,0.07226999760290567,19.0,Safe,Baseline
+30,3,Cody Rigsby,0.07562570230089226,18.0,Safe,Baseline
+30,3,Melanie C,0.07142857142863641,22.0,Safe,Baseline
+30,3,Jimmie Allen,0.07142857142863641,20.0,Safe,Baseline
+30,3,Olivia Jade,0.07142857142863641,24.0,Safe,Baseline
+30,3,JoJo Siwa,0.07142857142863641,24.0,Safe,Baseline
+30,3,Christine Chiu,0.06554858820693252,21.0,Eliminated,Baseline
+30,3,Kenya Moore,0.07142857142863641,21.0,Safe,Baseline
+30,3,Amanda Kloots,0.07142857142863641,24.0,Safe,Baseline
+30,4,Brian Austin Green,0.07692307692307693,26.0,Eliminated,Baseline
+30,4,Melora Hardin,0.07692307692307693,36.5,Safe,Baseline
+30,4,Matt James,0.07692307692307693,28.5,Eliminated,Baseline
+30,4,"Mike ""The Miz"" Mizanin",0.07692307692307693,32.5,Safe,Baseline
+30,4,Suni Lee,0.07692307692307693,34.0,Safe,Baseline
+30,4,Iman Shumpert,0.07692307692307693,31.5,Safe,Baseline
+30,4,Cody Rigsby,0.07692307692307693,29.0,Safe,Baseline
+30,4,Melanie C,0.07692307692307693,33.0,Safe,Baseline
+30,4,Jimmie Allen,0.07692307692307693,32.5,Safe,Baseline
+30,4,Olivia Jade,0.07692307692307693,35.0,Safe,Baseline
+30,4,JoJo Siwa,0.07692307692307693,35.0,Safe,Baseline
+30,4,Kenya Moore,0.07692307692307693,29.5,Safe,Baseline
+30,4,Amanda Kloots,0.07692307692307693,34.0,Safe,Baseline
+30,5,Melora Hardin,0.09090909090909091,36.0,Safe,Baseline
+30,5,"Mike ""The Miz"" Mizanin",0.0909115909090909,32.0,Safe,Baseline
+30,5,Suni Lee,0.09090909090909091,36.0,Safe,Baseline
+30,5,Iman Shumpert,0.1013012012987013,28.0,Safe,Baseline
+30,5,Cody Rigsby,0.0909115909090909,32.0,Safe,Baseline
+30,5,Melanie C,0.08051198051948052,36.0,Eliminated,Baseline
+30,5,Jimmie Allen,0.09090909090909091,34.0,Safe,Baseline
+30,5,Olivia Jade,0.09090909090909091,36.0,Safe,Baseline
+30,5,JoJo Siwa,0.09090909090909091,40.0,Safe,Baseline
+30,5,Kenya Moore,0.09090909090909091,36.0,Safe,Baseline
+30,5,Amanda Kloots,0.09090909090909091,39.0,Safe,Baseline
+30,6,Melora Hardin,0.1,34.0,Safe,Baseline
+30,6,"Mike ""The Miz"" Mizanin",0.1,34.0,Safe,Baseline
+30,6,Suni Lee,0.1,36.0,Safe,Baseline
+30,6,Iman Shumpert,0.1,40.0,Safe,Baseline
+30,6,Cody Rigsby,0.1,36.0,Safe,Baseline
+30,6,Jimmie Allen,0.1,38.0,Safe,Baseline
+30,6,Olivia Jade,0.1,36.0,Safe,Baseline
+30,6,JoJo Siwa,0.1,40.0,Safe,Baseline
+30,6,Kenya Moore,0.1,32.0,Eliminated,Baseline
+30,6,Amanda Kloots,0.1,38.0,Safe,Baseline
+30,7,Melora Hardin,0.1111111111111111,38.0,Safe,Baseline
+30,7,"Mike ""The Miz"" Mizanin",0.1111111111111111,32.0,Eliminated,Baseline
+30,7,Suni Lee,0.1111111111111111,34.0,Safe,Baseline
+30,7,Iman Shumpert,0.1111111111111111,34.0,Safe,Baseline
+30,7,Cody Rigsby,0.1111111111111111,36.0,Safe,Baseline
+30,7,Jimmie Allen,0.1111111111111111,38.0,Safe,Baseline
+30,7,Olivia Jade,0.1111111111111111,42.0,Safe,Baseline
+30,7,JoJo Siwa,0.1111111111111111,39.0,Safe,Baseline
+30,7,Amanda Kloots,0.1111111111111111,34.0,Safe,Baseline
+30,8,Melora Hardin,0.125,42.0,Safe,Baseline
+30,8,Suni Lee,0.125,42.0,Safe,Baseline
+30,8,Iman Shumpert,0.125,35.0,Safe,Baseline
+30,8,Cody Rigsby,0.125,38.0,Safe,Baseline
+30,8,Jimmie Allen,0.125,32.0,Eliminated,Baseline
+30,8,Olivia Jade,0.125,36.0,Eliminated,Baseline
+30,8,JoJo Siwa,0.125,41.0,Safe,Baseline
+30,8,Amanda Kloots,0.125,42.0,Safe,Baseline
+30,9,Melora Hardin,0.1655554719764012,36.0,Eliminated,Baseline
+30,9,Suni Lee,0.16666666666666669,37.5,Eliminated,Baseline
+30,9,Iman Shumpert,0.16666666666666669,37.5,Safe,Baseline
+30,9,Cody Rigsby,0.16777786135693218,35.5,Safe,Baseline
+30,9,JoJo Siwa,0.16666666666666669,40.0,Safe,Baseline
+30,9,Amanda Kloots,0.16666666666666669,39.5,Safe,Baseline
+31,1,Jason Lewis,0.06118609947643979,18.0,Eliminated,Baseline
+31,1,Cheryl Ladd,0.0625,21.0,Safe,Baseline
+31,1,Selma Blair,0.0625,28.0,Safe,Baseline
+31,1,Joseph Baena,0.0625,23.0,Safe,Baseline
+31,1,Trevor Donovan,0.0625,21.0,Safe,Baseline
+31,1,Daniel Durant,0.0625,27.0,Safe,Baseline
+31,1,Wayne Brady,0.0625,29.0,Safe,Baseline
+31,1,Sam Champion,0.0625,20.0,Safe,Baseline
+31,1,Jessie James Decker,0.0625,20.0,Safe,Baseline
+31,1,Jordin Sparks,0.0625,26.0,Safe,Baseline
+31,1,Heidi D'Amelio,0.0625,24.0,Safe,Baseline
+31,1,Charli D'Amelio,0.0625,32.0,Safe,Baseline
+31,1,Teresa Giudice,0.0625,20.0,Safe,Baseline
+31,1,Vinny Guadagnino,0.06381390052356022,17.0,Safe,Baseline
+31,1,Shangela,0.0625,28.0,Safe,Baseline
+31,1,Gabby Windey,0.0625,28.0,Safe,Baseline
+31,2,Cheryl Ladd,0.06909885113263683,21.0,Safe,Baseline
+31,2,Selma Blair,0.06666666666667426,28.0,Safe,Baseline
+31,2,Joseph Baena,0.06666666666667426,24.0,Safe,Baseline
+31,2,Trevor Donovan,0.06666666666667426,30.0,Safe,Baseline
+31,2,Daniel Durant,0.06666666666667426,29.0,Safe,Baseline
+31,2,Wayne Brady,0.06666666666667426,32.0,Safe,Baseline
+31,2,Sam Champion,0.06666666666667426,26.0,Safe,Baseline
+31,2,Jessie James Decker,0.06666666666667426,25.0,Safe,Baseline
+31,2,Jordin Sparks,0.06666666666667426,27.0,Safe,Baseline
+31,2,Heidi D'Amelio,0.06666666666667426,28.0,Safe,Baseline
+31,2,Charli D'Amelio,0.06666666666667426,32.0,Safe,Baseline
+31,2,Teresa Giudice,0.064234482200598,23.0,Eliminated,Baseline
+31,2,Vinny Guadagnino,0.06666666666667426,27.0,Safe,Baseline
+31,2,Shangela,0.06666666666667426,28.0,Safe,Baseline
+31,2,Gabby Windey,0.06666666666667426,32.0,Safe,Baseline
+31,3,Cheryl Ladd,0.07018287663948956,24.0,Eliminated,Baseline
+31,3,Selma Blair,0.07142857142857145,28.0,Safe,Baseline
+31,3,Joseph Baena,0.07142857142857145,29.0,Safe,Baseline
+31,3,Trevor Donovan,0.07142857142857145,27.0,Safe,Baseline
+31,3,Daniel Durant,0.07142857142857145,31.0,Safe,Baseline
+31,3,Wayne Brady,0.07142857142857145,33.0,Safe,Baseline
+31,3,Sam Champion,0.07142857142857145,25.0,Safe,Baseline
+31,3,Jessie James Decker,0.07142857142857145,26.0,Safe,Baseline
+31,3,Jordin Sparks,0.07142857142857145,29.0,Safe,Baseline
+31,3,Heidi D'Amelio,0.07142857142857145,32.0,Safe,Baseline
+31,3,Charli D'Amelio,0.07142857142857145,33.0,Safe,Baseline
+31,3,Vinny Guadagnino,0.07267426621765331,23.0,Safe,Baseline
+31,3,Shangela,0.07142857142857145,30.0,Safe,Baseline
+31,3,Gabby Windey,0.07142857142857145,33.0,Safe,Baseline
+31,4,Selma Blair,0.07692307692307693,32.0,Safe,Baseline
+31,4,Joseph Baena,0.07692307692307693,28.0,Safe,Baseline
+31,4,Trevor Donovan,0.07692307692307693,28.0,Safe,Baseline
+31,4,Daniel Durant,0.07692307692307693,29.0,Safe,Baseline
+31,4,Wayne Brady,0.07692307692307693,36.0,Safe,Baseline
+31,4,Sam Champion,0.07692307692307693,25.0,Eliminated,Baseline
+31,4,Jessie James Decker,0.07692307692307693,31.0,Safe,Baseline
+31,4,Jordin Sparks,0.07692307692307693,34.0,Safe,Baseline
+31,4,Heidi D'Amelio,0.07692307692307693,34.0,Safe,Baseline
+31,4,Charli D'Amelio,0.07692307692307693,36.0,Safe,Baseline
+31,4,Vinny Guadagnino,0.07692307692307693,29.0,Safe,Baseline
+31,4,Shangela,0.07692307692307693,32.0,Safe,Baseline
+31,4,Gabby Windey,0.07692307692307693,36.0,Safe,Baseline
+31,5,Selma Blair,0.08333333333333333,40.0,Safe,Baseline
+31,5,Joseph Baena,0.07886902452619843,35.0,Eliminated,Baseline
+31,5,Trevor Donovan,0.08333333333333333,36.0,Safe,Baseline
+31,5,Daniel Durant,0.08333333333333333,33.5,Safe,Baseline
+31,5,Wayne Brady,0.08333333333333333,41.0,Safe,Baseline
+31,5,Jessie James Decker,0.08333333333333333,36.0,Safe,Baseline
+31,5,Jordin Sparks,0.08333333333333333,35.5,Safe,Baseline
+31,5,Heidi D'Amelio,0.08333333333333333,39.0,Safe,Baseline
+31,5,Charli D'Amelio,0.08333333333333333,42.0,Safe,Baseline
+31,5,Vinny Guadagnino,0.08779764214046823,31.0,Safe,Baseline
+31,5,Shangela,0.08333333333333333,38.5,Safe,Baseline
+31,5,Gabby Windey,0.08333333333333333,41.0,Safe,Baseline
+31,6,Selma Blair,0.13729090251519993,0.0,Safe,Baseline
+31,6,Trevor Donovan,0.09090909090644511,34.0,Safe,Baseline
+31,6,Daniel Durant,0.09090909090644511,34.0,Safe,Baseline
+31,6,Wayne Brady,0.09090909090644511,34.0,Safe,Baseline
+31,6,Jessie James Decker,0.044527279326794136,32.0,Eliminated,Baseline
+31,6,Jordin Sparks,0.09090909090644511,34.0,Safe,Baseline
+31,6,Heidi D'Amelio,0.09090909090644511,36.0,Safe,Baseline
+31,6,Charli D'Amelio,0.09090909090644511,40.0,Safe,Baseline
+31,6,Vinny Guadagnino,0.09090909090644511,28.0,Safe,Baseline
+31,6,Shangela,0.09090909090644511,36.0,Safe,Baseline
+31,6,Gabby Windey,0.0909090909064451,37.0,Safe,Baseline
+31,7,Selma Blair,0.15300039171671065,0.0,Safe,Baseline
+31,7,Trevor Donovan,0.09999999999708963,39.0,Safe,Baseline
+31,7,Daniel Durant,0.09999999999708963,36.5,Safe,Baseline
+31,7,Wayne Brady,0.09999999999708963,38.0,Safe,Baseline
+31,7,Jordin Sparks,0.0469996083065724,34.5,Eliminated,Baseline
+31,7,Heidi D'Amelio,0.09999999999708963,35.0,Safe,Baseline
+31,7,Charli D'Amelio,0.09999999999708963,39.0,Safe,Baseline
+31,7,Vinny Guadagnino,0.09999999999708963,31.5,Safe,Baseline
+31,7,Shangela,0.09999999999708963,36.5,Safe,Baseline
+31,7,Gabby Windey,0.09999999999708963,35.5,Safe,Baseline
+31,8,Selma Blair,0.16684859517622608,0.0,Safe,Baseline
+31,8,Trevor Donovan,0.11111111111434487,39.0,Safe,Baseline
+31,8,Daniel Durant,0.11111111111434487,39.0,Safe,Baseline
+31,8,Wayne Brady,0.11111111111434487,45.0,Safe,Baseline
+31,8,Heidi D'Amelio,0.05537362702335984,35.0,Eliminated,Baseline
+31,8,Charli D'Amelio,0.11111111111434487,45.0,Safe,Baseline
+31,8,Vinny Guadagnino,0.11111111111434487,29.0,Eliminated,Baseline
+31,8,Shangela,0.11111111111434487,42.0,Safe,Baseline
+31,8,Gabby Windey,0.11111111111434485,40.0,Safe,Baseline
+31,9,Selma Blair,0.21672577924156766,0.0,Safe,Baseline
+31,9,Trevor Donovan,0.0689885065142949,32.5,Eliminated,Baseline
+31,9,Daniel Durant,0.14285714284882747,34.5,Eliminated,Baseline
+31,9,Wayne Brady,0.14285714284882747,36.5,Safe,Baseline
+31,9,Charli D'Amelio,0.14285714284882747,40.0,Safe,Baseline
+31,9,Shangela,0.14285714284882747,36.5,Safe,Baseline
+31,9,Gabby Windey,0.14285714284882745,40.0,Safe,Baseline
+32,1,Jamie Lynn Spears,0.07142857142857144,15.0,Safe,Baseline
+32,1,Mira Sorvino,0.07142857142857144,17.0,Safe,Baseline
+32,1,Barry Williams,0.07142857142857144,16.0,Safe,Baseline
+32,1,Alyson Hannigan,0.07142857142857144,13.0,Safe,Baseline
+32,1,Xochitl Gomez,0.07142857142857144,18.0,Safe,Baseline
+32,1,Adrian Peterson,0.07142857142857144,18.0,Safe,Baseline
+32,1,Matt Walsh,0.07142190476190477,12.0,Eliminated,Baseline
+32,1,Tyson Beckford,0.07143190476190477,12.0,Safe,Baseline
+32,1,Jason Mraz,0.07142857142857144,21.0,Safe,Baseline
+32,1,Lele Pons,0.07142857142857144,19.0,Safe,Baseline
+32,1,Harry Jowsey,0.07143190476190477,12.0,Safe,Baseline
+32,1,Mauricio Umansky,0.07142857142857144,15.0,Safe,Baseline
+32,1,Charity Lawson,0.07142857142857144,22.0,Safe,Baseline
+32,1,Ariana Madix,0.07142857142857144,21.0,Safe,Baseline
+32,2,Jamie Lynn Spears,0.06851471557815429,16.0,Eliminated,Baseline
+32,2,Mira Sorvino,0.07692307692314687,18.0,Safe,Baseline
+32,2,Barry Williams,0.07692307692314687,15.0,Safe,Baseline
+32,2,Alyson Hannigan,0.07692307692314687,19.0,Safe,Baseline
+32,2,Xochitl Gomez,0.07692307692314687,24.0,Safe,Baseline
+32,2,Adrian Peterson,0.07692307692314687,15.0,Safe,Baseline
+32,2,Tyson Beckford,0.07692307692314687,18.0,Safe,Baseline
+32,2,Jason Mraz,0.07692307692314687,24.0,Safe,Baseline
+32,2,Lele Pons,0.07692307692314687,21.0,Safe,Baseline
+32,2,Harry Jowsey,0.07692307692314687,15.0,Safe,Baseline
+32,2,Mauricio Umansky,0.08533143826722993,12.0,Safe,Baseline
+32,2,Charity Lawson,0.07692307692314687,21.0,Safe,Baseline
+32,2,Ariana Madix,0.07692307692314687,20.0,Safe,Baseline
+32,3,Mira Sorvino,0.08333333333333333,26.0,Safe,Baseline
+32,3,Barry Williams,0.08333333333333333,25.0,Safe,Baseline
+32,3,Alyson Hannigan,0.08333333333333333,24.0,Safe,Baseline
+32,3,Xochitl Gomez,0.08333333333333333,32.0,Safe,Baseline
+32,3,Adrian Peterson,0.08333333333333333,22.0,Safe,Baseline
+32,3,Tyson Beckford,0.08333333333333333,20.0,Eliminated,Baseline
+32,3,Jason Mraz,0.08333333333333333,34.0,Safe,Baseline
+32,3,Lele Pons,0.08333333333333333,27.0,Safe,Baseline
+32,3,Harry Jowsey,0.08333333333333333,24.0,Safe,Baseline
+32,3,Mauricio Umansky,0.08333333333333333,23.0,Safe,Baseline
+32,3,Charity Lawson,0.08333333333333333,32.0,Safe,Baseline
+32,3,Ariana Madix,0.08333333333333333,34.0,Safe,Baseline
+32,4,Mira Sorvino,0.09090909090900823,21.0,Safe,Baseline
+32,4,Barry Williams,0.09507825757590227,18.0,Safe,Baseline
+32,4,Alyson Hannigan,0.09507825757590227,18.0,Safe,Baseline
+32,4,Xochitl Gomez,0.09090909090900823,27.0,Safe,Baseline
+32,4,Adrian Peterson,0.08256825757590226,21.0,Eliminated,Baseline
+32,4,Jason Mraz,0.09090909090900823,24.0,Safe,Baseline
+32,4,Lele Pons,0.09090909090900823,22.0,Safe,Baseline
+32,4,Harry Jowsey,0.09090909090900823,21.0,Safe,Baseline
+32,4,Mauricio Umansky,0.0909115909092356,19.0,Safe,Baseline
+32,4,Charity Lawson,0.09090909090900823,24.0,Safe,Baseline
+32,4,Ariana Madix,0.09090909090900823,25.0,Safe,Baseline
+32,5,Mira Sorvino,0.09166166666666667,22.0,Eliminated,Baseline
+32,5,Barry Williams,0.1,24.0,Safe,Baseline
+32,5,Alyson Hannigan,0.1,21.0,Safe,Baseline
+32,5,Xochitl Gomez,0.1,28.0,Safe,Baseline
+32,5,Jason Mraz,0.1,27.0,Safe,Baseline
+32,5,Lele Pons,0.1,24.0,Safe,Baseline
+32,5,Harry Jowsey,0.10833833333333334,18.0,Safe,Baseline
+32,5,Mauricio Umansky,0.1,24.0,Safe,Baseline
+32,5,Charity Lawson,0.1,28.0,Safe,Baseline
+32,5,Ariana Madix,0.1,24.0,Safe,Baseline
+32,6,Barry Williams,0.11111111111106058,32.0,Safe,Baseline
+32,6,Alyson Hannigan,0.11111444444454549,31.0,Safe,Baseline
+32,6,Xochitl Gomez,0.11111111111106058,42.0,Safe,Baseline
+32,6,Jason Mraz,0.11111111111106058,39.0,Safe,Baseline
+32,6,Lele Pons,0.11111111111106058,37.0,Safe,Baseline
+32,6,Harry Jowsey,0.11732562456876909,29.0,Safe,Baseline
+32,6,Mauricio Umansky,0.1048932643203219,33.0,Eliminated,Baseline
+32,6,Charity Lawson,0.11111111111106058,38.0,Safe,Baseline
+32,6,Ariana Madix,0.11111111111106058,41.0,Safe,Baseline
+32,7,Barry Williams,0.12914044917276632,32.5,Safe,Baseline
+32,7,Alyson Hannigan,0.12499999999988631,35.0,Safe,Baseline
+32,7,Xochitl Gomez,0.12499999999988631,37.0,Safe,Baseline
+32,7,Jason Mraz,0.12499999999988631,36.0,Safe,Baseline
+32,7,Lele Pons,0.11494605200964574,36.5,Eliminated,Baseline
+32,7,Harry Jowsey,0.1309134988181564,32.0,Safe,Baseline
+32,7,Charity Lawson,0.12499999999988631,36.0,Safe,Baseline
+32,7,Ariana Madix,0.12499999999988631,37.0,Safe,Baseline
+32,8,Barry Williams,0.12901815076358047,35.0,Eliminated,Baseline
+32,8,Alyson Hannigan,0.14285714285662313,36.0,Safe,Baseline
+32,8,Xochitl Gomez,0.14285714285662313,40.0,Safe,Baseline
+32,8,Jason Mraz,0.14285714285662313,33.0,Safe,Baseline
+32,8,Harry Jowsey,0.15669613495330378,28.0,Safe,Baseline
+32,8,Charity Lawson,0.14285714285662313,39.0,Safe,Baseline
+32,8,Ariana Madix,0.14285714285662313,42.0,Safe,Baseline
+32,9,Alyson Hannigan,0.16666666666666666,32.0,Safe,Baseline
+32,9,Xochitl Gomez,0.16666666666666666,41.0,Safe,Baseline
+32,9,Jason Mraz,0.16666666666666666,43.0,Safe,Baseline
+32,9,Harry Jowsey,0.16666666666666666,30.0,Eliminated,Baseline
+32,9,Charity Lawson,0.16666666666666666,38.0,Safe,Baseline
+32,9,Ariana Madix,0.16666666666666666,37.0,Safe,Baseline
+33,2,Tori Spelling,0.06658049294374874,19.0,Eliminated,Baseline
+33,2,Eric Roberts,0.082094368912741,15.0,Safe,Baseline
+33,2,Reginald VelJohnson,0.08209436891274098,15.0,Safe,Baseline
+33,2,Chandler Kinney,0.07692307692307691,24.0,Safe,Baseline
+33,2,Dwight Howard ,0.07692307692307691,22.0,Safe,Baseline
+33,2,Danny Amendola,0.07692307692307691,21.0,Safe,Baseline
+33,2,Stephen Nedoroscik,0.07692307692307691,22.0,Safe,Baseline
+33,2,Ilona Maher,0.07692307692307691,21.0,Safe,Baseline
+33,2,Anna Delvey,0.07692307692307691,17.0,Eliminated,Baseline
+33,2,Brooks Nader,0.07692307692307691,20.0,Safe,Baseline
+33,2,Phaedra Parks,0.07692307692307691,21.0,Safe,Baseline
+33,2,Jenn Tran,0.07692307692307691,19.0,Safe,Baseline
+33,2,Joey Graziadei,0.07692307692307691,22.0,Safe,Baseline
+33,3,Eric Roberts,0.08775943682104059,23.0,Eliminated,Baseline
+33,3,Reginald VelJohnson,0.09405874499714123,21.0,Eliminated,Baseline
+33,3,Chandler Kinney,0.09090909090909091,34.5,Safe,Baseline
+33,3,Dwight Howard ,0.09090909090909091,26.0,Safe,Baseline
+33,3,Danny Amendola,0.09090909090909091,30.0,Safe,Baseline
+33,3,Stephen Nedoroscik,0.09090909090909091,31.0,Safe,Baseline
+33,3,Ilona Maher,0.09090909090909091,28.0,Safe,Baseline
+33,3,Brooks Nader,0.09090909090909091,30.5,Safe,Baseline
+33,3,Phaedra Parks,0.09090909090909091,28.0,Safe,Baseline
+33,3,Jenn Tran,0.09090909090909091,31.0,Safe,Baseline
+33,3,Joey Graziadei,0.09090909090909091,35.0,Safe,Baseline
+33,4,Chandler Kinney,0.1111111111111111,32.0,Safe,Baseline
+33,4,Dwight Howard ,0.11621815192743765,29.0,Safe,Baseline
+33,4,Danny Amendola,0.1111111111111111,36.0,Safe,Baseline
+33,4,Stephen Nedoroscik,0.1111111111111111,33.0,Safe,Baseline
+33,4,Ilona Maher,0.1111111111111111,32.0,Safe,Baseline
+33,4,Brooks Nader,0.10600407029478458,32.0,Eliminated,Baseline
+33,4,Phaedra Parks,0.1111111111111111,32.0,Safe,Baseline
+33,4,Jenn Tran,0.1111111111111111,32.0,Safe,Baseline
+33,4,Joey Graziadei,0.1111111111111111,36.0,Safe,Baseline
+33,5,Chandler Kinney,0.125,27.0,Safe,Baseline
+33,5,Dwight Howard ,0.12500333333333333,24.0,Safe,Baseline
+33,5,Danny Amendola,0.125,25.5,Safe,Baseline
+33,5,Stephen Nedoroscik,0.12500333333333333,24.0,Safe,Baseline
+33,5,Ilona Maher,0.125,26.0,Safe,Baseline
+33,5,Phaedra Parks,0.12499333333333332,24.0,Eliminated,Baseline
+33,5,Jenn Tran,0.125,25.5,Safe,Baseline
+33,5,Joey Graziadei,0.12500000000000003,26.0,Safe,Baseline
+33,6,Chandler Kinney,0.14285714285714288,32.0,Safe,Baseline
+33,6,Dwight Howard ,0.14285714285714288,31.0,Safe,Baseline
+33,6,Danny Amendola,0.14285714285714288,28.0,Safe,Baseline
+33,6,Stephen Nedoroscik,0.14285714285714288,28.0,Safe,Baseline
+33,6,Ilona Maher,0.1598524341192788,24.0,Safe,Baseline
+33,6,Jenn Tran,0.12586185159500693,31.0,Eliminated,Baseline
+33,6,Joey Graziadei,0.14285714285714285,32.0,Safe,Baseline
+33,7,Chandler Kinney,0.16666666666666666,30.0,Safe,Baseline
+33,7,Dwight Howard ,0.16666666666666666,24.0,Eliminated,Baseline
+33,7,Danny Amendola,0.16666666666666666,25.5,Safe,Baseline
+33,7,Stephen Nedoroscik,0.16666666666666666,27.0,Safe,Baseline
+33,7,Ilona Maher,0.16666666666666666,26.0,Safe,Baseline
+33,7,Joey Graziadei,0.16666666666666666,27.5,Safe,Baseline
+34,2,Corey Feldman,0.07142857142857142,15.0,Eliminated,Baseline
+34,2,Danielle Fishel,0.07142857142857142,19.0,Safe,Baseline
+34,2,Elaine Hendrix,0.07142857142857142,21.0,Safe,Baseline
+34,2,Baron Davis,0.07142857142857142,18.0,Eliminated,Baseline
+34,2,Jordan Chiles,0.07142857142857142,22.0,Safe,Baseline
+34,2,Andy Richter,0.07142857142857142,16.0,Safe,Baseline
+34,2,Robert Irwin,0.07142857142857142,22.0,Safe,Baseline
+34,2,Hilaria Baldwin,0.07142857142857142,21.0,Safe,Baseline
+34,2,Lauren Jauregui,0.07142857142857142,21.0,Safe,Baseline
+34,2,Scott Hoying,0.07142857142857142,18.0,Safe,Baseline
+34,2,Alix Earle,0.07142857142857142,21.0,Safe,Baseline
+34,2,Jen Affleck,0.07142857142857142,22.0,Safe,Baseline
+34,2,Whitney Leavitt,0.07142857142857142,22.0,Safe,Baseline
+34,2,Dylan Efron,0.07142857142857142,20.0,Safe,Baseline
+34,3,Danielle Fishel,0.08333333333333333,21.0,Safe,Baseline
+34,3,Elaine Hendrix,0.08333333333333333,21.0,Safe,Baseline
+34,3,Jordan Chiles,0.08333333333333333,24.0,Safe,Baseline
+34,3,Andy Richter,0.08333833333333333,18.0,Safe,Baseline
+34,3,Robert Irwin,0.08333333333333333,22.0,Safe,Baseline
+34,3,Hilaria Baldwin,0.08333333333333333,22.0,Safe,Baseline
+34,3,Lauren Jauregui,0.08332833333333332,18.0,Eliminated,Baseline
+34,3,Scott Hoying,0.08333333333333333,22.0,Safe,Baseline
+34,3,Alix Earle,0.08333333333333333,23.0,Safe,Baseline
+34,3,Jen Affleck,0.08333333333333333,19.0,Safe,Baseline
+34,3,Whitney Leavitt,0.08333333333333333,24.0,Safe,Baseline
+34,3,Dylan Efron,0.08333333333333333,23.0,Safe,Baseline
+34,4,Danielle Fishel,0.09090909090909091,21.0,Safe,Baseline
+34,4,Elaine Hendrix,0.09090909090909091,24.0,Safe,Baseline
+34,4,Jordan Chiles,0.09090909090909091,24.0,Safe,Baseline
+34,4,Andy Richter,0.10099473607038123,18.0,Safe,Baseline
+34,4,Robert Irwin,0.09090909090909091,22.0,Safe,Baseline
+34,4,Hilaria Baldwin,0.08082344574780059,23.0,Eliminated,Baseline
+34,4,Scott Hoying,0.09090909090909091,21.0,Safe,Baseline
+34,4,Alix Earle,0.09090909090909091,24.0,Safe,Baseline
+34,4,Jen Affleck,0.09090909090909091,23.0,Safe,Baseline
+34,4,Whitney Leavitt,0.09090909090909091,25.0,Safe,Baseline
+34,4,Dylan Efron,0.09090909090909091,23.0,Safe,Baseline
+34,6,Danielle Fishel,0.1,36.0,Safe,Baseline
+34,6,Elaine Hendrix,0.1,36.0,Safe,Baseline
+34,6,Jordan Chiles,0.1,39.0,Safe,Baseline
+34,6,Andy Richter,0.10147558823529414,27.0,Safe,Baseline
+34,6,Robert Irwin,0.1,36.0,Safe,Baseline
+34,6,Scott Hoying,0.09852441176470587,28.0,Eliminated,Baseline
+34,6,Alix Earle,0.1,35.0,Safe,Baseline
+34,6,Jen Affleck,0.1,32.0,Safe,Baseline
+34,6,Whitney Leavitt,0.1,39.0,Safe,Baseline
+34,6,Dylan Efron,0.1,32.0,Safe,Baseline
+34,7,Danielle Fishel,0.1111111111111111,35.0,Safe,Baseline
+34,7,Elaine Hendrix,0.1111111111111111,32.0,Safe,Baseline
+34,7,Jordan Chiles,0.1111111111111111,38.0,Safe,Baseline
+34,7,Andy Richter,0.11864623159303882,29.0,Safe,Baseline
+34,7,Robert Irwin,0.1111111111111111,41.0,Safe,Baseline
+34,7,Alix Earle,0.1111111111111111,43.0,Safe,Baseline
+34,7,Jen Affleck,0.10357599062918339,34.0,Eliminated,Baseline
+34,7,Whitney Leavitt,0.1111111111111111,42.0,Safe,Baseline
+34,7,Dylan Efron,0.1111111111111111,38.0,Safe,Baseline
+34,8,Danielle Fishel,0.12001987562189054,37.0,Eliminated,Baseline
+34,8,Elaine Hendrix,0.125,37.5,Safe,Baseline
+34,8,Jordan Chiles,0.125,39.0,Safe,Baseline
+34,8,Andy Richter,0.12998012437810946,34.0,Safe,Baseline
+34,8,Robert Irwin,0.125,38.0,Safe,Baseline
+34,8,Alix Earle,0.125,38.5,Safe,Baseline
+34,8,Whitney Leavitt,0.125,39.5,Safe,Baseline
+34,8,Dylan Efron,0.125,38.0,Safe,Baseline
+34,9,Elaine Hendrix,0.14285714285714285,36.0,Safe,Baseline
+34,9,Jordan Chiles,0.14285714285714285,39.0,Safe,Baseline
+34,9,Andy Richter,0.14285714285714285,29.0,Eliminated,Baseline
+34,9,Robert Irwin,0.14285714285714285,42.0,Safe,Baseline
+34,9,Alix Earle,0.14285714285714285,40.0,Safe,Baseline
+34,9,Whitney Leavitt,0.14285714285714285,42.0,Safe,Baseline
+34,9,Dylan Efron,0.14285714285714285,42.0,Safe,Baseline
+34,10,Elaine Hendrix,0.16666666666666666,28.5,Safe,Baseline
+34,10,Jordan Chiles,0.16666666666666666,28.5,Safe,Baseline
+34,10,Robert Irwin,0.16666666666666666,29.5,Safe,Baseline
+34,10,Alix Earle,0.16666666666666666,29.0,Safe,Baseline
+34,10,Whitney Leavitt,0.1623012015503876,29.0,Eliminated,Baseline
+34,10,Dylan Efron,0.17103213178294574,27.5,Safe,Baseline
