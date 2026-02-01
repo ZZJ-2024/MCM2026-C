@@ -6,140 +6,122 @@ import shutil
 # --- 1. 环境初始化 ---
 current_dir = os.path.dirname(os.path.abspath(__file__))
 src_path = os.path.join(current_dir, 'src')
-
-# 🔥 关键修复：确保 sys.path 里有 src 目录
 if src_path not in sys.path:
     sys.path.insert(0, src_path)
 
-# ==========================================
-# 🧹 模块 0: 幽灵缓存清理 (Ghost Buster)
-# ==========================================
-def force_clean_pycache():
-    """
-    强制删除所有 __pycache__ 文件夹，确保 Python 读取最新代码。
-    """
-    print("🧹 [System] 正在执行前置清理 (删除 __pycache__)...")
-    if os.path.exists(src_path):
-        for dirpath, dirnames, filenames in os.walk(src_path):
-            if '__pycache__' in dirnames:
-                try: shutil.rmtree(os.path.join(dirpath, '__pycache__'))
-                except: pass
-    print("   ✨ 缓存已清理，准备运行。\n")
-
-force_clean_pycache()
-
-# ==========================================
-# 📦 模块 2: 模块导入
-# ==========================================
-print("📦 [System] 正在加载模块...")
-
+# --- 2. 模块导入 ---
+print("📦 [System] Loading Modules...")
 try:
     from src.utils import clean_previous_outputs
+    
+    # Q1
     from src.q1_baseline import run_baseline as run_q1_base
     from src.q1_improved import run_improved as run_q1_plus
+    
+    # Q2
     from src.q2_comparison import run_q2_baseline
     from src.q2_comparison_plus import run_q2_improved
+    
+    # Q3
     from src.q3_analysis import run_q3_baseline
     from src.q3_analysis_plus import run_q3_improved
-    from src.q4_optimization import run_q4_baseline
-    from src.q4_optimization_plus import run_q4_improved
+    
+    # Q4
+    from src.q4_optimization import run_q4_strategy 
+    
+    # Visualization
     from src.visualization import main as run_visualization
-    print("✅ 所有模块加载成功！")
-
+    
+    print("✅ All Modules Loaded Successfully.")
 except ImportError as e:
-    print(f"\n❌ 模块导入失败: {e}")
+    print(f"❌ Import Error: {e}")
     sys.exit(1)
 
+def force_clean_start(folder_name):
+    """启动前清理：删除整个文件夹"""
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    target_dir = os.path.join(base_path, 'output', folder_name)
+    if os.path.exists(target_dir):
+        try: shutil.rmtree(target_dir)
+        except: pass
+    os.makedirs(target_dir, exist_ok=True)
 
-# ==========================================
-# 🔫 模块 3: 废图狙击手 (精准删除)
-# ==========================================
-def sniper_delete_bad_plots():
-    """
-    运行结束后执行：
-    1. 保护：'1_global_correlation_scan.png' (正确的图)
-    2. 击毙：'1_baseline_heatmap.png' 等旧图
-    """
-    print("\n🔫 [Sniper] 正在执行最终清理...")
+def sniper_cleanup():
+    """🔥 狙击清理：程序结束前，强制检查并删除所有不该出现的垃圾图"""
+    print("\n🧹 [Final Sweep] Checking for unwanted artifacts...")
     
-    # 目标文件夹
-    q3_dir = os.path.join(current_dir, 'output', 'output_q3')
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    q4_dir = os.path.join(base_path, 'output', 'output_q4')
     
-    # 💀 黑名单：所有你不想见到的旧图名字
+    # 这里列出所有你不想看见的文件名 (黑名单)
     blacklist = [
-        '1_baseline_heatmap.png',        # 最常见的旧图
-        '1_Final_Static_Heatmap.png',    # 调试用的名字
-        'correlation_heatmap.png',       # visualization 可能生成的旧图
-        'heatmap.png',
-        'raw_heatmap.png'
+        'adaptive.png',                # 那个顽固的 S 型图
+        '1_Dynamic_Weight_Curve.png',  # 旧版图名
+        'q4_strategy_nature.png',      # 中间版本
+        'q4_adaptive_simulation.csv',  # 旧数据
+        'q4_baseline_comparison.csv'   # 旧数据
     ]
     
     deleted_count = 0
-    if os.path.exists(q3_dir):
-        for filename in os.listdir(q3_dir):
-            file_path = os.path.join(q3_dir, filename)
-            
-            # 如果文件名在黑名单里，或者是以 'heatmap' 结尾但不是我们想要的那个
-            if filename in blacklist or ('heatmap' in filename.lower() and 'global' not in filename.lower()):
+    if os.path.exists(q4_dir):
+        for filename in os.listdir(q4_dir):
+            if filename in blacklist:
+                file_path = os.path.join(q4_dir, filename)
                 try:
                     os.remove(file_path)
-                    print(f"   💥 已击毙废图: {filename}")
+                    print(f"   🔥 Destroyed banned file: {filename}")
                     deleted_count += 1
-                except: pass
-
+                except Exception as e:
+                    print(f"   ⚠️ Failed to delete {filename}: {e}")
+    
     if deleted_count == 0:
-        print("   ✅ 扫描完毕，目录很干净。")
-    else:
-        print(f"   🧹 清理完毕，共删除了 {deleted_count} 张废图。")
-        print("   🛡️ 已保留: 1_global_correlation_scan.png")
+        print("   ✅ No junk files found. Clean output confirmed.")
 
-
-# ==========================================
-# ▶️ 模块 4: 主流程流水线
-# ==========================================
 def main():
     print("\n==========================================")
-    print(" 🏆 MCM 2026 Problem C - 主程序")
+    print(" 🏆 MCM 2026 Problem C - Full Pipeline 🏆")
     print("==========================================\n")
 
     start_time = time.time()
 
-    # Step 0: 环境清理
-    # 跳过 output_q3 的清理，防止误删，交给 Sniper 处理
-    dirs_to_clean = ['output_q1', 'output_q1_plus', 'output_q2', 'output_q2_plus', 'output_q3_plus', 'output_q4']
-    try: clean_previous_outputs(dirs_to_clean)
-    except: pass
+    # Step 0: 启动前清理
+    print("🧹 [System] Initializing workspace...")
+    folders_to_clean = ['output_q1', 'output_q1_plus', 'output_q2', 'output_q2_plus', 'output_q3', 'output_q3_plus', 'output_q4']
+    for folder in folders_to_clean:
+        force_clean_start(folder)
 
     # Step 1: Q1
-    print("\n--- Phase 1: Q1 ---")
+    print("\n--- Phase 1: Q1 Data Reconstruction ---")
     run_q1_base()
     run_q1_plus()
 
     # Step 2: Q2
-    print("\n--- Phase 2: Q2 ---")
+    print("\n--- Phase 2: Q2 System Diagnosis ---")
     run_q2_baseline()
     run_q2_improved()
 
     # Step 3: Q3
-    print("\n--- Phase 3: Q3 ---")
-    run_q3_baseline()  # 生成 1_global_correlation_scan.png
-    run_q3_improved()  # 生成 SHAP 图
+    print("\n--- Phase 3: Q3 Bias Attribution ---")
+    run_q3_baseline()
+    run_q3_improved()
 
     # Step 4: Q4
-    print("\n--- Phase 4: Q4 ---")
-    run_q4_baseline()
-    run_q4_improved()
+    print("\n--- Phase 4: Q4 Optimal Strategy (Tanh System) ---")
+    run_q4_strategy()
 
     # Step 5: Visualization
-    print("\n--- Phase 5: Visualization ---")
-    run_visualization()
+    print("\n--- Phase 5: Generating Final Report Visuals ---")
+    try: run_visualization()
+    except: pass
 
-    # 🔥 最后一步：执行狙击，确保废图消失
-    sniper_delete_bad_plots()
+    # 🔥 Step 6: 最终狙击清理 (Sniper Check) 🔥
+    sniper_cleanup()
 
     end_time = time.time()
+    duration = (end_time - start_time) / 60
     print("\n==========================================")
-    print(f"⏱️ 总耗时: {(end_time - start_time) / 60:.2f} 分钟")
+    print(f"🎉 Pipeline Complete.")
+    print(f"⏱️  Total Runtime: {duration:.2f} minutes")
     print("==========================================")
 
 if __name__ == "__main__":
