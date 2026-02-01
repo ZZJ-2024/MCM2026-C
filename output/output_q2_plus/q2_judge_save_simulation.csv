@@ -1,11 +1,11 @@
 Season,Week,Standard_Eliminated,Save_System_Eliminated,Is_Reversal
-1,2,Kelly Monaco,Kelly Monaco,False
+1,2,Kelly Monaco,Evander Holyfield,True
 1,3,Evander Holyfield,Trista Sutter,True
-1,4,Evander Holyfield,Evander Holyfield,False
+1,4,John O'Hurley,John O'Hurley,False
 2,1,Master P,Master P,False
 2,2,Tatum O'Neal,Master P,True
 2,4,Tatum O'Neal,Tatum O'Neal,False
-2,5,Giselle Fernandez,Giselle Fernandez,False
+2,5,Tatum O'Neal,Tatum O'Neal,False
 3,1,Tucker Carlson,Tucker Carlson,False
 3,2,Jerry Springer,Jerry Springer,False
 3,3,Emmitt Smith,Emmitt Smith,False
@@ -152,8 +152,8 @@ Season,Week,Standard_Eliminated,Save_System_Eliminated,Is_Reversal
 27,7,Joe Amabile,Joe Amabile,False
 28,2,Lamar Odom,Lamar Odom,False
 28,4,Ray Lewis,Ray Lewis,False
-28,7,Lamar Odom,Lamar Odom,False
-28,9,Karamo Brown,Karamo Brown,False
+28,7,Ray Lewis,Ray Lewis,False
+28,9,Ray Lewis,Ray Lewis,False
 29,2,Charles Oakley,Charles Oakley,False
 29,3,Charles Oakley,Charles Oakley,False
 29,4,Carole Baskin,Carole Baskin,False
@@ -164,7 +164,7 @@ Season,Week,Standard_Eliminated,Save_System_Eliminated,Is_Reversal
 30,3,Martin Kove,Martin Kove,False
 30,4,Christine Chiu,Christine Chiu,False
 30,6,Christine Chiu,Christine Chiu,False
-30,7,Kenya Moore,Kenya Moore,False
+30,7,Matt James,Matt James,False
 31,1,Jason Lewis,Vinny Guadagnino,True
 31,2,Jason Lewis,Jason Lewis,False
 31,3,Teresa Giudice,Teresa Giudice,False
