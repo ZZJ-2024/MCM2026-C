@@ -1,20 +1,20 @@
 Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 1,2,John O'Hurley,1.0,1.0,0.0
-1,2,Kelly Monaco,5.0,5.0,0.0
-1,2,Evander Holyfield,5.0,4.0,1.0
+1,2,Kelly Monaco,5.5,5.0,0.5
+1,2,Evander Holyfield,4.0,4.0,0.0
 1,2,Rachel Hunter,2.0,2.0,0.0
 1,2,Joey McIntyre,3.0,3.0,0.0
-1,2,Trista Sutter,5.0,6.0,-1.0
+1,2,Trista Sutter,5.5,6.0,-0.5
 1,3,John O'Hurley,2.0,2.0,0.0
 1,3,Kelly Monaco,4.0,4.0,0.0
-1,3,Evander Holyfield,6.0,5.0,1.0
+1,3,Evander Holyfield,5.5,5.0,0.5
 1,3,Rachel Hunter,1.0,1.0,0.0
 1,3,Joey McIntyre,3.0,3.0,0.0
-1,3,Trista Sutter,5.0,6.0,-1.0
-1,4,John O'Hurley,5.0,4.0,1.0
+1,3,Trista Sutter,5.5,6.0,-0.5
+1,4,John O'Hurley,5.0,3.0,2.0
 1,4,Kelly Monaco,1.0,1.0,0.0
 1,4,Evander Holyfield,3.0,6.0,-3.0
-1,4,Rachel Hunter,5.0,3.0,2.0
+1,4,Rachel Hunter,5.0,4.0,1.0
 1,4,Joey McIntyre,5.0,2.0,3.0
 1,4,Trista Sutter,2.0,5.0,-3.0
 2,1,Tatum O'Neal,2.0,2.0,0.0
@@ -39,20 +39,20 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 2,2,Kenny Mayne,8.0,10.0,-2.0
 2,4,Tatum O'Neal,10.0,9.0,1.0
 2,4,Tia Carrere,4.0,4.0,0.0
-2,4,George Hamilton,6.0,6.0,0.0
+2,4,George Hamilton,6.5,6.0,0.5
 2,4,Lisa Rinna,2.0,2.0,0.0
 2,4,Stacy Keibler,3.0,3.0,0.0
 2,4,Jerry Rice,5.0,5.0,0.0
-2,4,Giselle Fernandez,8.5,8.0,0.5
-2,4,Master P,8.5,10.0,-1.5
+2,4,Giselle Fernandez,8.0,8.0,0.0
+2,4,Master P,9.0,10.0,-1.0
 2,4,Drew Lachey,1.0,1.0,0.0
-2,4,Kenny Mayne,7.0,7.0,0.0
+2,4,Kenny Mayne,6.5,7.0,-0.5
 2,5,Tatum O'Neal,10.0,10.0,0.0
 2,5,Tia Carrere,9.0,6.0,3.0
-2,5,George Hamilton,4.0,4.0,0.0
+2,5,George Hamilton,4.5,4.0,0.5
 2,5,Lisa Rinna,3.0,3.0,0.0
 2,5,Stacy Keibler,1.5,1.0,0.5
-2,5,Jerry Rice,5.0,5.0,0.0
+2,5,Jerry Rice,4.5,5.0,-0.5
 2,5,Giselle Fernandez,8.0,9.0,-1.0
 2,5,Master P,7.0,8.0,-1.0
 2,5,Drew Lachey,1.5,2.0,-0.5
@@ -1849,26 +1849,26 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 28,4,Ally Brooke,3.0,3.0,0.0
 28,4,Karamo Brown,6.0,6.0,0.0
 28,4,Hannah Brown,2.0,2.0,0.0
-28,7,Kate Flannery,7.5,6.0,1.5
+28,7,Kate Flannery,5.0,5.0,0.0
 28,7,James Van Der Beek,1.0,1.0,0.0
-28,7,Kel Mitchell,5.0,5.0,0.0
+28,7,Kel Mitchell,7.0,6.0,1.0
 28,7,Ray Lewis,12.0,12.0,0.0
-28,7,Lamar Odom,6.0,9.0,-3.0
-28,7,Sailor Brinkley-Cook,9.0,10.0,-1.0
-28,7,Sean Spicer,7.5,7.0,0.5
-28,7,Mary Wilson,11.0,11.0,0.0
-28,7,Lauren Alaina,2.0,2.0,0.0
-28,7,Ally Brooke,3.5,4.0,-0.5
+28,7,Lamar Odom,9.0,10.0,-1.0
+28,7,Sailor Brinkley-Cook,11.0,11.0,0.0
+28,7,Sean Spicer,8.0,7.0,1.0
+28,7,Mary Wilson,6.0,9.0,-3.0
+28,7,Lauren Alaina,3.0,3.0,0.0
+28,7,Ally Brooke,2.0,2.0,0.0
 28,7,Karamo Brown,10.0,8.0,2.0
-28,7,Hannah Brown,3.5,3.0,0.5
-28,9,Kate Flannery,10.0,10.0,0.0
+28,7,Hannah Brown,4.0,4.0,0.0
+28,9,Kate Flannery,7.0,8.0,-1.0
 28,9,James Van Der Beek,3.0,3.0,0.0
 28,9,Kel Mitchell,2.0,2.0,0.0
-28,9,Ray Lewis,12.0,12.0,0.0
-28,9,Lamar Odom,11.0,11.0,0.0
-28,9,Sailor Brinkley-Cook,6.0,7.0,-1.0
+28,9,Ray Lewis,10.0,10.0,0.0
+28,9,Lamar Odom,6.0,7.0,-1.0
+28,9,Sailor Brinkley-Cook,12.0,12.0,0.0
 28,9,Sean Spicer,9.0,6.0,3.0
-28,9,Mary Wilson,7.0,8.0,-1.0
+28,9,Mary Wilson,11.0,11.0,0.0
 28,9,Lauren Alaina,5.0,5.0,0.0
 28,9,Ally Brooke,1.0,1.0,0.0
 28,9,Karamo Brown,8.0,9.0,-1.0
@@ -1933,36 +1933,36 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 29,5,Carole Baskin,15.0,15.0,0.0
 29,5,Monica Aldama,4.0,4.0,0.0
 29,5,Jeannie Mai,9.0,9.0,0.0
-29,6,Anne Heche,14.0,14.0,0.0
+29,6,Anne Heche,11.0,12.0,-1.0
 29,6,Jesse Metcalfe,12.0,13.0,-1.0
 29,6,Chrishell Stause,8.0,8.0,0.0
-29,6,Skai Jackson,11.0,10.0,1.0
-29,6,Justina Machado,1.0,1.0,0.0
-29,6,Charles Oakley,10.0,12.0,-2.0
+29,6,Skai Jackson,10.0,10.0,0.0
+29,6,Justina Machado,2.0,2.0,0.0
+29,6,Charles Oakley,14.0,14.0,0.0
 29,6,Veron Davis,13.0,11.0,2.0
 29,6,Johnny Weir,9.0,9.0,0.0
-29,6,Nev Schulman,5.0,4.0,1.0
-29,6,AJ McLean,4.0,5.0,-1.0
+29,6,Nev Schulman,5.0,5.0,0.0
+29,6,AJ McLean,4.0,4.0,0.0
 29,6,Nelly,7.0,7.0,0.0
 29,6,Kaitlyn Bristowe,3.0,3.0,0.0
 29,6,Carole Baskin,15.0,15.0,0.0
-29,6,Monica Aldama,2.0,2.0,0.0
+29,6,Monica Aldama,1.0,1.0,0.0
 29,6,Jeannie Mai,6.0,6.0,0.0
 29,7,Anne Heche,10.0,11.0,-1.0
 29,7,Jesse Metcalfe,12.5,13.0,-0.5
 29,7,Chrishell Stause,7.0,7.0,0.0
 29,7,Skai Jackson,2.0,2.0,0.0
 29,7,Justina Machado,5.0,5.0,0.0
-29,7,Charles Oakley,11.0,12.0,-1.0
-29,7,Veron Davis,14.0,14.0,0.0
+29,7,Charles Oakley,14.0,14.0,0.0
+29,7,Veron Davis,11.0,12.0,-1.0
 29,7,Johnny Weir,4.0,4.0,0.0
 29,7,Nev Schulman,1.0,1.0,0.0
 29,7,AJ McLean,6.0,6.0,0.0
 29,7,Nelly,3.0,3.0,0.0
-29,7,Kaitlyn Bristowe,8.0,9.0,-1.0
+29,7,Kaitlyn Bristowe,9.0,9.0,0.0
 29,7,Carole Baskin,15.0,15.0,0.0
 29,7,Monica Aldama,12.5,10.0,2.5
-29,7,Jeannie Mai,9.0,8.0,1.0
+29,7,Jeannie Mai,8.0,8.0,0.0
 30,2,Martin Kove,15.0,15.0,0.0
 30,2,Brian Austin Green,13.0,13.0,0.0
 30,2,Melora Hardin,6.0,6.0,0.0
@@ -1979,20 +1979,20 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 30,2,Kenya Moore,11.0,11.0,0.0
 30,2,Amanda Kloots,1.0,1.0,0.0
 30,3,Martin Kove,15.0,15.0,0.0
-30,3,Brian Austin Green,13.5,11.0,2.5
-30,3,Melora Hardin,4.0,5.0,-1.0
-30,3,Matt James,11.0,12.0,-1.0
-30,3,"Mike ""The Miz"" Mizanin",6.0,6.0,0.0
-30,3,Suni Lee,7.0,7.0,0.0
-30,3,Iman Shumpert,9.0,9.0,0.0
-30,3,Cody Rigsby,10.0,10.0,0.0
-30,3,Melanie C,5.0,4.0,1.0
-30,3,Jimmie Allen,13.5,13.0,0.5
-30,3,Olivia Jade,1.0,1.0,0.0
-30,3,JoJo Siwa,3.0,3.0,0.0
-30,3,Christine Chiu,12.0,14.0,-2.0
-30,3,Kenya Moore,8.0,8.0,0.0
-30,3,Amanda Kloots,2.0,2.0,0.0
+30,3,Brian Austin Green,9.0,8.0,1.0
+30,3,Melora Hardin,4.0,4.0,0.0
+30,3,Matt James,14.0,12.0,2.0
+30,3,"Mike ""The Miz"" Mizanin",6.0,7.0,-1.0
+30,3,Suni Lee,8.0,9.0,-1.0
+30,3,Iman Shumpert,11.5,11.0,0.5
+30,3,Cody Rigsby,13.0,13.0,0.0
+30,3,Melanie C,5.0,5.0,0.0
+30,3,Jimmie Allen,11.5,10.0,1.5
+30,3,Olivia Jade,3.0,3.0,0.0
+30,3,JoJo Siwa,2.0,2.0,0.0
+30,3,Christine Chiu,10.0,14.0,-4.0
+30,3,Kenya Moore,7.0,6.0,1.0
+30,3,Amanda Kloots,1.0,1.0,0.0
 30,4,Martin Kove,13.0,14.0,-1.0
 30,4,Brian Austin Green,14.0,13.0,1.0
 30,4,Melora Hardin,1.0,1.0,0.0
@@ -2008,35 +2008,35 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 30,4,Christine Chiu,15.0,15.0,0.0
 30,4,Kenya Moore,10.0,10.0,0.0
 30,4,Amanda Kloots,5.0,5.0,0.0
-30,6,Martin Kove,12.5,13.0,-0.5
-30,6,Brian Austin Green,11.0,12.0,-1.0
+30,6,Martin Kove,11.0,12.0,-1.0
+30,6,Brian Austin Green,10.0,11.0,-1.0
 30,6,Melora Hardin,8.0,8.0,0.0
 30,6,Matt James,14.0,14.0,0.0
 30,6,"Mike ""The Miz"" Mizanin",9.0,9.0,0.0
 30,6,Suni Lee,6.0,6.0,0.0
-30,6,Iman Shumpert,1.0,1.0,0.0
+30,6,Iman Shumpert,2.0,2.0,0.0
 30,6,Cody Rigsby,7.0,7.0,0.0
-30,6,Melanie C,10.0,11.0,-1.0
+30,6,Melanie C,12.5,13.0,-0.5
 30,6,Jimmie Allen,3.0,3.0,0.0
 30,6,Olivia Jade,5.0,5.0,0.0
-30,6,JoJo Siwa,2.0,2.0,0.0
+30,6,JoJo Siwa,1.0,1.0,0.0
 30,6,Christine Chiu,15.0,15.0,0.0
 30,6,Kenya Moore,12.5,10.0,2.5
 30,6,Amanda Kloots,4.0,4.0,0.0
-30,7,Martin Kove,11.0,12.0,-1.0
-30,7,Brian Austin Green,13.0,13.0,0.0
+30,7,Martin Kove,14.0,14.0,0.0
+30,7,Brian Austin Green,11.0,12.0,-1.0
 30,7,Melora Hardin,3.0,3.0,0.0
-30,7,Matt James,15.0,15.0,0.0
+30,7,Matt James,13.0,13.0,0.0
 30,7,"Mike ""The Miz"" Mizanin",12.0,9.0,3.0
 30,7,Suni Lee,8.0,8.0,0.0
 30,7,Iman Shumpert,6.0,6.0,0.0
-30,7,Cody Rigsby,5.0,5.0,0.0
+30,7,Cody Rigsby,4.0,5.0,-1.0
 30,7,Melanie C,10.0,11.0,-1.0
-30,7,Jimmie Allen,4.0,4.0,0.0
-30,7,Olivia Jade,2.0,1.0,1.0
-30,7,JoJo Siwa,1.0,2.0,-1.0
+30,7,Jimmie Allen,5.0,4.0,1.0
+30,7,Olivia Jade,1.5,2.0,-0.5
+30,7,JoJo Siwa,1.5,1.0,0.5
 30,7,Christine Chiu,9.0,10.0,-1.0
-30,7,Kenya Moore,14.0,14.0,0.0
+30,7,Kenya Moore,15.0,15.0,0.0
 30,7,Amanda Kloots,7.0,7.0,0.0
 31,1,Jason Lewis,15.5,16.0,-0.5
 31,1,Cheryl Ladd,11.0,11.0,0.0
@@ -2102,22 +2102,22 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 31,4,Vinny Guadagnino,9.0,9.0,0.0
 31,4,Shangela,7.0,7.0,0.0
 31,4,Gabby Windey,3.0,3.0,0.0
-31,5,Jason Lewis,15.0,15.0,0.0
-31,5,Cheryl Ladd,11.0,13.0,-2.0
-31,5,Selma Blair,3.0,4.0,-1.0
-31,5,Joseph Baena,14.0,12.0,2.0
+31,5,Jason Lewis,11.0,13.0,-2.0
+31,5,Cheryl Ladd,14.0,15.0,-1.0
+31,5,Selma Blair,5.0,5.0,0.0
+31,5,Joseph Baena,13.0,12.0,1.0
 31,5,Trevor Donovan,7.0,7.0,0.0
 31,5,Daniel Durant,10.0,10.0,0.0
 31,5,Wayne Brady,2.0,2.0,0.0
-31,5,Sam Champion,13.0,14.0,-1.0
-31,5,Jessie James Decker,9.0,9.0,0.0
-31,5,Jordin Sparks,8.0,8.0,0.0
-31,5,Heidi D'Amelio,5.0,5.0,0.0
+31,5,Sam Champion,12.0,14.0,-2.0
+31,5,Jessie James Decker,8.0,9.0,-1.0
+31,5,Jordin Sparks,9.0,8.0,1.0
+31,5,Heidi D'Amelio,4.0,4.0,0.0
 31,5,Charli D'Amelio,1.0,1.0,0.0
 31,5,Teresa Giudice,16.0,16.0,0.0
-31,5,Vinny Guadagnino,12.0,11.0,1.0
+31,5,Vinny Guadagnino,15.0,11.0,4.0
 31,5,Shangela,6.0,6.0,0.0
-31,5,Gabby Windey,4.0,3.0,1.0
+31,5,Gabby Windey,3.0,3.0,0.0
 32,1,Jamie Lynn Spears,10.0,10.0,0.0
 32,1,Mira Sorvino,7.0,7.0,0.0
 32,1,Barry Williams,8.0,8.0,0.0
@@ -2132,9 +2132,9 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 32,1,Mauricio Umansky,9.0,9.0,0.0
 32,1,Charity Lawson,1.0,1.0,0.0
 32,1,Ariana Madix,3.0,3.0,0.0
-32,2,Jamie Lynn Spears,12.5,13.0,-0.5
+32,2,Jamie Lynn Spears,11.5,13.0,-1.5
 32,2,Mira Sorvino,8.0,8.0,0.0
-32,2,Barry Williams,10.5,10.0,0.5
+32,2,Barry Williams,10.0,10.0,0.0
 32,2,Alyson Hannigan,6.0,6.0,0.0
 32,2,Xochitl Gomez,1.0,1.0,0.0
 32,2,Adrian Peterson,9.0,9.0,0.0
@@ -2142,8 +2142,8 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 32,2,Tyson Beckford,7.0,7.0,0.0
 32,2,Jason Mraz,2.0,2.0,0.0
 32,2,Lele Pons,3.0,3.0,0.0
-32,2,Harry Jowsey,12.5,11.0,1.5
-32,2,Mauricio Umansky,10.5,12.0,-1.5
+32,2,Harry Jowsey,11.5,11.0,0.5
+32,2,Mauricio Umansky,13.0,12.0,1.0
 32,2,Charity Lawson,4.0,4.0,0.0
 32,2,Ariana Madix,5.0,5.0,0.0
 32,3,Jamie Lynn Spears,14.0,14.0,0.0
@@ -2162,17 +2162,17 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 32,3,Ariana Madix,1.0,1.0,0.0
 32,5,Jamie Lynn Spears,12.0,12.0,0.0
 32,5,Mira Sorvino,11.0,10.0,1.0
-32,5,Barry Williams,4.0,4.0,0.0
-32,5,Alyson Hannigan,8.0,8.0,0.0
+32,5,Barry Williams,5.0,5.0,0.0
+32,5,Alyson Hannigan,10.0,9.0,1.0
 32,5,Xochitl Gomez,1.0,1.0,0.0
 32,5,Adrian Peterson,13.0,13.0,0.0
 32,5,Matt Walsh,14.0,14.0,0.0
 32,5,Tyson Beckford,9.0,11.0,-2.0
-32,5,Jason Mraz,3.0,2.0,1.0
+32,5,Jason Mraz,3.0,3.0,0.0
 32,5,Lele Pons,7.0,7.0,0.0
-32,5,Harry Jowsey,10.0,9.0,1.0
-32,5,Mauricio Umansky,5.0,5.0,0.0
-32,5,Charity Lawson,2.0,3.0,-1.0
+32,5,Harry Jowsey,8.0,8.0,0.0
+32,5,Mauricio Umansky,4.0,4.0,0.0
+32,5,Charity Lawson,2.0,2.0,0.0
 32,5,Ariana Madix,6.0,6.0,0.0
 33,2,Tori Spelling,11.0,13.0,-2.0
 33,2,Eric Roberts,13.0,12.0,1.0
@@ -2201,15 +2201,15 @@ Season,Week,Contestant,Rank_System_Place,Percent_System_Place,Diff
 33,3,Jenn Tran,3.0,3.0,0.0
 33,3,Joey Graziadei,1.0,1.0,0.0
 33,4,Tori Spelling,12.0,12.0,0.0
-33,4,Eric Roberts,10.0,11.0,-1.0
+33,4,Eric Roberts,9.0,11.0,-2.0
 33,4,Reginald VelJohnson,8.0,10.0,-2.0
 33,4,Chandler Kinney,4.0,4.0,0.0
-33,4,Dwight Howard ,11.0,8.0,3.0
-33,4,Danny Amendola,2.0,2.0,0.0
-33,4,Stephen Nedoroscik,3.0,3.0,0.0
+33,4,Dwight Howard ,10.5,8.0,2.5
+33,4,Danny Amendola,3.0,2.0,1.0
+33,4,Stephen Nedoroscik,2.0,3.0,-1.0
 33,4,Ilona Maher,7.0,7.0,0.0
 33,4,Anna Delvey,13.0,13.0,0.0
-33,4,Brooks Nader,9.0,9.0,0.0
+33,4,Brooks Nader,10.5,9.0,1.5
 33,4,Phaedra Parks,5.0,5.0,0.0
 33,4,Jenn Tran,6.0,6.0,0.0
 33,4,Joey Graziadei,1.0,1.0,0.0
