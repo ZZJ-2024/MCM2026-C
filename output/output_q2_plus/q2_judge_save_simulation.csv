@@ -1,265 +1,182 @@
 Season,Week,Standard_Eliminated,Save_System_Eliminated,Is_Reversal
-1,2,Trista Sutter,Kelly Monaco,True
-1,3,Evander Holyfield,Evander Holyfield,False
-1,4,Rachel Hunter,John O'Hurley,True
-2,1,Kenny Mayne,Kenny Mayne,False
+1,2,Kelly Monaco,Kelly Monaco,False
+1,3,Evander Holyfield,Trista Sutter,True
+1,4,Evander Holyfield,Evander Holyfield,False
+2,1,Master P,Master P,False
 2,2,Tatum O'Neal,Master P,True
-2,3,Giselle Fernandez,Giselle Fernandez,False
-2,4,Master P,Master P,False
-2,5,Tia Carrere,Tia Carrere,False
-2,6,George Hamilton,George Hamilton,False
-2,7,Lisa Rinna,Jerry Rice,True
+2,4,Tatum O'Neal,Tatum O'Neal,False
+2,5,Giselle Fernandez,Giselle Fernandez,False
 3,1,Tucker Carlson,Tucker Carlson,False
-3,2,Harry Hamlin,Harry Hamlin,False
-3,3,Jerry Springer,Jerry Springer,False
-3,4,Jerry Springer,Jerry Springer,False
-3,5,Joey Lawrence,Joey Lawrence,False
-3,7,Jerry Springer,Jerry Springer,False
-3,8,Monique Coleman,Monique Coleman,False
+3,2,Jerry Springer,Jerry Springer,False
+3,3,Emmitt Smith,Emmitt Smith,False
+3,4,Sara Evans,Sara Evans,False
+3,5,Sara Evans,Sara Evans,False
 4,2,Shandi Finnessey,Shandi Finnessey,False
-4,3,John Ratzenberger,John Ratzenberger,False
-4,4,Leeza Gibbons,Clyde Drexler,True
-4,5,Clyde Drexler,Clyde Drexler,False
-4,6,Heather Mills,Billy Ray Cyrus,True
+4,3,Clyde Drexler,Clyde Drexler,False
+4,4,Clyde Drexler,Clyde Drexler,False
+4,5,Clyde Drexler,Shandi Finnessey,True
+4,6,John Ratzenberger,John Ratzenberger,False
 4,7,John Ratzenberger,Billy Ray Cyrus,True
-4,8,Billy Ray Cyrus,Billy Ray Cyrus,False
-4,9,Ian Ziering,Ian Ziering,False
+4,8,Billy Ray Cyrus,Shandi Finnessey,True
 5,1,Josie Maran,Josie Maran,False
-5,2,Mark Cuban,Mark Cuban,False
+5,2,Wayne Newton,Wayne Newton,False
 5,3,Wayne Newton,Wayne Newton,False
 5,4,Floyd Mayweather Jr. ,Mark Cuban,True
 5,5,Mark Cuban,Mark Cuban,False
-5,6,Marie Osmond,Marie Osmond,False
+5,6,Jane Seymour,Jane Seymour,False
 5,7,Jane Seymour,Jane Seymour,False
-5,8,Cameron Mathison,Jennie Garth,True
-5,9,Jennie Garth,Marie Osmond,True
 6,2,Monica Seles,Monica Seles,False
-6,3,Steve Guttenberg,Steve Guttenberg,False
-6,4,Adam Carolla,Adam Carolla,False
+6,3,Marissa Jaret Winokur,Marissa Jaret Winokur,False
+6,4,Monica Seles,Monica Seles,False
 6,5,Priscilla Presley,Priscilla Presley,False
 6,6,Marlee Matlin,Marlee Matlin,False
-6,7,Shannon Elizabeth,Shannon Elizabeth,False
-6,8,Jason Taylor,Jason Taylor,False
-6,9,Marissa Jaret Winokur,Marissa Jaret Winokur,False
 7,1,Cloris Leachman,Cloris Leachman,False
-7,2,Kim Kardashian,Rocco DiSpirito,True
+7,2,Cloris Leachman,Cloris Leachman,False
 7,4,Rocco DiSpirito,Rocco DiSpirito,False
 7,5,Cloris Leachman,Cloris Leachman,False
 7,6,Cloris Leachman,Cloris Leachman,False
-7,7,Warren Sapp,Warren Sapp,False
-7,8,Maurice Greene,Maurice Greene,False
-7,9,Cody Linley,Cody Linley,False
-8,2,Steve Wozniak,Steve Wozniak,False
-8,3,Denise Richards,Steve-O,True
-8,4,Steve Wozniak,Steve Wozniak,False
-8,5,Lawrence Taylor,Lawrence Taylor,False
+8,2,David Alan Grier,David Alan Grier,False
+8,3,Steve Wozniak,Steve Wozniak,False
+8,4,Steve Wozniak,Denise Richards,True
+8,5,Steve-O,Steve-O,False
 8,6,Steve-O,Steve-O,False
 8,7,Lawrence Taylor,Lawrence Taylor,False
-8,8,Chuck Wicks,Chuck Wicks,False
-8,9,Lil' Kim,Lil' Kim,False
-8,10,Ty Murray,Ty Murray,False
 9,1,Ashley Hamiliton,Ashley Hamiliton,False
 9,2,Kathy Ireland,Kathy Ireland,False
-9,3,Tom DeLay,Tom DeLay,False
+9,3,Michael Irvin,Michael Irvin,False
 9,4,Chuck Liddell,Louie Vito,True
 9,5,Michael Irvin,Michael Irvin,False
 9,6,Melissa Joan Hart,Michael Irvin,True
-9,7,Mark Dacascos,Mark Dacascos,False
-9,8,Aaron Carter,Aaron Carter,False
-9,9,Donny Osmond,Donny Osmond,False
 10,2,Chad Ochocinco,Kate Gosselin,True
 10,3,Buzz Aldrin,Buzz Aldrin,False
 10,4,Aiden Turner,Kate Gosselin,True
-10,5,Kate Gosselin,Kate Gosselin,False
+10,5,Shannen Doherty,Shannen Doherty,False
 10,6,Jake Pavelka,Jake Pavelka,False
-10,7,Pamela Anderson,Pamela Anderson,False
-10,8,Niecy Nash,Niecy Nash,False
-10,9,Chad Ochocinco,Chad Ochocinco,False
+10,7,Niecy Nash,Niecy Nash,False
 11,1,David Hasselhoff,David Hasselhoff,False
 11,2,Michael Bolton,Michael Bolton,False
 11,3,Margaret Cho,Margaret Cho,False
-11,4,The Situation,The Situation,False
-11,5,Florence Henderson,Kyle Massey,True
+11,4,David Hasselhoff,David Hasselhoff,False
+11,5,Bristol Palin,Bristol Palin,False
 11,6,Bristol Palin,Bristol Palin,False
-11,7,Kyle Massey,Kyle Massey,False
-11,8,Kurt Warner,Bristol Palin,True
-11,9,Brandy,Brandy,False
 12,2,Mike Catherwood,Mike Catherwood,False
 12,3,Wendy Williams,Wendy Williams,False
-12,4,Sugar Ray Leonard,Sugar Ray Leonard,False
+12,4,Sugar Ray Leonard,Kendra Wilkinson,True
 12,5,Petra Nemcova,Petra Nemcova,False
 12,6,Chris Jericho,Chris Jericho,False
 12,7,Kirstie Alley,Kirstie Alley,False
-12,8,Romeo,Romeo,False
-12,9,Ralph Macchio,Ralph Macchio,False
 13,1,Metta World Peace (Ron),Metta World Peace (Ron),False
-13,2,David Arquette,David Arquette,False
-13,3,Nancy Grace,Nancy Grace,False
-13,4,Chynna Phillips,Carson Kressley,True
+13,2,Chaz Bono,Chaz Bono,False
+13,3,Chaz Bono,Chaz Bono,False
+13,4,Carson Kressley,Carson Kressley,False
 13,5,Carson Kressley,Carson Kressley,False
 13,6,Chaz Bono,Chaz Bono,False
-13,7,David Arquette,David Arquette,False
-13,8,Nancy Grace,Nancy Grace,False
-13,9,Hope Solo,Hope Solo,False
+13,7,David Arquette,Chynna Phillips,True
 14,2,Martina Navratilova,Martina Navratilova,False
 14,3,Jack Wagner,Jack Wagner,False
-14,4,Sherri Sheperd,Sherri Sheperd,False
-14,5,Gavin DeGraw,Gavin DeGraw,False
+14,4,Sherri Sheperd,Gladys Knight,True
+14,5,Jack Wagner,Jack Wagner,False
 14,6,Gladys Knight,Gladys Knight,False
-14,7,Jaleel White,Jaleel White,False
-14,8,Maria Menounos,Maria Menounos,False
-14,9,William Levy,Donald Driver,True
+14,7,Jaleel White,Melissa Gilbert,True
 15,1,Pamela Anderson,Pamela Anderson,False
-15,2,Kirstie Alley,Kirstie Alley,False
-15,3,Kirstie Alley,Kirstie Alley,False
+15,2,Bristol Palin,Bristol Palin,False
+15,3,Bristol Palin,Bristol Palin,False
 15,4,Kirstie Alley,Kirstie Alley,False
-15,6,Gilles Marini,Gilles Marini,False
-15,8,Shawn Johnson,Shawn Johnson,False
-15,9,Apolo Anton Ohno,Kelly Monaco,True
+15,6,Emmitt Smith,Emmitt Smith,False
+15,8,Shawn Johnson,Kirstie Alley,True
 16,3,Wynonna Judd,Wynonna Judd,False
 16,4,Lisa Vanderpump,Lisa Vanderpump,False
-16,5,D. L. Hughley,D. L. Hughley,False
+16,5,D. L. Hughley,Dorothy Hamill,True
 16,6,Victor Ortiz,Victor Ortiz,False
 16,7,Andy Dick,Andy Dick,False
 16,8,Sean Lowe,Sean Lowe,False
-16,9,Ingo Rademacher,Ingo Rademacher,False
-16,10,Alexandra Raisman,Jacoby Jones,True
 17,2,Keyshawn Johnson,Bill Nye,True
 17,3,Bill Nye,Bill Nye,False
 17,4,Valerie Harper,Valerie Harper,False
-17,5,Amber Riley,Bill Engvall,True
-17,7,Leah Remini,Leah Remini,False
-17,8,Brant Daugherty,Elizabeth Berkley Lauren,True
-17,9,Amber Riley,Amber Riley,False
-17,10,Leah Remini,Bill Engvall,True
-17,11,Bill Engvall,Bill Engvall,False
+17,5,Leah Remini,Leah Remini,False
+17,7,Bill Engvall,Bill Engvall,False
+17,8,Bill Engvall,Bill Engvall,False
 18,2,Billy Dee Williams,Billy Dee Williams,False
 18,5,Drew Carey,Drew Carey,False
 18,6,Drew Carey,Drew Carey,False
 18,7,NeNe Leakes,NeNe Leakes,False
-18,8,Meryl Davis,Meryl Davis,False
-18,9,Candace Cameron Bure,Candace Cameron Bure,False
-18,10,James Maslow,Candace Cameron Bure,True
 19,1,Lolo Jones,Betsey Johnson,True
-19,2,Tavis Smiley,Tavis Smiley,False
+19,2,Michael Waltrip,Michael Waltrip,False
 19,3,Randy Couture,Randy Couture,False
-19,4,Tommy Chong,Tommy Chong,False
-19,6,Michael Waltrip,Michael Waltrip,False
-19,7,Antonio Sabato Jr.,Antonio Sabato Jr.,False
+19,4,Jonathan Bennett,Jonathan Bennett,False
+19,6,Antonio Sabato Jr.,Antonio Sabato Jr.,False
+19,7,Antonio Sabato Jr.,Michael Waltrip,True
 19,8,Michael Waltrip,Michael Waltrip,False
-19,9,Lea Thompson,Lea Thompson,False
-19,10,Tommy Chong,Tommy Chong,False
-19,11,Bethany Mota,Bethany Mota,False
 20,2,Charlotte McKinney,Charlotte McKinney,False
 20,3,Charlotte McKinney,Charlotte McKinney,False
-20,4,Suzanne Somers,Suzanne Somers,False
-20,5,Chris Soules,Chris Soules,False
-20,6,Patti LaBelle,Robert Herjavec,True
-20,7,Riker Lynch,Riker Lynch,False
+20,4,Chris Soules,Chris Soules,False
+20,5,Robert Herjavec,Robert Herjavec,False
+20,6,Robert Herjavec,Robert Herjavec,False
+20,7,Robert Herjavec,Robert Herjavec,False
 20,8,Robert Herjavec,Robert Herjavec,False
-20,9,Rumer Willis,Rumer Willis,False
 21,2,Gary Busey,Gary Busey,False
-21,4,Gary Busey,Gary Busey,False
-21,6,Paula Deen,Paula Deen,False
+21,4,Chaka Khan,Chaka Khan,False
+21,6,Gary Busey,Gary Busey,False
 21,7,Alek Skarlatos,Alek Skarlatos,False
 21,8,Andy Grammer,Andy Grammer,False
-21,9,Tamar Braxton,Tamar Braxton,False
-21,11,Alek Skarlatos,Alek Skarlatos,False
 22,2,Geraldo Rivera,Geraldo Rivera,False
 22,3,Mischa Barton,Mischa Barton,False
-22,4,Jodie Sweetin,Jodie Sweetin,False
+22,4,Doug Flutie,Doug Flutie,False
 22,6,Doug Flutie,Doug Flutie,False
-22,7,Kim Fields,Jodie Sweetin,True
-22,8,Antonio Brown,Antonio Brown,False
-22,9,Antonio Brown,Antonio Brown,False
+22,7,Jodie Sweetin,Jodie Sweetin,False
 23,2,Jake T. Austin,Jake T. Austin,False
 23,3,Rick Perry,Rick Perry,False
 23,4,Babyface,Babyface,False
 23,6,Amber Rose,Amber Rose,False
-23,7,Maureen McCormick,Marilu Henner,True
+23,7,Marilu Henner,Marilu Henner,False
 23,8,Marilu Henner,Marilu Henner,False
-23,9,Marilu Henner,Marilu Henner,False
-23,10,Jana Kramer,Jana Kramer,False
-23,11,Jana Kramer,Jana Kramer,False
 24,2,Chris Kattan,Chris Kattan,False
 24,3,Charo,Charo,False
 24,4,Mr. T,Mr. T,False
-24,5,Bonner Bolton,Bonner Bolton,False
-24,6,Nancy Kerrigan,Bonner Bolton,True
-24,7,Nancy Kerrigan,David Ross,True
-24,8,Bonner Bolton,Bonner Bolton,False
-24,9,Normani,Normani,False
+24,5,David Ross,David Ross,False
+24,6,Nick Viall,Nick Viall,False
+24,7,Bonner Bolton,Bonner Bolton,False
 25,2,Barbara Corcoran,Barbara Corcoran,False
-25,4,Derek Fisher,Derek Fisher,False
-25,5,Sasha Pieterse,Sasha Pieterse,False
+25,4,Derek Fisher,Nick Lachey,True
+25,5,Nick Lachey,Nick Lachey,False
 25,6,Nick Lachey,Nick Lachey,False
 25,7,Nikki Bella,Nikki Bella,False
-25,8,Terrell Owens,Victoria Arlen,True
-25,9,Frankie Muniz,Frankie Muniz,False
-25,10,Drew Scott,Drew Scott,False
 26,1,Jamie Anderson,Johnny Damon,True
 26,2,Kareem Abdul-Jabbar,Kareem Abdul-Jabbar,False
 26,3,Jennie Finch Daigle,Jennie Finch Daigle,False
 27,1,Nikki Glaser,Nikki Glaser,False
 27,2,Danelle Umstead,Joe Amabile,True
-27,3,Nancy McKeon,John Schneider,True
-27,4,John Schneider,Bobby Bones,True
-27,6,Bobby Bones,Bobby Bones,False
-27,7,John Schneider,DeMarcus Ware,True
-27,8,Milo Manheim,Milo Manheim,False
-28,2,Mary Wilson,Mary Wilson,False
-28,4,Lamar Odom,Lamar Odom,False
-28,6,Sean Spicer,Sean Spicer,False
-28,7,Sean Spicer,Sean Spicer,False
-28,8,Sean Spicer,Sean Spicer,False
-28,9,Sean Spicer,Sean Spicer,False
-28,10,James Van Der Beek,James Van Der Beek,False
+27,3,Joe Amabile,Joe Amabile,False
+27,4,Joe Amabile,Joe Amabile,False
+27,6,John Schneider,John Schneider,False
+27,7,Joe Amabile,Joe Amabile,False
+28,2,Lamar Odom,Lamar Odom,False
+28,4,Ray Lewis,Ray Lewis,False
+28,7,Lamar Odom,Lamar Odom,False
+28,9,Karamo Brown,Karamo Brown,False
 29,2,Charles Oakley,Charles Oakley,False
-29,3,Carole Baskin,Carole Baskin,False
-29,4,Anne Heche,Anne Heche,False
-29,5,Jesse Metcalfe,Jesse Metcalfe,False
-29,6,Veron Davis,Veron Davis,False
-29,7,Monica Aldama,Monica Aldama,False
-29,8,Nelly,Nelly,False
-29,9,AJ McLean,Nelly,True
-29,10,Nelly,Nelly,False
+29,3,Charles Oakley,Charles Oakley,False
+29,4,Carole Baskin,Carole Baskin,False
+29,5,Carole Baskin,Carole Baskin,False
+29,6,Carole Baskin,Carole Baskin,False
+29,7,Carole Baskin,Carole Baskin,False
 30,2,Martin Kove,Martin Kove,False
-30,3,Brian Austin Green,Brian Austin Green,False
-30,4,Brian Austin Green,Brian Austin Green,False
-30,5,"Mike ""The Miz"" Mizanin","Mike ""The Miz"" Mizanin",False
-30,6,Kenya Moore,Kenya Moore,False
-30,7,"Mike ""The Miz"" Mizanin","Mike ""The Miz"" Mizanin",False
-30,8,Jimmie Allen,Jimmie Allen,False
-30,9,Melora Hardin,Cody Rigsby,True
+30,3,Martin Kove,Martin Kove,False
+30,4,Christine Chiu,Christine Chiu,False
+30,6,Christine Chiu,Christine Chiu,False
+30,7,Kenya Moore,Kenya Moore,False
 31,1,Jason Lewis,Vinny Guadagnino,True
-31,2,Teresa Giudice,Cheryl Ladd,True
-31,3,Cheryl Ladd,Vinny Guadagnino,True
-31,4,Sam Champion,Sam Champion,False
-31,5,Joseph Baena,Daniel Durant,True
-31,6,Jessie James Decker,Vinny Guadagnino,True
-31,7,Jordin Sparks,Vinny Guadagnino,True
-31,8,Heidi D'Amelio,Vinny Guadagnino,True
-31,9,Trevor Donovan,Trevor Donovan,False
+31,2,Jason Lewis,Jason Lewis,False
+31,3,Teresa Giudice,Teresa Giudice,False
+31,4,Teresa Giudice,Teresa Giudice,False
+31,5,Teresa Giudice,Teresa Giudice,False
 32,1,Matt Walsh,Matt Walsh,False
-32,2,Barry Williams,Barry Williams,False
-32,3,Tyson Beckford,Tyson Beckford,False
-32,4,Mauricio Umansky,Mauricio Umansky,False
-32,5,Mira Sorvino,Alyson Hannigan,True
-32,6,Alyson Hannigan,Alyson Hannigan,False
-32,7,Alyson Hannigan,Alyson Hannigan,False
-32,8,Barry Williams,Jason Mraz,True
-32,9,Harry Jowsey,Harry Jowsey,False
-33,2,Anna Delvey,Anna Delvey,False
-33,3,Eric Roberts,Reginald VelJohnson,True
-33,4,Brooks Nader,Brooks Nader,False
-33,5,Phaedra Parks,Phaedra Parks,False
-33,6,Stephen Nedoroscik,Stephen Nedoroscik,False
-33,7,Dwight Howard ,Dwight Howard ,False
+32,2,Matt Walsh,Matt Walsh,False
+32,3,Jamie Lynn Spears,Jamie Lynn Spears,False
+32,5,Matt Walsh,Matt Walsh,False
+33,2,Eric Roberts,Eric Roberts,False
+33,3,Anna Delvey,Anna Delvey,False
+33,4,Anna Delvey,Anna Delvey,False
 34,2,Corey Feldman,Corey Feldman,False
-34,3,Lauren Jauregui,Lauren Jauregui,False
-34,4,Danielle Fishel,Danielle Fishel,False
-34,6,Andy Richter,Andy Richter,False
-34,7,Elaine Hendrix,Elaine Hendrix,False
-34,8,Danielle Fishel,Danielle Fishel,False
-34,9,Andy Richter,Andy Richter,False
-34,10,Elaine Hendrix,Elaine Hendrix,False
+34,3,Baron Davis,Baron Davis,False
+34,6,Lauren Jauregui,Lauren Jauregui,False
